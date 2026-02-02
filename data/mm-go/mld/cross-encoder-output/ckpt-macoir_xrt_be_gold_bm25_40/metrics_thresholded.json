@@ -1,0 +1,35 @@
+{
+  "topk": 100,
+  "threshold_tuned_on_dev": 5.743065357208252,
+  "dev_best": {
+    "P": 0.5454545454545454,
+    "R": 0.4696969696969697,
+    "F1": 0.5047489823609226
+  },
+  "set_micro_metrics_thresholded": {
+    "dev": {
+      "TP": 372,
+      "FP": 310,
+      "FN": 420,
+      "P": 0.5454545454545454,
+      "R": 0.4696969696969697,
+      "F1": 0.5047489823609226
+    },
+    "test": {
+      "TP": 343,
+      "FP": 296,
+      "FN": 417,
+      "P": 0.5367762128325508,
+      "R": 0.4513157894736842,
+      "F1": 0.4903502501786991
+    }
+  },
+  "outputs": {
+    "dev_topk": "data/mm-go/mld/cross-encoder-output/ckpt/dev_top100.json",
+    "test_topk": "data/mm-go/mld/cross-encoder-output/ckpt/test_top100.json",
+    "dev_thresholded": "data/mm-go/mld/cross-encoder-output/ckpt/dev_thresholded.json",
+    "test_thresholded": "data/mm-go/mld/cross-encoder-output/ckpt/test_thresholded.json",
+    "train_thresholded": null,
+    "all_thresholded": "data/mm-go/mld/cross-encoder-output/ckpt/predictions_all_thresholded.json"
+  }
+}

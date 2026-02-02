@@ -1,0 +1,35 @@
+{
+  "mode": "thresholded",
+  "topk": 100,
+  "with_score": true,
+  "threshold_tuned_on_dev": 0.5492725501130352,
+  "dev_threshold_stats": {
+    "P": 0.19425287356321838,
+    "R": 0.21338383838383837,
+    "F1": 0.20336943441636582
+  },
+  "set_micro_metrics": {
+    "dev": {
+      "TP": 169,
+      "FP": 701,
+      "FN": 623,
+      "P": 0.19425287356321838,
+      "R": 0.21338383838383837,
+      "F1": 0.20336943441636582
+    },
+    "test": {
+      "TP": 147,
+      "FP": 610,
+      "FN": 613,
+      "P": 0.19418758256274768,
+      "R": 0.19342105263157894,
+      "F1": 0.19380355965721818
+    }
+  },
+  "outputs": {
+    "dev": "data/mm-go/mld/bi-encoder-output/dev_thresholded.json",
+    "test": "data/mm-go/mld/bi-encoder-output/test_thresholded.json",
+    "train": "data/mm-go/mld/bi-encoder-output/train_thresholded.json",
+    "all": "data/mm-go/mld/bi-encoder-output/predictions_all_thresholded.json"
+  }
+}

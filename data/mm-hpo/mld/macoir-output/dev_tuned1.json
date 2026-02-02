@@ -1,0 +1,7846 @@
+{
+  "26797704": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27061776": {
+    "gold": [
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      },
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ]
+  },
+  "27131339": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0002745",
+        "name": "Oral leukoplakia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27213687": {
+    "gold": [
+      {
+        "id": "HP_0000563",
+        "name": "Keratoconus"
+      },
+      {
+        "id": "HP_0031792",
+        "name": "Irregular astigmatism"
+      },
+      {
+        "id": "HP_0000505",
+        "name": "Visual impairment"
+      },
+      {
+        "id": "HP_0000559",
+        "name": "Corneal scarring"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025610",
+        "name": "Posterior blepharitis"
+      }
+    ]
+  },
+  "27236780": {
+    "gold": [
+      {
+        "id": "HP_0002144",
+        "name": "Tethered cord"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012658",
+        "name": "Abnormal brain FDG positron emission tomography"
+      }
+    ]
+  },
+  "27237301": {
+    "gold": [
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      },
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      },
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      },
+      {
+        "id": "HP_0009725",
+        "name": "Bladder neoplasm"
+      }
+    ]
+  },
+  "27239445": {
+    "gold": [
+      {
+        "id": "HP_0001402",
+        "name": "Hepatocellular carcinoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "27240560": {
+    "gold": [
+      {
+        "id": "HP_0025502",
+        "name": "Overweight"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27242761": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": []
+  },
+  "27244222": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27251918": {
+    "gold": [
+      {
+        "id": "HP_0005110",
+        "name": "Atrial fibrillation"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0002870",
+        "name": "Obstructive sleep apnea"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27252074": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27257613": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      },
+      {
+        "id": "HP_0000726",
+        "name": "Dementia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001944",
+        "name": "Dehydration"
+      }
+    ]
+  },
+  "27257694": {
+    "gold": [
+      {
+        "id": "HP_0033675",
+        "name": "Frailty"
+      },
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      },
+      {
+        "id": "HP_0025413",
+        "name": "Fossa navicularis urethral stricture"
+      }
+    ]
+  },
+  "27266840": {
+    "gold": [
+      {
+        "id": "HP_0031846",
+        "name": "Femur fracture"
+      },
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27271770": {
+    "gold": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ]
+  },
+  "27273160": {
+    "gold": [
+      {
+        "id": "HP_0007269",
+        "name": "Spinal muscular atrophy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007269",
+        "name": "Spinal muscular atrophy"
+      }
+    ]
+  },
+  "27274281": {
+    "gold": [
+      {
+        "id": "HP_0012378",
+        "name": "Fatigue"
+      },
+      {
+        "id": "HP_0002014",
+        "name": "Diarrhea"
+      }
+    ],
+    "pred": []
+  },
+  "27277750": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0030692",
+        "name": "Brain neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27278134": {
+    "gold": [
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      },
+      {
+        "id": "HP_0033678",
+        "name": "Acute coronary syndrome"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      }
+    ]
+  },
+  "27279861": {
+    "gold": [
+      {
+        "id": "HP_0002885",
+        "name": "Medulloblastoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27285457": {
+    "gold": [
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ]
+  },
+  "27314612": {
+    "gold": [
+      {
+        "id": "HP_0004845",
+        "name": "Acute monocytic leukemia"
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0004836",
+        "name": "Acute promyelocytic leukemia"
+      },
+      {
+        "id": "HP_0006721",
+        "name": "Acute lymphoblastic leukemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001901",
+        "name": "Polycythemia"
+      },
+      {
+        "id": "HP_0032378",
+        "name": "Immediate-type hypersensitivity drug reaction"
+      }
+    ]
+  },
+  "27318553": {
+    "gold": [
+      {
+        "id": "HP_0002018",
+        "name": "Nausea"
+      },
+      {
+        "id": "HP_0002321",
+        "name": "Vertigo"
+      }
+    ],
+    "pred": []
+  },
+  "27319985": {
+    "gold": [
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      },
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ]
+  },
+  "27321338": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27322653": {
+    "gold": [
+      {
+        "id": "HP_0008480",
+        "name": "Cervical spondylosis"
+      },
+      {
+        "id": "HP_0011986",
+        "name": "Ectopic ossification"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27334522": {
+    "gold": [
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      },
+      {
+        "id": "HP_0001645",
+        "name": "Sudden cardiac death"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "27337390": {
+    "gold": [
+      {
+        "id": "HP_0031273",
+        "name": "Shock"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0032906",
+        "name": "Focal head nodding automatism seizure"
+      }
+    ]
+  },
+  "27346336": {
+    "gold": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "27347792": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0001268",
+        "name": "Mental deterioration"
+      },
+      {
+        "id": "HP_0000726",
+        "name": "Dementia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033006",
+        "name": "Diffuse alveolar damage"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27348285": {
+    "gold": [
+      {
+        "id": "HP_0002099",
+        "name": "Asthma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002099",
+        "name": "Asthma"
+      }
+    ]
+  },
+  "27348711": {
+    "gold": [
+      {
+        "id": "HP_0003193",
+        "name": "Allergic rhinitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003193",
+        "name": "Allergic rhinitis"
+      }
+    ]
+  },
+  "27354219": {
+    "gold": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      },
+      {
+        "id": "HP_0002725",
+        "name": "Systemic lupus erythematosus"
+      },
+      {
+        "id": "HP_0002960",
+        "name": "Autoimmunity"
+      },
+      {
+        "id": "HP_0000099",
+        "name": "Glomerulonephritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      }
+    ]
+  },
+  "27354640": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27355356": {
+    "gold": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      },
+      {
+        "id": "HP_0002527",
+        "name": "Falls"
+      }
+    ],
+    "pred": []
+  },
+  "27357626": {
+    "gold": [
+      {
+        "id": "HP_0002861",
+        "name": "Melanoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27364501": {
+    "gold": [
+      {
+        "id": "HP_0033770",
+        "name": "Gastric adenocarcinoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27364610": {
+    "gold": [
+      {
+        "id": "HP_0030079",
+        "name": "Cervix cancer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27374165": {
+    "gold": [
+      {
+        "id": "HP_0002354",
+        "name": "Memory impairment"
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27375918": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      },
+      {
+        "id": "HP_0007354",
+        "name": "Amyotrophic lateral sclerosis"
+      },
+      {
+        "id": "HP_0002145",
+        "name": "Frontotemporal dementia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0011933",
+        "name": "Elongated superior cerebellar peduncle"
+      }
+    ]
+  },
+  "27378028": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "27378927": {
+    "gold": [
+      {
+        "id": "HP_0001880",
+        "name": "Increased total eosinophil count"
+      }
+    ],
+    "pred": []
+  },
+  "27381670": {
+    "gold": [
+      {
+        "id": "HP_0000488",
+        "name": "Retinopathy"
+      },
+      {
+        "id": "HP_0000479",
+        "name": "Abnormal retinal morphology"
+      },
+      {
+        "id": "HP_0000969",
+        "name": "Edema"
+      }
+    ],
+    "pred": []
+  },
+  "27382289": {
+    "gold": [
+      {
+        "id": "HP_0000802",
+        "name": "Impotence"
+      },
+      {
+        "id": "HP_0012878",
+        "name": "Retarded ejaculation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000802",
+        "name": "Impotence"
+      }
+    ]
+  },
+  "27386263": {
+    "gold": [
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function"
+      },
+      {
+        "id": "HP_0002613",
+        "name": "Biliary cirrhosis"
+      },
+      {
+        "id": "HP_0006562",
+        "name": "Viral hepatitis"
+      },
+      {
+        "id": "HP_0001394",
+        "name": "Cirrhosis"
+      }
+    ],
+    "pred": []
+  },
+  "27390504": {
+    "gold": [
+      {
+        "id": "HP_0009919",
+        "name": "Retinoblastoma"
+      },
+      {
+        "id": "HP_0000528",
+        "name": "Anophthalmia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000293",
+        "name": "Full cheeks"
+      }
+    ]
+  },
+  "27390849": {
+    "gold": [
+      {
+        "id": "HP_0002094",
+        "name": "Dyspnea"
+      },
+      {
+        "id": "HP_0012735",
+        "name": "Cough"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "27392220": {
+    "gold": [
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001901",
+        "name": "Polycythemia"
+      }
+    ]
+  },
+  "27402799": {
+    "gold": [
+      {
+        "id": "HP_0002617",
+        "name": "Vascular dilatation"
+      },
+      {
+        "id": "HP_0002315",
+        "name": "Headache"
+      },
+      {
+        "id": "HP_0004944",
+        "name": "Dilatation of the cerebral artery"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007201",
+        "name": "Cerebral artery atherosclerosis"
+      }
+    ]
+  },
+  "27405692": {
+    "gold": [
+      {
+        "id": "HP_0100526",
+        "name": "Neoplasm of the lung"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100526",
+        "name": "Neoplasm of the lung"
+      }
+    ]
+  },
+  "27407027": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27412368": {
+    "gold": [
+      {
+        "id": "HP_0000147",
+        "name": "Polycystic ovaries"
+      },
+      {
+        "id": "HP_0030127",
+        "name": "Endometriosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000144",
+        "name": "Decreased fertility"
+      }
+    ]
+  },
+  "27417076": {
+    "gold": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0025328",
+        "name": "Antepartum hemorrhage"
+      },
+      {
+        "id": "HP_0001518",
+        "name": "Small for gestational age"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ]
+  },
+  "27427129": {
+    "gold": [
+      {
+        "id": "HP_0000519",
+        "name": "Developmental cataract"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000482",
+        "name": "Microcornea"
+      },
+      {
+        "id": "HP_0030821",
+        "name": "Hooded lower eyelid"
+      }
+    ]
+  },
+  "27429935": {
+    "gold": [
+      {
+        "id": "HP_0006308",
+        "name": "Atrophy of alveolar ridges"
+      }
+    ],
+    "pred": []
+  },
+  "27430662": {
+    "gold": [
+      {
+        "id": "HP_0000076",
+        "name": "Vesicoureteral reflux"
+      },
+      {
+        "id": "HP_0033737",
+        "name": "Grade III vesicoureteral reflux"
+      },
+      {
+        "id": "HP_0000070",
+        "name": "Ureterocele"
+      },
+      {
+        "id": "HP_0000072",
+        "name": "Hydroureter"
+      },
+      {
+        "id": "HP_0010957",
+        "name": "Congenital posterior urethral valve"
+      },
+      {
+        "id": "HP_0000126",
+        "name": "Hydronephrosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000020",
+        "name": "Urinary incontinence"
+      }
+    ]
+  },
+  "27432486": {
+    "gold": [
+      {
+        "id": "HP_0002093",
+        "name": "Respiratory insufficiency"
+      },
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      }
+    ],
+    "pred": []
+  },
+  "27435204": {
+    "gold": [
+      {
+        "id": "HP_0002140",
+        "name": "Ischemic stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ]
+  },
+  "27436635": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27437203": {
+    "gold": [
+      {
+        "id": "HP_0000147",
+        "name": "Polycystic ovaries"
+      },
+      {
+        "id": "HP_0000855",
+        "name": "Insulin resistance"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0003119",
+        "name": "Abnormal circulating lipid concentration"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0011227",
+        "name": "Elevated circulating C-reactive protein concentration"
+      },
+      {
+        "id": "HP_0000842",
+        "name": "Hyperinsulinemia"
+      },
+      {
+        "id": "HP_0025691",
+        "name": "Impaired fasting glucose"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "27438380": {
+    "gold": [
+      {
+        "id": "HP_0000726",
+        "name": "Dementia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_5200328",
+        "name": "Diminishment of emotional expression"
+      }
+    ]
+  },
+  "27440782": {
+    "gold": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0031458",
+        "name": "Adenoiditis"
+      }
+    ]
+  },
+  "27441638": {
+    "gold": [
+      {
+        "id": "HP_0003287",
+        "name": "Abnormality of mitochondrial metabolism"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27442784": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0025654",
+        "name": "Placenta accreta"
+      },
+      {
+        "id": "HP_0033552",
+        "name": "Chronic villitis"
+      }
+    ],
+    "pred": []
+  },
+  "27447713": {
+    "gold": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      },
+      {
+        "id": "HP_0020074",
+        "name": "Crystalluria"
+      },
+      {
+        "id": "HP_0034368",
+        "name": "Urolithiasis"
+      },
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ],
+    "pred": []
+  },
+  "27449508": {
+    "gold": [
+      {
+        "id": "HP_0100806",
+        "name": "Sepsis"
+      },
+      {
+        "id": "HP_0003256",
+        "name": "Abnormality of the coagulation cascade"
+      }
+    ],
+    "pred": []
+  },
+  "27450737": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      },
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "27452524": {
+    "gold": [
+      {
+        "id": "HP_0005550",
+        "name": "Chronic lymphatic leukemia"
+      },
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      },
+      {
+        "id": "HP_0012191",
+        "name": "B-cell lymphoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012192",
+        "name": "Cutaneous T-cell lymphoma"
+      }
+    ]
+  },
+  "27457339": {
+    "gold": [
+      {
+        "id": "HP_0005526",
+        "name": "Lymphoid leukemia"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0006721",
+        "name": "Acute lymphoblastic leukemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012191",
+        "name": "B-cell lymphoma"
+      }
+    ]
+  },
+  "27459898": {
+    "gold": [
+      {
+        "id": "HP_0020172",
+        "name": "Adverse drug response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ]
+  },
+  "27462099": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0002326",
+        "name": "Transient ischemic attack"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0000726",
+        "name": "Dementia"
+      },
+      {
+        "id": "HP_0500105",
+        "name": "Decreased systolic blood pressure"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27463942": {
+    "gold": [
+      {
+        "id": "HP_0005110",
+        "name": "Atrial fibrillation"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0001907",
+        "name": "Thromboembolism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      },
+      {
+        "id": "HP_0005110",
+        "name": "Atrial fibrillation"
+      }
+    ]
+  },
+  "27466300": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025388",
+        "name": "Thyroid nodule"
+      },
+      {
+        "id": "HP_0002204",
+        "name": "Pulmonary embolism"
+      }
+    ]
+  },
+  "27469396": {
+    "gold": [
+      {
+        "id": "HP_0000708",
+        "name": "Atypical behavior"
+      },
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder"
+      },
+      {
+        "id": "HP_0010865",
+        "name": "Oppositional defiant disorder"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0030858",
+        "name": "Addictive behavior"
+      }
+    ]
+  },
+  "27471363": {
+    "gold": [
+      {
+        "id": "HP_0001700",
+        "name": "Myocardial necrosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001685",
+        "name": "Myocardial fibrosis"
+      }
+    ]
+  },
+  "27473209": {
+    "gold": [
+      {
+        "id": "HP_6000141",
+        "name": "Cerebral contusion"
+      },
+      {
+        "id": "HP_0002138",
+        "name": "Subarachnoid hemorrhage"
+      },
+      {
+        "id": "HP_0100309",
+        "name": "Subdural hemorrhage"
+      },
+      {
+        "id": "HP_0041082",
+        "name": "Fractured skull"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_6000591",
+        "name": "Loose body in joint"
+      }
+    ]
+  },
+  "27489015": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27491687": {
+    "gold": [
+      {
+        "id": "HP_0001287",
+        "name": "Meningitis"
+      },
+      {
+        "id": "HP_0002783",
+        "name": "Recurrent lower respiratory tract infections"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0032159",
+        "name": "Fungal meningitis"
+      }
+    ]
+  },
+  "27491778": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ]
+  },
+  "27495798": {
+    "gold": [
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0031864",
+        "name": "Bacteremia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002204",
+        "name": "Pulmonary embolism"
+      }
+    ]
+  },
+  "27500198": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0009725",
+        "name": "Bladder neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27500262": {
+    "gold": [
+      {
+        "id": "HP_0100651",
+        "name": "Type I diabetes mellitus"
+      },
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ]
+  },
+  "27500809": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0010735",
+        "name": "Polyostotic fibrous dysplasia"
+      }
+    ]
+  },
+  "27504100": {
+    "gold": [
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder"
+      },
+      {
+        "id": "HP_0002360",
+        "name": "Sleep disturbance"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002187",
+        "name": "Profound intellectual disability"
+      }
+    ]
+  },
+  "27504422": {
+    "gold": [
+      {
+        "id": "HP_0200034",
+        "name": "Papule"
+      },
+      {
+        "id": "HP_0012740",
+        "name": "Papilloma"
+      },
+      {
+        "id": "HP_0031021",
+        "name": "Squamous Papilloma"
+      },
+      {
+        "id": "HP_0010614",
+        "name": "Fibroma"
+      },
+      {
+        "id": "HP_0001036",
+        "name": "Parakeratosis"
+      }
+    ],
+    "pred": []
+  },
+  "27507301": {
+    "gold": [
+      {
+        "id": "HP_0000716",
+        "name": "Depression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27508301": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0025691",
+        "name": "Impaired fasting glucose"
+      },
+      {
+        "id": "HP_0003119",
+        "name": "Abnormal circulating lipid concentration"
+      },
+      {
+        "id": "HP_0025502",
+        "name": "Overweight"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "27508328": {
+    "gold": [
+      {
+        "id": "HP_0001402",
+        "name": "Hepatocellular carcinoma"
+      },
+      {
+        "id": "HP_0001394",
+        "name": "Cirrhosis"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "27510784": {
+    "gold": [
+      {
+        "id": "HP_0100723",
+        "name": "Gastrointestinal stroma tumor"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27514242": {
+    "gold": [
+      {
+        "id": "HP_0001300",
+        "name": "Parkinsonism"
+      },
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0001332",
+        "name": "Dystonia"
+      },
+      {
+        "id": "HP_0003781",
+        "name": "Excessive salivation"
+      },
+      {
+        "id": "HP_0031825",
+        "name": "Freezing of gait"
+      },
+      {
+        "id": "HP_0100595",
+        "name": "Camptocormia"
+      }
+    ],
+    "pred": []
+  },
+  "27516217": {
+    "gold": [
+      {
+        "id": "HP_0012443",
+        "name": "Abnormal brain morphology"
+      },
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "27516791": {
+    "gold": [
+      {
+        "id": "HP_0033415",
+        "name": "Cardiac tamponade"
+      },
+      {
+        "id": "HP_0001695",
+        "name": "Cardiac arrest"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001695",
+        "name": "Cardiac arrest"
+      }
+    ]
+  },
+  "27524031": {
+    "gold": [
+      {
+        "id": "HP_0003084",
+        "name": "Recurrent long bone fractures"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27524875": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27526315": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27532798": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_6001055",
+        "name": "Palpable thrill on extremity"
+      }
+    ]
+  },
+  "27534567": {
+    "gold": [
+      {
+        "id": "HP_0000708",
+        "name": "Atypical behavior"
+      },
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27539962": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      },
+      {
+        "id": "HP_0004305",
+        "name": "Involuntary movements"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "27542782": {
+    "gold": [
+      {
+        "id": "HP_0005145",
+        "name": "Coronary artery stenosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0005145",
+        "name": "Coronary artery stenosis"
+      }
+    ]
+  },
+  "27542789": {
+    "gold": [
+      {
+        "id": "HP_0001650",
+        "name": "Aortic valve stenosis"
+      },
+      {
+        "id": "HP_0001659",
+        "name": "Aortic regurgitation"
+      },
+      {
+        "id": "HP_0001709",
+        "name": "Third degree atrioventricular block"
+      },
+      {
+        "id": "HP_0011708",
+        "name": "Mobitz II atrioventricular block"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012493",
+        "name": "Middle cerebral artery stenosis"
+      }
+    ]
+  },
+  "27544926": {
+    "gold": [
+      {
+        "id": "HP_0030692",
+        "name": "Brain neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27550416": {
+    "gold": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      },
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ]
+  },
+  "27554917": {
+    "gold": [
+      {
+        "id": "HP_0012732",
+        "name": "Anorectal anomaly"
+      },
+      {
+        "id": "HP_0034057",
+        "name": "Fetal anomaly"
+      },
+      {
+        "id": "HP_0002035",
+        "name": "Rectal prolapse"
+      }
+    ],
+    "pred": []
+  },
+  "27563235": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100013",
+        "name": "Neoplasm of the breast"
+      },
+      {
+        "id": "HP_0100787",
+        "name": "Prostate neoplasm"
+      },
+      {
+        "id": "HP_0009725",
+        "name": "Bladder neoplasm"
+      },
+      {
+        "id": "HP_0100526",
+        "name": "Neoplasm of the lung"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27566296": {
+    "gold": [
+      {
+        "id": "HP_0002092",
+        "name": "Pulmonary arterial hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ]
+  },
+  "27566564": {
+    "gold": [
+      {
+        "id": "HP_0002669",
+        "name": "Osteosarcoma"
+      },
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      },
+      {
+        "id": "HP_0100242",
+        "name": "Sarcoma"
+      },
+      {
+        "id": "HP_0001824",
+        "name": "Weight loss"
+      },
+      {
+        "id": "HP_0001941",
+        "name": "Acidosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      },
+      {
+        "id": "HP_0010622",
+        "name": "Neoplasm of the skeletal system"
+      }
+    ]
+  },
+  "27567148": {
+    "gold": [
+      {
+        "id": "HP_0100658",
+        "name": "Cellulitis"
+      },
+      {
+        "id": "HP_0025439",
+        "name": "Pharyngitis"
+      },
+      {
+        "id": "HP_0000371",
+        "name": "Acute otitis media"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002243",
+        "name": "Protein-losing enteropathy"
+      }
+    ]
+  },
+  "27569088": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27571215": {
+    "gold": [
+      {
+        "id": "HP_0006557",
+        "name": "Polycystic liver disease"
+      },
+      {
+        "id": "HP_0034280",
+        "name": "Target cells"
+      },
+      {
+        "id": "HP_0001396",
+        "name": "Cholestasis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0005352",
+        "name": "Severe T-cell immunodeficiency"
+      }
+    ]
+  },
+  "27571883": {
+    "gold": [
+      {
+        "id": "HP_0002861",
+        "name": "Melanoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001298",
+        "name": "Encephalopathy"
+      }
+    ]
+  },
+  "27572131": {
+    "gold": [
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0002076",
+        "name": "Migraine"
+      },
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006865",
+        "name": "Sensorimotor polyneuropathy affecting arms more than legs"
+      }
+    ]
+  },
+  "27573702": {
+    "gold": [
+      {
+        "id": "HP_0002315",
+        "name": "Headache"
+      },
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ]
+  },
+  "27575503": {
+    "gold": [
+      {
+        "id": "HP_0000074",
+        "name": "Ureteropelvic junction obstruction"
+      },
+      {
+        "id": "HP_0000085",
+        "name": "Horseshoe kidney"
+      },
+      {
+        "id": "HP_0000086",
+        "name": "Ectopic kidney"
+      }
+    ],
+    "pred": []
+  },
+  "27576084": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0000969",
+        "name": "Edema"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27589009": {
+    "gold": [
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "id": "HP_0100280",
+        "name": "Crohn's disease"
+      },
+      {
+        "id": "HP_0100279",
+        "name": "Ulcerative colitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      }
+    ]
+  },
+  "27590021": {
+    "gold": [
+      {
+        "id": "HP_0033726",
+        "name": "Lupus nephritis"
+      }
+    ],
+    "pred": []
+  },
+  "27593389": {
+    "gold": [
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": []
+  },
+  "27598472": {
+    "gold": [
+      {
+        "id": "HP_0002625",
+        "name": "Deep venous thrombosis"
+      },
+      {
+        "id": "HP_0004936",
+        "name": "Venous thrombosis"
+      },
+      {
+        "id": "HP_0002204",
+        "name": "Pulmonary embolism"
+      },
+      {
+        "id": "HP_0004755",
+        "name": "Supraventricular tachycardia"
+      }
+    ],
+    "pred": []
+  },
+  "27599756": {
+    "gold": [
+      {
+        "id": "HP_0008209",
+        "name": "Premature ovarian insufficiency"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000141",
+        "name": "Amenorrhea"
+      }
+    ]
+  },
+  "27602763": {
+    "gold": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      }
+    ]
+  },
+  "27604681": {
+    "gold": [
+      {
+        "id": "HP_0007302",
+        "name": "Bipolar affective disorder"
+      },
+      {
+        "id": "HP_0000716",
+        "name": "Depression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007302",
+        "name": "Bipolar affective disorder"
+      }
+    ]
+  },
+  "27605910": {
+    "gold": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      },
+      {
+        "id": "HP_0008207",
+        "name": "Primary adrenal insufficiency"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27610122": {
+    "gold": [
+      {
+        "id": "HP_0001907",
+        "name": "Thromboembolism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004944",
+        "name": "Dilatation of the cerebral artery"
+      }
+    ]
+  },
+  "27614145": {
+    "gold": [
+      {
+        "id": "HP_0001394",
+        "name": "Cirrhosis"
+      },
+      {
+        "id": "HP_0003228",
+        "name": "Hypernatremia"
+      },
+      {
+        "id": "HP_0012605",
+        "name": "Hypernatriuria"
+      },
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      },
+      {
+        "id": "HP_0002910",
+        "name": "Elevated circulating hepatic transaminase concentration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      },
+      {
+        "id": "HP_0001541",
+        "name": "Ascites"
+      }
+    ]
+  },
+  "27618138": {
+    "gold": [
+      {
+        "id": "HP_0000255",
+        "name": "Acute sinusitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000246",
+        "name": "Sinusitis"
+      }
+    ]
+  },
+  "27621870": {
+    "gold": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012378",
+        "name": "Fatigue"
+      },
+      {
+        "id": "HP_0000969",
+        "name": "Edema"
+      }
+    ]
+  },
+  "27621953": {
+    "gold": [
+      {
+        "id": "HP_0001622",
+        "name": "Premature birth"
+      },
+      {
+        "id": "HP_0011410",
+        "name": "Caesarean section"
+      }
+    ],
+    "pred": []
+  },
+  "27625333": {
+    "gold": [
+      {
+        "id": "HP_0002878",
+        "name": "Respiratory failure"
+      },
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ]
+  },
+  "27625705": {
+    "gold": [
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function"
+      },
+      {
+        "id": "HP_0001394",
+        "name": "Cirrhosis"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "27626498": {
+    "gold": [
+      {
+        "id": "HP_0030078",
+        "name": "Lung adenocarcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0033609",
+        "name": "Solid pulmonary nodule"
+      }
+    ]
+  },
+  "27628042": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27631656": {
+    "gold": [
+      {
+        "id": "HP_0000365",
+        "name": "Hearing impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001604",
+        "name": "Vocal cord paresis"
+      }
+    ]
+  },
+  "27632714": {
+    "gold": [
+      {
+        "id": "HP_0000610",
+        "name": "Abnormal choroid morphology"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000533",
+        "name": "Chorioretinal atrophy"
+      }
+    ]
+  },
+  "27632886": {
+    "gold": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      },
+      {
+        "id": "HP_0001944",
+        "name": "Dehydration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ]
+  },
+  "27633771": {
+    "gold": [
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      },
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "27634799": {
+    "gold": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy"
+      },
+      {
+        "id": "HP_0002870",
+        "name": "Obstructive sleep apnea"
+      },
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      },
+      {
+        "id": "HP_0012592",
+        "name": "Albuminuria"
+      },
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0002329",
+        "name": "Drowsiness"
+      },
+      {
+        "id": "HP_0025267",
+        "name": "Snoring"
+      },
+      {
+        "id": "HP_0002104",
+        "name": "Apnea"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002360",
+        "name": "Sleep disturbance"
+      }
+    ]
+  },
+  "27643784": {
+    "gold": [
+      {
+        "id": "HP_0006297",
+        "name": "Enamel hypoplasia"
+      },
+      {
+        "id": "HP_0004395",
+        "name": "Malnutrition"
+      },
+      {
+        "id": "HP_0000670",
+        "name": "Carious teeth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000698",
+        "name": "Conical tooth"
+      }
+    ]
+  },
+  "27644674": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27648744": {
+    "gold": [
+      {
+        "id": "HP_5200334",
+        "name": "Addictive gambling behavior"
+      },
+      {
+        "id": "HP_0033543",
+        "name": "Addictive nicotine use"
+      },
+      {
+        "id": "HP_0033511",
+        "name": "Addictive substance use"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001944",
+        "name": "Dehydration"
+      }
+    ]
+  },
+  "27649458": {
+    "gold": [
+      {
+        "id": "HP_0012570",
+        "name": "Synovial sarcoma"
+      },
+      {
+        "id": "HP_0100242",
+        "name": "Sarcoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27649982": {
+    "gold": [
+      {
+        "id": "HP_0032547",
+        "name": "Low intraocular pressure"
+      },
+      {
+        "id": "HP_0012108",
+        "name": "Open angle glaucoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033493",
+        "name": "Mesangial matrix expansion"
+      }
+    ]
+  },
+  "27660855": {
+    "gold": [
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "id": "HP_0001873",
+        "name": "Thrombocytopenia"
+      }
+    ]
+  },
+  "27670138": {
+    "gold": [
+      {
+        "id": "HP_0030955",
+        "name": "Addictive alcohol use"
+      },
+      {
+        "id": "HP_0030858",
+        "name": "Addictive behavior"
+      }
+    ],
+    "pred": []
+  },
+  "27678317": {
+    "gold": [
+      {
+        "id": "HP_0002895",
+        "name": "Papillary thyroid carcinoma"
+      }
+    ],
+    "pred": []
+  },
+  "27679696": {
+    "gold": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      },
+      {
+        "id": "HP_0002206",
+        "name": "Pulmonary fibrosis"
+      }
+    ],
+    "pred": []
+  },
+  "27682280": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27683416": {
+    "gold": [
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      }
+    ],
+    "pred": []
+  },
+  "27686752": {
+    "gold": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ]
+  },
+  "27694392": {
+    "gold": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      }
+    ]
+  },
+  "27695327": {
+    "gold": [
+      {
+        "id": "HP_0000704",
+        "name": "Periodontitis"
+      },
+      {
+        "id": "HP_0031035",
+        "name": "Chronic infection"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003865",
+        "name": "Bowed humerus"
+      }
+    ]
+  },
+  "27698942": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27706190": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0012592",
+        "name": "Albuminuria"
+      },
+      {
+        "id": "HP_0004722",
+        "name": "Thickened glomerular basement membrane"
+      },
+      {
+        "id": "HP_0033493",
+        "name": "Mesangial matrix expansion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012086",
+        "name": "Abnormal urinary color"
+      }
+    ]
+  },
+  "27707812": {
+    "gold": [
+      {
+        "id": "HP_0000360",
+        "name": "Tinnitus"
+      }
+    ],
+    "pred": []
+  },
+  "27717972": {
+    "gold": [
+      {
+        "id": "HP_0001382",
+        "name": "Joint hypermobility"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003994",
+        "name": "Dislocated wrist"
+      },
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27720129": {
+    "gold": [
+      {
+        "id": "HP_0012288",
+        "name": "Neoplasm of head and neck"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27734729": {
+    "gold": [
+      {
+        "id": "HP_0011123",
+        "name": "Inflammatory abnormality of the skin"
+      },
+      {
+        "id": "HP_0002607",
+        "name": "Bowel incontinence"
+      },
+      {
+        "id": "HP_0000020",
+        "name": "Urinary incontinence"
+      }
+    ],
+    "pred": []
+  },
+  "27740919": {
+    "gold": [
+      {
+        "id": "HP_0005681",
+        "name": "Juvenile rheumatoid arthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ]
+  },
+  "27752082": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      },
+      {
+        "id": "HP_0000708",
+        "name": "Atypical behavior"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "27752744": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      },
+      {
+        "id": "HP_0033675",
+        "name": "Frailty"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "27754397": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27760700": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "27761922": {
+    "gold": [
+      {
+        "id": "HP_0001025",
+        "name": "Urticaria"
+      },
+      {
+        "id": "HP_4000054",
+        "name": "Exanthem"
+      },
+      {
+        "id": "HP_0032379",
+        "name": "Polymorphous light eruption"
+      },
+      {
+        "id": "HP_0025474",
+        "name": "Erythematous plaque"
+      },
+      {
+        "id": "HP_0001402",
+        "name": "Hepatocellular carcinoma"
+      }
+    ],
+    "pred": []
+  },
+  "27764829": {
+    "gold": [
+      {
+        "id": "HP_0100658",
+        "name": "Cellulitis"
+      },
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ]
+  },
+  "27765805": {
+    "gold": [
+      {
+        "id": "HP_0031369",
+        "name": "Colon perforation"
+      },
+      {
+        "id": "HP_0002153",
+        "name": "Hyperkalemia"
+      },
+      {
+        "id": "HP_0100279",
+        "name": "Ulcerative colitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002251",
+        "name": "Aganglionic megacolon"
+      }
+    ]
+  },
+  "27771865": {
+    "gold": [
+      {
+        "id": "HP_0000147",
+        "name": "Polycystic ovaries"
+      },
+      {
+        "id": "HP_0000855",
+        "name": "Insulin resistance"
+      }
+    ],
+    "pred": []
+  },
+  "27772674": {
+    "gold": [
+      {
+        "id": "HP_0012735",
+        "name": "Cough"
+      },
+      {
+        "id": "HP_0002315",
+        "name": "Headache"
+      },
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      },
+      {
+        "id": "HP_0000969",
+        "name": "Edema"
+      }
+    ]
+  },
+  "27773678": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27777102": {
+    "gold": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0002011",
+        "name": "Morphological central nervous system abnormality"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0010603",
+        "name": "Odontogenic keratocysts of the jaw"
+      }
+    ]
+  },
+  "27777603": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0000855",
+        "name": "Insulin resistance"
+      },
+      {
+        "id": "HP_0031418",
+        "name": "Increased body mass index"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27790487": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0003119",
+        "name": "Abnormal circulating lipid concentration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0032654",
+        "name": "Impaired flow-mediated arterial dilatation"
+      }
+    ]
+  },
+  "27792780": {
+    "gold": [
+      {
+        "id": "HP_0032940",
+        "name": "Dissociation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "27794081": {
+    "gold": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      }
+    ]
+  },
+  "27794108": {
+    "gold": [
+      {
+        "id": "HP_0003737",
+        "name": "Mitochondrial myopathy"
+      },
+      {
+        "id": "HP_0003287",
+        "name": "Abnormality of mitochondrial metabolism"
+      },
+      {
+        "id": "HP_0034057",
+        "name": "Fetal anomaly"
+      },
+      {
+        "id": "HP_0003198",
+        "name": "Myopathy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003287",
+        "name": "Abnormality of mitochondrial metabolism"
+      }
+    ]
+  },
+  "27794490": {
+    "gold": [
+      {
+        "id": "HP_0002354",
+        "name": "Memory impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27795701": {
+    "gold": [
+      {
+        "id": "HP_0012126",
+        "name": "Stomach cancer"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012126",
+        "name": "Stomach cancer"
+      }
+    ]
+  },
+  "27795726": {
+    "gold": [
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function"
+      },
+      {
+        "id": "HP_0001541",
+        "name": "Ascites"
+      },
+      {
+        "id": "HP_0002586",
+        "name": "Peritonitis"
+      },
+      {
+        "id": "HP_0001394",
+        "name": "Cirrhosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000020",
+        "name": "Urinary incontinence"
+      }
+    ]
+  },
+  "27799048": {
+    "gold": [
+      {
+        "id": "HP_0000012",
+        "name": "Urinary urgency"
+      },
+      {
+        "id": "HP_0012702",
+        "name": "Tenesmus"
+      },
+      {
+        "id": "HP_0500005",
+        "name": "Anal pain"
+      },
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006266",
+        "name": "Small placenta"
+      }
+    ]
+  },
+  "27799763": {
+    "gold": [
+      {
+        "id": "HP_0002094",
+        "name": "Dyspnea"
+      },
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "27802488": {
+    "gold": [
+      {
+        "id": "HP_0500087",
+        "name": "Peripapillary atrophy"
+      },
+      {
+        "id": "HP_0003447",
+        "name": "Axonal loss"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001112",
+        "name": "Leber optic atrophy"
+      }
+    ]
+  },
+  "27804311": {
+    "gold": [
+      {
+        "id": "HP_0012288",
+        "name": "Neoplasm of head and neck"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100627",
+        "name": "Displacement of the urethral meatus"
+      }
+    ]
+  },
+  "27805887": {
+    "gold": [
+      {
+        "id": "HP_0000670",
+        "name": "Carious teeth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002973",
+        "name": "Abnormal forearm morphology"
+      }
+    ]
+  },
+  "27806641": {
+    "gold": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ]
+  },
+  "27807162": {
+    "gold": [
+      {
+        "id": "HP_0002039",
+        "name": "Anorexia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27809747": {
+    "gold": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100526",
+        "name": "Neoplasm of the lung"
+      },
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27818328": {
+    "gold": [
+      {
+        "id": "HP_0002097",
+        "name": "Emphysema"
+      },
+      {
+        "id": "HP_0045049",
+        "name": "Abnormal DLCO"
+      },
+      {
+        "id": "HP_0031352",
+        "name": "Chest tightness"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      }
+    ]
+  },
+  "27819344": {
+    "gold": [
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      },
+      {
+        "id": "HP_0100013",
+        "name": "Neoplasm of the breast"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27821359": {
+    "gold": [
+      {
+        "id": "HP_0000716",
+        "name": "Depression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007302",
+        "name": "Bipolar affective disorder"
+      }
+    ]
+  },
+  "27821419": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "27823981": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007067",
+        "name": "Distal peripheral sensory neuropathy"
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27824066": {
+    "gold": [
+      {
+        "id": "HP_0100651",
+        "name": "Type I diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002715",
+        "name": "Abnormality of the immune system"
+      }
+    ]
+  },
+  "27824925": {
+    "gold": [
+      {
+        "id": "HP_0030890",
+        "name": "Hyperintensity of cerebral white matter on MRI"
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27826087": {
+    "gold": [
+      {
+        "id": "HP_0000238",
+        "name": "Hydrocephalus"
+      }
+    ],
+    "pred": []
+  },
+  "27831503": {
+    "gold": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      }
+    ]
+  },
+  "27831992": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004610",
+        "name": "Lumbar spinal canal stenosis"
+      }
+    ]
+  },
+  "27838149": {
+    "gold": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      },
+      {
+        "id": "HP_0030078",
+        "name": "Lung adenocarcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0033613",
+        "name": "Perifissural pulmonary nodule"
+      }
+    ]
+  },
+  "27842269": {
+    "gold": [
+      {
+        "id": "HP_0002381",
+        "name": "Aphasia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002381",
+        "name": "Aphasia"
+      }
+    ]
+  },
+  "27844448": {
+    "gold": [
+      {
+        "id": "HP_0030731",
+        "name": "Carcinoma"
+      }
+    ],
+    "pred": []
+  },
+  "27845744": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0004324",
+        "name": "Increased body weight"
+      },
+      {
+        "id": "HP_0004395",
+        "name": "Malnutrition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "27845854": {
+    "gold": [
+      {
+        "id": "HP_0000789",
+        "name": "Infertility"
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27847549": {
+    "gold": [
+      {
+        "id": "HP_0001061",
+        "name": "Acne"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001061",
+        "name": "Acne"
+      }
+    ]
+  },
+  "27847822": {
+    "gold": [
+      {
+        "id": "HP_5200205",
+        "name": "Illusions"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0031358",
+        "name": "Vegetative state"
+      }
+    ]
+  },
+  "27847836": {
+    "gold": [
+      {
+        "id": "HP_0001735",
+        "name": "Acute pancreatitis"
+      },
+      {
+        "id": "HP_0033454",
+        "name": "Tube feeding"
+      },
+      {
+        "id": "HP_0001733",
+        "name": "Pancreatitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001735",
+        "name": "Acute pancreatitis"
+      }
+    ]
+  },
+  "27857815": {
+    "gold": [
+      {
+        "id": "HP_0002170",
+        "name": "Intracranial hemorrhage"
+      }
+    ],
+    "pred": []
+  },
+  "27861771": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003077",
+        "name": "Hyperlipidemia"
+      }
+    ]
+  },
+  "27863736": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "27871600": {
+    "gold": [
+      {
+        "id": "HP_0033050",
+        "name": "Pharyngalgia"
+      },
+      {
+        "id": "HP_0001609",
+        "name": "Hoarse voice"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012735",
+        "name": "Cough"
+      },
+      {
+        "id": "HP_0033050",
+        "name": "Pharyngalgia"
+      }
+    ]
+  },
+  "27871881": {
+    "gold": [
+      {
+        "id": "HP_0001250",
+        "name": "Seizure"
+      }
+    ],
+    "pred": []
+  },
+  "27872609": {
+    "gold": [
+      {
+        "id": "HP_0001298",
+        "name": "Encephalopathy"
+      },
+      {
+        "id": "HP_0001259",
+        "name": "Coma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002858",
+        "name": "Meningioma"
+      },
+      {
+        "id": "HP_0011171",
+        "name": "Simple febrile seizure"
+      }
+    ]
+  },
+  "27877221": {
+    "gold": [
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0011793",
+        "name": "Neoplasm by anatomical site"
+      }
+    ]
+  },
+  "27884163": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0000855",
+        "name": "Insulin resistance"
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      },
+      {
+        "id": "HP_0002354",
+        "name": "Memory impairment"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      },
+      {
+        "id": "HP_0002171",
+        "name": "Gliosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0100727",
+        "name": "Histiocytosis"
+      }
+    ]
+  },
+  "27884960": {
+    "gold": [
+      {
+        "id": "HP_0010546",
+        "name": "Muscle fibrillation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002349",
+        "name": "Focal aware seizure"
+      }
+    ]
+  },
+  "27885308": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27887661": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "27892236": {
+    "gold": [
+      {
+        "id": "HP_0000717",
+        "name": "Autism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000717",
+        "name": "Autism"
+      }
+    ]
+  },
+  "27896225": {
+    "gold": [
+      {
+        "id": "HP_0012393",
+        "name": "Allergy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0008069",
+        "name": "Neoplasm of the skin"
+      }
+    ]
+  },
+  "27898362": {
+    "gold": [
+      {
+        "id": "HP_0033052",
+        "name": "Non-epileptic seizure"
+      },
+      {
+        "id": "HP_0001249",
+        "name": "Intellectual disability"
+      },
+      {
+        "id": "HP_0000709",
+        "name": "Psychosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007359",
+        "name": "Focal-onset seizure"
+      }
+    ]
+  },
+  "27900080": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27903991": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0003074",
+        "name": "Hyperglycemia"
+      },
+      {
+        "id": "HP_0000123",
+        "name": "Nephritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100611",
+        "name": "Multiple glomerular cysts"
+      }
+    ]
+  },
+  "27908503": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27909143": {
+    "gold": [
+      {
+        "id": "HP_0005086",
+        "name": "Knee osteoarthritis"
+      },
+      {
+        "id": "HP_6001020",
+        "name": "Knee joint effusion"
+      }
+    ],
+    "pred": []
+  },
+  "27914587": {
+    "gold": [
+      {
+        "id": "HP_0100242",
+        "name": "Sarcoma"
+      },
+      {
+        "id": "HP_0012254",
+        "name": "Ewing sarcoma"
+      },
+      {
+        "id": "HP_0002669",
+        "name": "Osteosarcoma"
+      },
+      {
+        "id": "HP_0012570",
+        "name": "Synovial sarcoma"
+      },
+      {
+        "id": "HP_0006765",
+        "name": "Chondrosarcoma"
+      },
+      {
+        "id": "HP_0002859",
+        "name": "Rhabdomyosarcoma"
+      },
+      {
+        "id": "HP_0033834",
+        "name": "Malaise"
+      },
+      {
+        "id": "HP_0002650",
+        "name": "Scoliosis"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "27914987": {
+    "gold": [
+      {
+        "id": "HP_0010784",
+        "name": "Uterine neoplasm"
+      },
+      {
+        "id": "HP_0002896",
+        "name": "Neoplasm of the liver"
+      },
+      {
+        "id": "HP_0100273",
+        "name": "Neoplasm of the colon"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27916672": {
+    "gold": [
+      {
+        "id": "HP_0030219",
+        "name": "Semantic dementia"
+      },
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "27917468": {
+    "gold": [
+      {
+        "id": "HP_0000958",
+        "name": "Dry skin"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002181",
+        "name": "Cerebral edema"
+      }
+    ]
+  },
+  "27919226": {
+    "gold": [
+      {
+        "id": "HP_0002354",
+        "name": "Memory impairment"
+      },
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "27920947": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0003003",
+        "name": "Colon cancer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27922526": {
+    "gold": [
+      {
+        "id": "HP_0011419",
+        "name": "Placental abruption"
+      },
+      {
+        "id": "HP_0025019",
+        "name": "Arterial rupture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004950",
+        "name": "Peripheral arterial stenosis"
+      }
+    ]
+  },
+  "27924297": {
+    "gold": [
+      {
+        "id": "HP_0002634",
+        "name": "Arteriosclerosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      }
+    ]
+  },
+  "27928742": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27932568": {
+    "gold": [
+      {
+        "id": "HP_0006770",
+        "name": "Clear cell renal cell carcinoma"
+      },
+      {
+        "id": "HP_0009726",
+        "name": "Renal neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "27942049": {
+    "gold": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0002153",
+        "name": "Hyperkalemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0008200",
+        "name": "Primary hyperparathyroidism"
+      }
+    ]
+  },
+  "27951480": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "27956431": {
+    "gold": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "27960292": {
+    "gold": [
+      {
+        "id": "HP_0001395",
+        "name": "Hepatic fibrosis"
+      }
+    ],
+    "pred": []
+  },
+  "27965132": {
+    "gold": [
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      },
+      {
+        "id": "HP_0002878",
+        "name": "Respiratory failure"
+      }
+    ],
+    "pred": []
+  },
+  "27965450": {
+    "gold": [
+      {
+        "id": "HP_0020102",
+        "name": "Pneumocystis jirovecii pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "27983636": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "27988278": {
+    "gold": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      },
+      {
+        "id": "HP_0002088",
+        "name": "Abnormal lung morphology"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction"
+      }
+    ]
+  },
+  "27995352": {
+    "gold": [
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "27998307": {
+    "gold": [
+      {
+        "id": "HP_0011695",
+        "name": "Cerebellar hemorrhage"
+      },
+      {
+        "id": "HP_0000155",
+        "name": "Oral ulcer"
+      },
+      {
+        "id": "HP_0003249",
+        "name": "Genital ulcers"
+      },
+      {
+        "id": "HP_0000554",
+        "name": "Uveitis"
+      },
+      {
+        "id": "HP_0000750",
+        "name": "Delayed speech and language development"
+      },
+      {
+        "id": "HP_0002321",
+        "name": "Vertigo"
+      },
+      {
+        "id": "HP_0002013",
+        "name": "Vomiting"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      },
+      {
+        "id": "HP_0001892",
+        "name": "Abnormal bleeding"
+      },
+      {
+        "id": "HP_0002633",
+        "name": "Vasculitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0008026",
+        "name": "Horizontal opticokinetic nystagmus"
+      }
+    ]
+  },
+  "28003168": {
+    "gold": [
+      {
+        "id": "HP_0003118",
+        "name": "Increased circulating cortisol level"
+      },
+      {
+        "id": "HP_0012342",
+        "name": "Macroprolactinoma"
+      },
+      {
+        "id": "HP_0008291",
+        "name": "Pituitary corticotropic cell adenoma"
+      },
+      {
+        "id": "HP_0040277",
+        "name": "Neoplasm of the pituitary gland"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0025694",
+        "name": "Pituitary microadenoma"
+      }
+    ],
+    "pred": []
+  },
+  "28005403": {
+    "gold": [
+      {
+        "id": "HP_0012167",
+        "name": "Hair-pulling"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_5200332",
+        "name": "Addictive non-substance behaviors"
+      }
+    ]
+  },
+  "28008561": {
+    "gold": [
+      {
+        "id": "HP_0002890",
+        "name": "Thyroid carcinoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025388",
+        "name": "Thyroid nodule"
+      },
+      {
+        "id": "HP_0025426",
+        "name": "Abnormal bronchus morphology"
+      }
+    ]
+  },
+  "28011044": {
+    "gold": [
+      {
+        "id": "HP_0012174",
+        "name": "Glioblastoma multiforme"
+      },
+      {
+        "id": "HP_0000969",
+        "name": "Edema"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28011408": {
+    "gold": [
+      {
+        "id": "HP_0002039",
+        "name": "Anorexia"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      },
+      {
+        "id": "HP_0000711",
+        "name": "Restlessness"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "28013377": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28019021": {
+    "gold": [
+      {
+        "id": "HP_0012416",
+        "name": "Hypercapnia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0005117",
+        "name": "Elevated diastolic blood pressure"
+      }
+    ]
+  },
+  "28024987": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      },
+      {
+        "id": "HP_0500104",
+        "name": "Decreased diastolic blood pressure"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "28025023": {
+    "gold": [
+      {
+        "id": "HP_0005561",
+        "name": "Abnormal bone marrow cell morphology"
+      },
+      {
+        "id": "HP_0001347",
+        "name": "Hyperreflexia"
+      },
+      {
+        "id": "HP_0003487",
+        "name": "Babinski sign"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002273",
+        "name": "Tetraparesis"
+      }
+    ]
+  },
+  "28026207": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "28033725": {
+    "gold": [
+      {
+        "id": "HP_0031035",
+        "name": "Chronic infection"
+      },
+      {
+        "id": "HP_0020071",
+        "name": "Viremia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0032248",
+        "name": "Persistent viremia"
+      }
+    ]
+  },
+  "28036301": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28044140": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      }
+    ],
+    "pred": []
+  },
+  "28049415": {
+    "gold": [
+      {
+        "id": "HP_0004324",
+        "name": "Increased body weight"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ]
+  },
+  "28053186": {
+    "gold": [
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": []
+  },
+  "28055142": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28056024": {
+    "gold": [
+      {
+        "id": "HP_0004324",
+        "name": "Increased body weight"
+      }
+    ],
+    "pred": []
+  },
+  "28056892": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "28057994": {
+    "gold": [
+      {
+        "id": "HP_0034882",
+        "name": "Prostatic calculus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012876",
+        "name": "Premature ejaculation"
+      }
+    ]
+  },
+  "28058375": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "28062192": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ]
+  },
+  "28067693": {
+    "gold": [
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0002018",
+        "name": "Nausea"
+      },
+      {
+        "id": "HP_0002013",
+        "name": "Vomiting"
+      },
+      {
+        "id": "HP_0000738",
+        "name": "Hallucinations"
+      },
+      {
+        "id": "HP_0003418",
+        "name": "Back pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004326",
+        "name": "Cachexia"
+      }
+    ]
+  },
+  "28068639": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0003287",
+        "name": "Abnormality of mitochondrial metabolism"
+      },
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_6000680",
+        "name": "Low serum osmolality"
+      }
+    ]
+  },
+  "28072457": {
+    "gold": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001945",
+        "name": "Fever"
+      }
+    ]
+  },
+  "28077898": {
+    "gold": [
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function"
+      }
+    ],
+    "pred": []
+  },
+  "28078640": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28079476": {
+    "gold": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "28084862": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0030062",
+        "name": "Craniopharyngioma"
+      },
+      {
+        "id": "HP_0001123",
+        "name": "Visual field defect"
+      },
+      {
+        "id": "HP_0040075",
+        "name": "Hypopituitarism"
+      },
+      {
+        "id": "HP_0000818",
+        "name": "Abnormality of the endocrine system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000554",
+        "name": "Uveitis"
+      }
+    ]
+  },
+  "28086772": {
+    "gold": [
+      {
+        "id": "HP_0002896",
+        "name": "Neoplasm of the liver"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28086838": {
+    "gold": [
+      {
+        "id": "HP_0034493",
+        "name": "Tubo-ovarian abscess"
+      }
+    ],
+    "pred": []
+  },
+  "28087131": {
+    "gold": [
+      {
+        "id": "HP_0002860",
+        "name": "Squamous cell carcinoma"
+      },
+      {
+        "id": "HP_0031493",
+        "name": "Glandular cell neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "28091848": {
+    "gold": [
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ]
+  },
+  "28092112": {
+    "gold": [
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000083",
+        "name": "Renal insufficiency"
+      }
+    ]
+  },
+  "28092340": {
+    "gold": [
+      {
+        "id": "HP_0004610",
+        "name": "Lumbar spinal canal stenosis"
+      },
+      {
+        "id": "HP_0003302",
+        "name": "Spondylolisthesis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004610",
+        "name": "Lumbar spinal canal stenosis"
+      }
+    ]
+  },
+  "28097208": {
+    "gold": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ]
+  },
+  "28098510": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "28101782": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0030075",
+        "name": "Ductal carcinoma in situ"
+      }
+    ]
+  },
+  "28102508": {
+    "gold": [
+      {
+        "id": "HP_0000238",
+        "name": "Hydrocephalus"
+      },
+      {
+        "id": "HP_0030746",
+        "name": "Intraventricular hemorrhage"
+      },
+      {
+        "id": "HP_0012675",
+        "name": "Iron accumulation in brain"
+      }
+    ],
+    "pred": []
+  },
+  "28103582": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28106239": {
+    "gold": [
+      {
+        "id": "HP_0009919",
+        "name": "Retinoblastoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100832",
+        "name": "Vitreous floaters"
+      },
+      {
+        "id": "HP_0007902",
+        "name": "Vitreous hemorrhage"
+      }
+    ],
+    "pred": []
+  },
+  "28111379": {
+    "gold": [
+      {
+        "id": "HP_0030760",
+        "name": "Renal fibrosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28117211": {
+    "gold": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ]
+  },
+  "28118752": {
+    "gold": [
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder"
+      }
+    ]
+  },
+  "28122499": {
+    "gold": [
+      {
+        "id": "HP_0002019",
+        "name": "Constipation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012450",
+        "name": "Chronic constipation"
+      }
+    ]
+  },
+  "28125105": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28131759": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0011190",
+        "name": "Uni- and bilateral multifocal epileptiform discharges"
+      }
+    ]
+  },
+  "28132082": {
+    "gold": [
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      },
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033938",
+        "name": "Renal arteriole intima/media necrosis"
+      }
+    ]
+  },
+  "28132765": {
+    "gold": [
+      {
+        "id": "HP_0100651",
+        "name": "Type I diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000938",
+        "name": "Osteopenia"
+      }
+    ]
+  },
+  "28135997": {
+    "gold": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "28137262": {
+    "gold": [
+      {
+        "id": "HP_0031846",
+        "name": "Femur fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "28138631": {
+    "gold": [
+      {
+        "id": "HP_0002894",
+        "name": "Neoplasm of the pancreas"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025792",
+        "name": "Abnormal cognitive process"
+      }
+    ]
+  },
+  "28139371": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28139665": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0010603",
+        "name": "Odontogenic keratocysts of the jaw"
+      }
+    ]
+  },
+  "28144096": {
+    "gold": [
+      {
+        "id": "HP_0030079",
+        "name": "Cervix cancer"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28149973": {
+    "gold": [
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28150322": {
+    "gold": [
+      {
+        "id": "HP_0000789",
+        "name": "Infertility"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000144",
+        "name": "Decreased fertility"
+      }
+    ]
+  },
+  "28162781": {
+    "gold": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis"
+      },
+      {
+        "id": "HP_0010992",
+        "name": "Stress urinary incontinence"
+      }
+    ]
+  },
+  "28164568": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100013",
+        "name": "Neoplasm of the breast"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28166877": {
+    "gold": [
+      {
+        "id": "HP_0031590",
+        "name": "Asthenopia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000505",
+        "name": "Visual impairment"
+      }
+    ]
+  },
+  "28175980": {
+    "gold": [
+      {
+        "id": "HP_0041166",
+        "name": "Fractured vertebra"
+      },
+      {
+        "id": "HP_0000939",
+        "name": "Osteoporosis"
+      },
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000939",
+        "name": "Osteoporosis"
+      }
+    ]
+  },
+  "28179308": {
+    "gold": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28182076": {
+    "gold": [
+      {
+        "id": "HP_0032242",
+        "name": "Cervical intraepithelial neoplasia"
+      }
+    ],
+    "pred": []
+  },
+  "28182129": {
+    "gold": [
+      {
+        "id": "HP_0012539",
+        "name": "Non-Hodgkin lymphoma"
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002665",
+        "name": "Lymphoma"
+      },
+      {
+        "id": "HP_0030731",
+        "name": "Carcinoma"
+      }
+    ]
+  },
+  "28187885": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28190392": {
+    "gold": [
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002655",
+        "name": "Spondyloepiphyseal dysplasia"
+      },
+      {
+        "id": "HP_0001944",
+        "name": "Dehydration"
+      }
+    ]
+  },
+  "28192718": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "28205317": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28207880": {
+    "gold": [
+      {
+        "id": "HP_0012378",
+        "name": "Fatigue"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012378",
+        "name": "Fatigue"
+      }
+    ]
+  },
+  "28210010": {
+    "gold": [
+      {
+        "id": "HP_0001903",
+        "name": "Anemia"
+      },
+      {
+        "id": "HP_0030746",
+        "name": "Intraventricular hemorrhage"
+      },
+      {
+        "id": "HP_0002170",
+        "name": "Intracranial hemorrhage"
+      }
+    ],
+    "pred": []
+  },
+  "28217198": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006243",
+        "name": "Phalangeal dislocation"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28217611": {
+    "gold": [
+      {
+        "id": "HP_0025452",
+        "name": "Pyoderma gangrenosum"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "id": "HP_0004800",
+        "name": "Duodenal diverticula"
+      }
+    ]
+  },
+  "28219657": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28220082": {
+    "gold": [
+      {
+        "id": "HP_0001250",
+        "name": "Seizure"
+      },
+      {
+        "id": "HP_0100022",
+        "name": "Abnormality of movement"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0007359",
+        "name": "Focal-onset seizure"
+      }
+    ]
+  },
+  "28222462": {
+    "gold": [
+      {
+        "id": "HP_0100647",
+        "name": "Graves disease"
+      },
+      {
+        "id": "HP_0005994",
+        "name": "Nodular goiter"
+      },
+      {
+        "id": "HP_0000836",
+        "name": "Hyperthyroidism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002895",
+        "name": "Papillary thyroid carcinoma"
+      }
+    ]
+  },
+  "28228265": {
+    "gold": [
+      {
+        "id": "HP_0005323",
+        "name": "Hemifacial hypertrophy"
+      },
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": []
+  },
+  "28229178": {
+    "gold": [
+      {
+        "id": "HP_0012154",
+        "name": "Anhedonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000712",
+        "name": "Emotional lability"
+      }
+    ]
+  },
+  "28234672": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0032654",
+        "name": "Impaired flow-mediated arterial dilatation"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ]
+  },
+  "28235120": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "28236130": {
+    "gold": [
+      {
+        "id": "HP_0033345",
+        "name": "Neuralgia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28237961": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28240640": {
+    "gold": [
+      {
+        "id": "HP_0012211",
+        "name": "Abnormal renal physiology"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012213",
+        "name": "Decreased glomerular filtration rate"
+      }
+    ]
+  },
+  "28241991": {
+    "gold": [
+      {
+        "id": "HP_0002917",
+        "name": "Hypomagnesemia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0200125",
+        "name": "Mitochondrial respiratory chain defects"
+      }
+    ]
+  },
+  "28249160": {
+    "gold": [
+      {
+        "id": "HP_0034557",
+        "name": "Rhabdoid tumor"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28249785": {
+    "gold": [
+      {
+        "id": "HP_0100315",
+        "name": "Lewy bodies"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007269",
+        "name": "Spinal muscular atrophy"
+      }
+    ]
+  },
+  "28251780": {
+    "gold": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      }
+    ],
+    "pred": []
+  },
+  "28252933": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      },
+      {
+        "id": "HP_0031846",
+        "name": "Femur fracture"
+      }
+    ],
+    "pred": []
+  },
+  "28258572": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": []
+  },
+  "28266114": {
+    "gold": [
+      {
+        "id": "HP_0000670",
+        "name": "Carious teeth"
+      },
+      {
+        "id": "HP_0000704",
+        "name": "Periodontitis"
+      },
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0000217",
+        "name": "Xerostomia"
+      },
+      {
+        "id": "HP_0001370",
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0011085",
+        "name": "Hypomature dental enamel"
+      }
+    ]
+  },
+  "28266884": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ]
+  },
+  "28270328": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      },
+      {
+        "id": "HP_0025771",
+        "name": "Ruminations"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "28274612": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28277879": {
+    "gold": [
+      {
+        "id": "HP_4000054",
+        "name": "Exanthem"
+      },
+      {
+        "id": "HP_0000989",
+        "name": "Pruritus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0031180",
+        "name": "Erythema migrans"
+      }
+    ]
+  },
+  "28282510": {
+    "gold": [
+      {
+        "id": "HP_0004808",
+        "name": "Acute myeloid leukemia"
+      },
+      {
+        "id": "HP_0006775",
+        "name": "Multiple myeloma"
+      },
+      {
+        "id": "HP_0006721",
+        "name": "Acute lymphoblastic leukemia"
+      },
+      {
+        "id": "HP_0012539",
+        "name": "Non-Hodgkin lymphoma"
+      },
+      {
+        "id": "HP_0002863",
+        "name": "Myelodysplasia"
+      },
+      {
+        "id": "HP_0001915",
+        "name": "Aplastic anemia"
+      },
+      {
+        "id": "HP_0012189",
+        "name": "Hodgkin lymphoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002665",
+        "name": "Lymphoma"
+      }
+    ]
+  },
+  "28284864": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28295177": {
+    "gold": [
+      {
+        "id": "HP_0002037",
+        "name": "Inflammation of the large intestine"
+      }
+    ],
+    "pred": []
+  },
+  "28296680": {
+    "gold": [
+      {
+        "id": "HP_0030065",
+        "name": "Primitive neuroectodermal tumor"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0002885",
+        "name": "Medulloblastoma"
+      },
+      {
+        "id": "HP_0002888",
+        "name": "Ependymoma"
+      },
+      {
+        "id": "HP_0030067",
+        "name": "Peripheral primitive neuroectodermal neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002858",
+        "name": "Meningioma"
+      }
+    ]
+  },
+  "28297577": {
+    "gold": [
+      {
+        "id": "HP_0011986",
+        "name": "Ectopic ossification"
+      },
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006243",
+        "name": "Phalangeal dislocation"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28303067": {
+    "gold": [
+      {
+        "id": "HP_0002858",
+        "name": "Meningioma"
+      },
+      {
+        "id": "HP_0007340",
+        "name": "Lower limb muscle weakness"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": []
+  },
+  "28303942": {
+    "gold": [
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0040330",
+        "name": "Confluent hyperintensity of cerebral white matter on MRI"
+      }
+    ]
+  },
+  "28304102": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28304405": {
+    "gold": [
+      {
+        "id": "HP_0100280",
+        "name": "Crohn's disease"
+      },
+      {
+        "id": "HP_0033165",
+        "name": "Necrotizing enterocolitis"
+      }
+    ],
+    "pred": []
+  },
+  "28314676": {
+    "gold": [
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      },
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      }
+    ]
+  },
+  "28318092": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002401",
+        "name": "Stroke-like episode"
+      }
+    ]
+  },
+  "28321789": {
+    "gold": [
+      {
+        "id": "HP_0002014",
+        "name": "Diarrhea"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004790",
+        "name": "Hypoplasia of the small intestine"
+      }
+    ]
+  },
+  "28322744": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "28323338": {
+    "gold": [
+      {
+        "id": "HP_0012182",
+        "name": "Oropharyngeal squamous cell carcinoma"
+      },
+      {
+        "id": "HP_0012288",
+        "name": "Neoplasm of head and neck"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28323926": {
+    "gold": [
+      {
+        "id": "HP_0000147",
+        "name": "Polycystic ovaries"
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0000716",
+        "name": "Depression"
+      },
+      {
+        "id": "HP_0000876",
+        "name": "Oligomenorrhea"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28330470": {
+    "gold": [
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28333697": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "28334784": {
+    "gold": [
+      {
+        "id": "HP_0002251",
+        "name": "Aganglionic megacolon"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012183",
+        "name": "Hyperplastic colonic polyposis"
+      }
+    ]
+  },
+  "28338376": {
+    "gold": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      },
+      {
+        "id": "HP_0100526",
+        "name": "Neoplasm of the lung"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0030358",
+        "name": "Non-small cell lung carcinoma"
+      }
+    ]
+  },
+  "28345005": {
+    "gold": [
+      {
+        "id": "HP_0002180",
+        "name": "Neurodegeneration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0040330",
+        "name": "Confluent hyperintensity of cerebral white matter on MRI"
+      }
+    ]
+  },
+  "28346872": {
+    "gold": [
+      {
+        "id": "HP_0004398",
+        "name": "Peptic ulcer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0010450",
+        "name": "Esophageal stenosis"
+      }
+    ]
+  },
+  "28347978": {
+    "gold": [
+      {
+        "id": "HP_0034392",
+        "name": "Joint contracture"
+      },
+      {
+        "id": "HP_0100769",
+        "name": "Synovitis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      },
+      {
+        "id": "HP_0033345",
+        "name": "Neuralgia"
+      }
+    ]
+  },
+  "28355176": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28355968": {
+    "gold": [
+      {
+        "id": "HP_0003201",
+        "name": "Rhabdomyolysis"
+      },
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      }
+    ]
+  },
+  "28361230": {
+    "gold": [
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      },
+      {
+        "id": "HP_0011105",
+        "name": "Hypervolemia"
+      },
+      {
+        "id": "HP_0100520",
+        "name": "Oliguria"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033938",
+        "name": "Renal arteriole intima/media necrosis"
+      },
+      {
+        "id": "HP_0000105",
+        "name": "Enlarged kidney"
+      }
+    ]
+  },
+  "28363626": {
+    "gold": [
+      {
+        "id": "HP_0002094",
+        "name": "Dyspnea"
+      },
+      {
+        "id": "HP_0030828",
+        "name": "Wheezing"
+      },
+      {
+        "id": "HP_0012735",
+        "name": "Cough"
+      },
+      {
+        "id": "HP_0031352",
+        "name": "Chest tightness"
+      },
+      {
+        "id": "HP_0100749",
+        "name": "Chest pain"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002099",
+        "name": "Asthma"
+      },
+      {
+        "id": "HP_0030833",
+        "name": "Neck pain"
+      }
+    ]
+  },
+  "28367636": {
+    "gold": [
+      {
+        "id": "HP_0100651",
+        "name": "Type I diabetes mellitus"
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ]
+  },
+  "28370352": {
+    "gold": [
+      {
+        "id": "HP_0100324",
+        "name": "Scleroderma"
+      },
+      {
+        "id": "HP_0002725",
+        "name": "Systemic lupus erythematosus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100324",
+        "name": "Scleroderma"
+      }
+    ]
+  },
+  "28371313": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0025502",
+        "name": "Overweight"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28371745": {
+    "gold": [
+      {
+        "id": "HP_0007302",
+        "name": "Bipolar affective disorder"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0007302",
+        "name": "Bipolar affective disorder"
+      }
+    ]
+  },
+  "28376287": {
+    "gold": [
+      {
+        "id": "HP_0030955",
+        "name": "Addictive alcohol use"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033513",
+        "name": "Addictive cocaine use"
+      }
+    ]
+  },
+  "28379026": {
+    "gold": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      },
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function"
+      },
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      },
+      {
+        "id": "HP_0004950",
+        "name": "Peripheral arterial stenosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002621",
+        "name": "Atherosclerosis"
+      }
+    ]
+  },
+  "28379326": {
+    "gold": [
+      {
+        "id": "HP_0031864",
+        "name": "Bacteremia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0031864",
+        "name": "Bacteremia"
+      }
+    ]
+  },
+  "28383311": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0003419",
+        "name": "Low back pain"
+      },
+      {
+        "id": "HP_0030839",
+        "name": "Knee pain"
+      },
+      {
+        "id": "HP_0000017",
+        "name": "Nocturia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28385001": {
+    "gold": [
+      {
+        "id": "HP_0003199",
+        "name": "Decreased muscle mass"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0005072",
+        "name": "Wrist hypermobility"
+      }
+    ]
+  },
+  "28385075": {
+    "gold": [
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0000016",
+        "name": "Urinary retention"
+      },
+      {
+        "id": "HP_0025407",
+        "name": "Rectourethral fistula"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100273",
+        "name": "Neoplasm of the colon"
+      }
+    ]
+  },
+  "28389633": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28394217": {
+    "gold": [
+      {
+        "id": "HP_0033676",
+        "name": "Posttraumatic stress symptom"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "28395554": {
+    "gold": [
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      },
+      {
+        "id": "HP_0008069",
+        "name": "Neoplasm of the skin"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28396744": {
+    "gold": [
+      {
+        "id": "HP_0012594",
+        "name": "Moderate albuminuria"
+      },
+      {
+        "id": "HP_0000488",
+        "name": "Retinopathy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012072",
+        "name": "Aciduria"
+      }
+    ]
+  },
+  "28400582": {
+    "gold": [
+      {
+        "id": "HP_0002613",
+        "name": "Biliary cirrhosis"
+      },
+      {
+        "id": "HP_0030167",
+        "name": "Antimitochondrial antibody positivity"
+      }
+    ],
+    "pred": []
+  },
+  "28402002": {
+    "gold": [
+      {
+        "id": "HP_5200341",
+        "name": "Addictive cannabis use"
+      },
+      {
+        "id": "HP_0000716",
+        "name": "Depression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety"
+      }
+    ]
+  },
+  "28402232": {
+    "gold": [
+      {
+        "id": "HP_0003419",
+        "name": "Low back pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003419",
+        "name": "Low back pain"
+      }
+    ]
+  },
+  "28402261": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0031319",
+        "name": "Cardiomyocyte hypertrophy"
+      },
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ]
+  },
+  "28404899": {
+    "gold": [
+      {
+        "id": "HP_0100726",
+        "name": "Kaposi's sarcoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28405013": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28405450": {
+    "gold": [
+      {
+        "id": "HP_0020071",
+        "name": "Viremia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001903",
+        "name": "Anemia"
+      }
+    ]
+  },
+  "28406413": {
+    "gold": [
+      {
+        "id": "HP_0033608",
+        "name": "Pulmonary nodule"
+      },
+      {
+        "id": "HP_0032258",
+        "name": "Pulmonary histoplasmosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "28412969": {
+    "gold": [
+      {
+        "id": "HP_0030692",
+        "name": "Brain neoplasm"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28413179": {
+    "gold": [
+      {
+        "id": "HP_0001873",
+        "name": "Thrombocytopenia"
+      },
+      {
+        "id": "HP_0001894",
+        "name": "Thrombocytosis"
+      },
+      {
+        "id": "HP_0000979",
+        "name": "Purpura"
+      },
+      {
+        "id": "HP_0001973",
+        "name": "Autoimmune thrombocytopenia"
+      }
+    ],
+    "pred": []
+  },
+  "28413794": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0003006",
+        "name": "Neuroblastoma"
+      },
+      {
+        "id": "HP_0002666",
+        "name": "Pheochromocytoma"
+      },
+      {
+        "id": "HP_0002865",
+        "name": "Medullary thyroid carcinoma"
+      }
+    ],
+    "pred": []
+  },
+  "28416410": {
+    "gold": [
+      {
+        "id": "HP_0002617",
+        "name": "Vascular dilatation"
+      },
+      {
+        "id": "HP_0004944",
+        "name": "Dilatation of the cerebral artery"
+      },
+      {
+        "id": "HP_0001907",
+        "name": "Thromboembolism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004944",
+        "name": "Dilatation of the cerebral artery"
+      }
+    ]
+  },
+  "28420538": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28424445": {
+    "gold": [
+      {
+        "id": "HP_0001627",
+        "name": "Abnormal heart morphology"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0011675",
+        "name": "Arrhythmia"
+      }
+    ]
+  },
+  "28424584": {
+    "gold": [
+      {
+        "id": "HP_0025722",
+        "name": "Cerebral infarct"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025722",
+        "name": "Cerebral infarct"
+      }
+    ]
+  },
+  "28425183": {
+    "gold": [
+      {
+        "id": "HP_0100651",
+        "name": "Type I diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000717",
+        "name": "Autism"
+      }
+    ]
+  },
+  "28427537": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28429354": {
+    "gold": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ]
+  },
+  "28430341": {
+    "gold": [
+      {
+        "id": "HP_0000024",
+        "name": "Prostatitis"
+      },
+      {
+        "id": "HP_0012125",
+        "name": "Prostate cancer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28433844": {
+    "gold": [
+      {
+        "id": "HP_0002475",
+        "name": "Myelomeningocele"
+      },
+      {
+        "id": "HP_0004610",
+        "name": "Lumbar spinal canal stenosis"
+      },
+      {
+        "id": "HP_0002144",
+        "name": "Tethered cord"
+      },
+      {
+        "id": "HP_0002176",
+        "name": "Spinal cord compression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000475",
+        "name": "Broad neck"
+      }
+    ]
+  },
+  "28434980": {
+    "gold": [
+      {
+        "id": "HP_0034280",
+        "name": "Target cells"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002721",
+        "name": "Immunodeficiency"
+      }
+    ]
+  },
+  "28436433": {
+    "gold": [
+      {
+        "id": "HP_0033331",
+        "name": "Acute phase response"
+      }
+    ],
+    "pred": []
+  },
+  "28437582": {
+    "gold": [
+      {
+        "id": "HP_0006749",
+        "name": "Malignant gastrointestinal tract tumors"
+      },
+      {
+        "id": "HP_0033675",
+        "name": "Frailty"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0006934",
+        "name": "Congenital nystagmus"
+      }
+    ]
+  },
+  "28440090": {
+    "gold": [
+      {
+        "id": "HP_0100242",
+        "name": "Sarcoma"
+      },
+      {
+        "id": "HP_0010788",
+        "name": "Testicular neoplasm"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100728",
+        "name": "Germ cell neoplasia"
+      },
+      {
+        "id": "HP_0006765",
+        "name": "Chondrosarcoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28443376": {
+    "gold": [
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury"
+      }
+    ],
+    "pred": []
+  },
+  "28446912": {
+    "gold": [
+      {
+        "id": "HP_0012393",
+        "name": "Allergy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ]
+  },
+  "28447924": {
+    "gold": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001513",
+        "name": "Obesity"
+      }
+    ]
+  },
+  "28449774": {
+    "gold": [
+      {
+        "id": "HP_0001699",
+        "name": "Sudden death"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0011675",
+        "name": "Arrhythmia"
+      },
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ]
+  },
+  "28450395": {
+    "gold": [
+      {
+        "id": "HP_0032940",
+        "name": "Dissociation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0004330",
+        "name": "Increased skull ossification"
+      }
+    ]
+  },
+  "28451446": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000616",
+        "name": "Miosis"
+      }
+    ]
+  },
+  "28457143": {
+    "gold": [
+      {
+        "id": "HP_0000729",
+        "name": "Autistic behavior"
+      },
+      {
+        "id": "HP_0000717",
+        "name": "Autism"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000717",
+        "name": "Autism"
+      }
+    ]
+  },
+  "28459420": {
+    "gold": [
+      {
+        "id": "HP_0001677",
+        "name": "Coronary artery atherosclerosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001677",
+        "name": "Coronary artery atherosclerosis"
+      }
+    ]
+  },
+  "28459654": {
+    "gold": [
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia"
+      }
+    ],
+    "pred": []
+  },
+  "28460374": {
+    "gold": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system"
+      }
+    ]
+  },
+  "28464019": {
+    "gold": [
+      {
+        "id": "HP_0000700",
+        "name": "Periapical bone loss"
+      }
+    ],
+    "pred": []
+  },
+  "28464291": {
+    "gold": [
+      {
+        "id": "HP_0002527",
+        "name": "Falls"
+      }
+    ],
+    "pred": []
+  },
+  "28464602": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002665",
+        "name": "Lymphoma"
+      }
+    ]
+  },
+  "28465793": {
+    "gold": [
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001943",
+        "name": "Hypoglycemia"
+      }
+    ]
+  },
+  "28468714": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0100844",
+        "name": "Pancreatic fistula"
+      },
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28470106": {
+    "gold": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      },
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "28470753": {
+    "gold": [
+      {
+        "id": "HP_0002862",
+        "name": "Bladder carcinoma"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28471941": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0003689",
+        "name": "Multiple mitochondrial DNA deletions"
+      }
+    ]
+  },
+  "28473640": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      },
+      {
+        "id": "HP_0002059",
+        "name": "Cerebral atrophy"
+      },
+      {
+        "id": "HP_0001268",
+        "name": "Mental deterioration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment"
+      }
+    ]
+  },
+  "28476271": {
+    "gold": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension"
+      }
+    ]
+  },
+  "28476381": {
+    "gold": [
+      {
+        "id": "HP_0009725",
+        "name": "Bladder neoplasm"
+      },
+      {
+        "id": "HP_0010622",
+        "name": "Neoplasm of the skeletal system"
+      },
+      {
+        "id": "HP_0002861",
+        "name": "Melanoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28479259": {
+    "gold": [
+      {
+        "id": "HP_0002511",
+        "name": "Alzheimer disease"
+      }
+    ],
+    "pred": []
+  },
+  "28483530": {
+    "gold": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002204",
+        "name": "Pulmonary embolism"
+      }
+    ]
+  },
+  "28485296": {
+    "gold": [
+      {
+        "id": "HP_0001742",
+        "name": "Nasal congestion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0008229",
+        "name": "Thyroid lymphangiectasia"
+      }
+    ]
+  },
+  "28490164": {
+    "gold": [
+      {
+        "id": "HP_0100790",
+        "name": "Hernia"
+      },
+      {
+        "id": "HP_0000238",
+        "name": "Hydrocephalus"
+      },
+      {
+        "id": "HP_0001269",
+        "name": "Hemiparesis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0032392",
+        "name": "Nodular subcortical heterotopia in peritrigonal regions"
+      }
+    ]
+  },
+  "28492106": {
+    "gold": [
+      {
+        "id": "HP_0012393",
+        "name": "Allergy"
+      },
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      },
+      {
+        "id": "HP_0001025",
+        "name": "Urticaria"
+      }
+    ],
+    "pred": []
+  },
+  "28495504": {
+    "gold": [
+      {
+        "id": "HP_0012089",
+        "name": "Arteritis"
+      },
+      {
+        "id": "HP_0100519",
+        "name": "Anuria"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0000123",
+        "name": "Nephritis"
+      }
+    ]
+  },
+  "28496002": {
+    "gold": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0002896",
+        "name": "Neoplasm of the liver"
+      },
+      {
+        "id": "HP_0003002",
+        "name": "Breast carcinoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      }
+    ]
+  },
+  "28496419": {
+    "gold": [
+      {
+        "id": "HP_0011665",
+        "name": "Takotsubo cardiomyopathy"
+      },
+      {
+        "id": "HP_0001907",
+        "name": "Thromboembolism"
+      },
+      {
+        "id": "HP_0011675",
+        "name": "Arrhythmia"
+      },
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      },
+      {
+        "id": "HP_0001635",
+        "name": "Congestive heart failure"
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction"
+      },
+      {
+        "id": "HP_0011675",
+        "name": "Arrhythmia"
+      }
+    ]
+  },
+  "28501006": {
+    "gold": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis"
+      }
+    ]
+  },
+  "28501764": {
+    "gold": [
+      {
+        "id": "HP_0002829",
+        "name": "Arthralgia"
+      },
+      {
+        "id": "HP_0001596",
+        "name": "Alopecia"
+      },
+      {
+        "id": "HP_0000962",
+        "name": "Hyperkeratosis"
+      },
+      {
+        "id": "HP_0006739",
+        "name": "Squamous cell carcinoma of the skin"
+      },
+      {
+        "id": "HP_0031525",
+        "name": "Keratoacanthoma"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0025127",
+        "name": "Actinic keratosis"
+      }
+    ]
+  },
+  "28503431": {
+    "gold": [
+      {
+        "id": "HP_0001373",
+        "name": "Joint dislocation"
+      },
+      {
+        "id": "HP_0000541",
+        "name": "Retinal detachment"
+      },
+      {
+        "id": "HP_0011003",
+        "name": "High myopia"
+      },
+      {
+        "id": "HP_0000519",
+        "name": "Developmental cataract"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0031239",
+        "name": "Extrafoveal choroidal neovascularization"
+      },
+      {
+        "id": "HP_0007406",
+        "name": "Hyperpigmentation of eyelids"
+      }
+    ]
+  },
+  "28506958": {
+    "gold": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      },
+      {
+        "id": "HP_0002202",
+        "name": "Pleural effusion"
+      },
+      {
+        "id": "HP_0002113",
+        "name": "Pulmonary infiltrates"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ]
+  },
+  "28507202": {
+    "gold": [
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia"
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      },
+      {
+        "id": "HP_0012539",
+        "name": "Non-Hodgkin lymphoma"
+      },
+      {
+        "id": "HP_0002488",
+        "name": "Acute leukemia"
+      },
+      {
+        "id": "HP_0001871",
+        "name": "Abnormality of blood and blood-forming tissues"
+      }
+    ],
+    "pred": []
+  },
+  "28511906": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28514486": {
+    "gold": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0100753",
+        "name": "Schizophrenia"
+      }
+    ]
+  },
+  "28515448": {
+    "gold": [
+      {
+        "id": "HP_0004934",
+        "name": "Vascular calcification"
+      },
+      {
+        "id": "HP_0002905",
+        "name": "Hyperphosphatemia"
+      },
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease"
+      },
+      {
+        "id": "HP_0012085",
+        "name": "Pyuria"
+      }
+    ]
+  },
+  "28516841": {
+    "gold": [
+      {
+        "id": "HP_0000509",
+        "name": "Conjunctivitis"
+      },
+      {
+        "id": "HP_0002090",
+        "name": "Pneumonia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0032249",
+        "name": "Coccidioidomycosis"
+      }
+    ]
+  },
+  "28521254": {
+    "gold": [
+      {
+        "id": "HP_0030731",
+        "name": "Carcinoma"
+      },
+      {
+        "id": "HP_0001402",
+        "name": "Hepatocellular carcinoma"
+      }
+    ],
+    "pred": []
+  },
+  "28526000": {
+    "gold": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm"
+      }
+    ]
+  },
+  "28532107": {
+    "gold": [
+      {
+        "id": "HP_0000478",
+        "name": "Abnormality of the eye"
+      }
+    ],
+    "pred": []
+  },
+  "28540341": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      },
+      {
+        "id": "HP_0020110",
+        "name": "Bone fracture"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28544275": {
+    "gold": [
+      {
+        "id": "HP_0003198",
+        "name": "Myopathy"
+      },
+      {
+        "id": "HP_0010867",
+        "name": "Dyssynergia"
+      },
+      {
+        "id": "HP_0001251",
+        "name": "Ataxia"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0033715",
+        "name": "Hippocampal sclerosis"
+      }
+    ]
+  },
+  "28545437": {
+    "gold": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain"
+      }
+    ]
+  },
+  "28546554": {
+    "gold": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "HP_0020174",
+        "name": "Refractory drug response"
+      }
+    ]
+  }
+}

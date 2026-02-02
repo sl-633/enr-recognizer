@@ -1,0 +1,6318 @@
+{
+  "25847295": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0006309",
+        "name": "apoptotic DNA fragmentation"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ],
+    "pred": []
+  },
+  "26876532": {
+    "gold": [
+      {
+        "id": "GO_0008380",
+        "name": "RNA splicing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008380",
+        "name": "RNA splicing"
+      }
+    ]
+  },
+  "27233131": {
+    "gold": [
+      {
+        "id": "GO_0010286",
+        "name": "heat acclimation"
+      },
+      {
+        "id": "GO_0030164",
+        "name": "protein denaturation"
+      }
+    ],
+    "pred": []
+  },
+  "27239541": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "27241291": {
+    "gold": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032241",
+        "name": "positive regulation of nucleobase-containing compound transport"
+      }
+    ]
+  },
+  "27241818": {
+    "gold": [
+      {
+        "id": "GO_0040011",
+        "name": "locomotion"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0120178",
+        "name": "steroid hormone biosynthetic process"
+      }
+    ]
+  },
+  "27242550": {
+    "gold": [
+      {
+        "id": "GO_0010255",
+        "name": "glucose mediated signaling pathway"
+      },
+      {
+        "id": "GO_0040011",
+        "name": "locomotion"
+      },
+      {
+        "id": "GO_0071806",
+        "name": "protein transmembrane transport"
+      },
+      {
+        "id": "GO_0007608",
+        "name": "sensory perception of smell"
+      },
+      {
+        "id": "GO_0001508",
+        "name": "action potential"
+      },
+      {
+        "id": "GO_0000423",
+        "name": "mitophagy"
+      },
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ]
+  },
+  "27245335": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      },
+      {
+        "id": "GO_0040033",
+        "name": "sRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27252199": {
+    "gold": [
+      {
+        "id": "GO_0007320",
+        "name": "insemination"
+      },
+      {
+        "id": "GO_0009566",
+        "name": "fertilization"
+      }
+    ],
+    "pred": []
+  },
+  "27257056": {
+    "gold": [
+      {
+        "id": "GO_0006452",
+        "name": "translational frameshifting"
+      },
+      {
+        "id": "GO_2000144",
+        "name": "positive regulation of DNA-templated transcription initiation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      }
+    ]
+  },
+  "27259647": {
+    "gold": [
+      {
+        "id": "GO_0006096",
+        "name": "glycolytic process"
+      },
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_1990748",
+        "name": "cellular detoxification"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006694",
+        "name": "steroid biosynthetic process"
+      }
+    ]
+  },
+  "27261783": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27273231": {
+    "gold": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      },
+      {
+        "id": "GO_0007599",
+        "name": "hemostasis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ]
+  },
+  "27273307": {
+    "gold": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "27288457": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0014044",
+        "name": "Schwann cell development"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0042552",
+        "name": "myelination"
+      },
+      {
+        "id": "GO_0035329",
+        "name": "hippo signaling"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "27297967": {
+    "gold": [
+      {
+        "id": "GO_0006810",
+        "name": "transport"
+      },
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0006486",
+        "name": "protein glycosylation"
+      },
+      {
+        "id": "GO_1990748",
+        "name": "cellular detoxification"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      }
+    ]
+  },
+  "27298278": {
+    "gold": [
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      }
+    ]
+  },
+  "27301681": {
+    "gold": [
+      {
+        "id": "GO_0051647",
+        "name": "nucleus localization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006281",
+        "name": "DNA repair"
+      }
+    ]
+  },
+  "27306834": {
+    "gold": [
+      {
+        "id": "GO_0046651",
+        "name": "lymphocyte proliferation"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27309274": {
+    "gold": [
+      {
+        "id": "GO_0045444",
+        "name": "fat cell differentiation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27317610": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0001775",
+        "name": "cell activation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0022008",
+        "name": "neurogenesis"
+      }
+    ]
+  },
+  "27320055": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27320863": {
+    "gold": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  },
+  "27321892": {
+    "gold": [
+      {
+        "id": "GO_0007268",
+        "name": "chemical synaptic transmission"
+      },
+      {
+        "id": "GO_1904071",
+        "name": "presynaptic active zone assembly"
+      },
+      {
+        "id": "GO_0008104",
+        "name": "protein localization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007268",
+        "name": "chemical synaptic transmission"
+      },
+      {
+        "id": "GO_1902530",
+        "name": "positive regulation of protein linear polyubiquitination"
+      }
+    ]
+  },
+  "27325393": {
+    "gold": [
+      {
+        "id": "GO_0006953",
+        "name": "acute-phase response"
+      },
+      {
+        "id": "GO_0006956",
+        "name": "complement activation"
+      },
+      {
+        "id": "GO_0050817",
+        "name": "coagulation"
+      },
+      {
+        "id": "GO_0045321",
+        "name": "leukocyte activation"
+      }
+    ],
+    "pred": []
+  },
+  "27334471": {
+    "gold": [
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      }
+    ]
+  },
+  "27335087": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0002376",
+        "name": "immune system process"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      }
+    ],
+    "pred": []
+  },
+  "27340777": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0001525",
+        "name": "angiogenesis"
+      },
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27346839": {
+    "gold": [
+      {
+        "id": "GO_0042710",
+        "name": "biofilm formation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007154",
+        "name": "cell communication"
+      }
+    ]
+  },
+  "27349182": {
+    "gold": [
+      {
+        "id": "GO_0006629",
+        "name": "lipid metabolic process"
+      },
+      {
+        "id": "GO_0008206",
+        "name": "bile acid metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27350860": {
+    "gold": [
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0001649",
+        "name": "osteoblast differentiation"
+      }
+    ],
+    "pred": []
+  },
+  "27354201": {
+    "gold": [
+      {
+        "id": "GO_0042692",
+        "name": "muscle cell differentiation"
+      },
+      {
+        "id": "GO_0043403",
+        "name": "skeletal muscle tissue regeneration"
+      },
+      {
+        "id": "GO_0001775",
+        "name": "cell activation"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0140253",
+        "name": "cell-cell fusion"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0048513",
+        "name": "animal organ development"
+      }
+    ]
+  },
+  "27354236": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_0006635",
+        "name": "fatty acid beta-oxidation"
+      },
+      {
+        "id": "GO_0006091",
+        "name": "generation of precursor metabolites and energy"
+      },
+      {
+        "id": "GO_0006096",
+        "name": "glycolytic process"
+      },
+      {
+        "id": "GO_0006629",
+        "name": "lipid metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27356521": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "27358525": {
+    "gold": [
+      {
+        "id": "GO_0044850",
+        "name": "menstrual cycle"
+      },
+      {
+        "id": "GO_0042703",
+        "name": "menstruation"
+      }
+    ],
+    "pred": []
+  },
+  "27366176": {
+    "gold": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ]
+  },
+  "27366556": {
+    "gold": [
+      {
+        "id": "GO_0050432",
+        "name": "catecholamine secretion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050432",
+        "name": "catecholamine secretion"
+      }
+    ]
+  },
+  "27371817": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27372076": {
+    "gold": [
+      {
+        "id": "GO_0006113",
+        "name": "fermentation"
+      },
+      {
+        "id": "GO_0065009",
+        "name": "regulation of molecular function"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      },
+      {
+        "id": "GO_0019655",
+        "name": "glycolytic fermentation to ethanol"
+      }
+    ]
+  },
+  "27373429": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": []
+  },
+  "27373772": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0045165",
+        "name": "cell fate commitment"
+      },
+      {
+        "id": "GO_0022008",
+        "name": "neurogenesis"
+      },
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      },
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ],
+    "pred": []
+  },
+  "27375774": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0040011",
+        "name": "locomotion"
+      }
+    ]
+  },
+  "27383326": {
+    "gold": [
+      {
+        "id": "GO_0016525",
+        "name": "negative regulation of angiogenesis"
+      }
+    ],
+    "pred": []
+  },
+  "27395231": {
+    "gold": [
+      {
+        "id": "GO_0007593",
+        "name": "chitin-based cuticle sclerotization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27395442": {
+    "gold": [
+      {
+        "id": "GO_0019331",
+        "name": "anaerobic respiration, using ammonium as electron donor"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006694",
+        "name": "steroid biosynthetic process"
+      }
+    ]
+  },
+  "27402480": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27402827": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0050803",
+        "name": "regulation of synapse structure or activity"
+      },
+      {
+        "id": "GO_0097119",
+        "name": "postsynaptic density protein 95 clustering"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      }
+    ]
+  },
+  "27404944": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27408381": {
+    "gold": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ]
+  },
+  "27420620": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0060612",
+        "name": "adipose tissue development"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0008203",
+        "name": "cholesterol metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27425447": {
+    "gold": [
+      {
+        "id": "GO_0008285",
+        "name": "negative regulation of cell population proliferation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27430240": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0046085",
+        "name": "adenosine metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0000512",
+        "name": "lncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27436524": {
+    "gold": [
+      {
+        "id": "GO_0019954",
+        "name": "asexual reproduction"
+      },
+      {
+        "id": "GO_0006310",
+        "name": "DNA recombination"
+      }
+    ],
+    "pred": []
+  },
+  "27440255": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "27440725": {
+    "gold": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      },
+      {
+        "id": "GO_0016579",
+        "name": "protein deubiquitination"
+      }
+    ],
+    "pred": []
+  },
+  "27442214": {
+    "gold": [
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      },
+      {
+        "id": "GO_0001501",
+        "name": "skeletal system development"
+      }
+    ],
+    "pred": []
+  },
+  "27445389": {
+    "gold": [
+      {
+        "id": "GO_0009292",
+        "name": "horizontal gene transfer"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0020033",
+        "name": "antigenic variation"
+      }
+    ]
+  },
+  "27445450": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": []
+  },
+  "27446352": {
+    "gold": [
+      {
+        "id": "GO_0008380",
+        "name": "RNA splicing"
+      },
+      {
+        "id": "GO_0009451",
+        "name": "RNA modification"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0006382",
+        "name": "adenosine to inosine editing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035195",
+        "name": "miRNA-mediated post-transcriptional gene silencing"
+      },
+      {
+        "id": "GO_0006281",
+        "name": "DNA repair"
+      }
+    ]
+  },
+  "27446550": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27449818": {
+    "gold": [
+      {
+        "id": "GO_0007599",
+        "name": "hemostasis"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0042702",
+        "name": "uterine wall growth"
+      }
+    ],
+    "pred": []
+  },
+  "27454738": {
+    "gold": [
+      {
+        "id": "GO_0006325",
+        "name": "chromatin organization"
+      },
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_1903532",
+        "name": "positive regulation of secretion by cell"
+      }
+    ]
+  },
+  "27457539": {
+    "gold": [
+      {
+        "id": "GO_0016032",
+        "name": "viral process"
+      },
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      },
+      {
+        "id": "GO_0006955",
+        "name": "immune response"
+      }
+    ]
+  },
+  "27458601": {
+    "gold": [
+      {
+        "id": "GO_0002377",
+        "name": "immunoglobulin production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0002377",
+        "name": "immunoglobulin production"
+      }
+    ]
+  },
+  "27460657": {
+    "gold": [
+      {
+        "id": "GO_0080110",
+        "name": "sporopollenin biosynthetic process"
+      },
+      {
+        "id": "GO_0010208",
+        "name": "pollen wall assembly"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0023019",
+        "name": "signal transduction involved in regulation of gene expression"
+      }
+    ]
+  },
+  "27461472": {
+    "gold": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  },
+  "27465797": {
+    "gold": [
+      {
+        "id": "GO_0033674",
+        "name": "positive regulation of kinase activity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0010734",
+        "name": "negative regulation of protein glutathionylation"
+      },
+      {
+        "id": "GO_0055088",
+        "name": "lipid homeostasis"
+      }
+    ]
+  },
+  "27470228": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27470609": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0002377",
+        "name": "immunoglobulin production"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27472389": {
+    "gold": [
+      {
+        "id": "GO_0048870",
+        "name": "cell motility"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032730",
+        "name": "positive regulation of interleukin-1 alpha production"
+      },
+      {
+        "id": "GO_0008285",
+        "name": "negative regulation of cell population proliferation"
+      }
+    ]
+  },
+  "27473380": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": []
+  },
+  "27473429": {
+    "gold": [
+      {
+        "id": "GO_0006277",
+        "name": "DNA amplification"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006277",
+        "name": "DNA amplification"
+      },
+      {
+        "id": "GO_0015074",
+        "name": "DNA integration"
+      }
+    ]
+  },
+  "27475696": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27476541": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "27477569": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0007154",
+        "name": "cell communication"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001775",
+        "name": "cell activation"
+      }
+    ]
+  },
+  "27478387": {
+    "gold": [
+      {
+        "id": "GO_0060096",
+        "name": "serotonin secretion, neurotransmission"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_1990029",
+        "name": "vasomotion"
+      }
+    ]
+  },
+  "27478553": {
+    "gold": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ]
+  },
+  "27481714": {
+    "gold": [
+      {
+        "id": "GO_0006811",
+        "name": "monoatomic ion transport"
+      },
+      {
+        "id": "GO_0055074",
+        "name": "calcium ion homeostasis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0070509",
+        "name": "calcium ion import"
+      }
+    ]
+  },
+  "27482869": {
+    "gold": [
+      {
+        "id": "GO_0044850",
+        "name": "menstrual cycle"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27484604": {
+    "gold": [
+      {
+        "id": "GO_1990523",
+        "name": "bone regeneration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_1990523",
+        "name": "bone regeneration"
+      }
+    ]
+  },
+  "27485340": {
+    "gold": [
+      {
+        "id": "GO_0031293",
+        "name": "membrane protein intracellular domain proteolysis"
+      },
+      {
+        "id": "GO_0031648",
+        "name": "protein destabilization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030050",
+        "name": "vesicle transport along actin filament"
+      }
+    ]
+  },
+  "27488290": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ]
+  },
+  "27498180": {
+    "gold": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      },
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      },
+      {
+        "id": "GO_0022008",
+        "name": "neurogenesis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27503306": {
+    "gold": [
+      {
+        "id": "GO_0042730",
+        "name": "fibrinolysis"
+      }
+    ],
+    "pred": []
+  },
+  "27503899": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0061743",
+        "name": "motor learning"
+      }
+    ]
+  },
+  "27503926": {
+    "gold": [
+      {
+        "id": "GO_0051726",
+        "name": "regulation of cell cycle"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27509301": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27513357": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0006909",
+        "name": "phagocytosis"
+      },
+      {
+        "id": "GO_0019372",
+        "name": "lipoxygenase pathway"
+      }
+    ],
+    "pred": []
+  },
+  "27525173": {
+    "gold": [
+      {
+        "id": "GO_0008380",
+        "name": "RNA splicing"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0000902",
+        "name": "cell morphogenesis"
+      }
+    ]
+  },
+  "27526663": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_0006952",
+        "name": "defense response"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_1900368",
+        "name": "regulation of post-transcriptional gene silencing by regulatory ncRNA"
+      }
+    ]
+  },
+  "27530053": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27532007": {
+    "gold": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0000424",
+        "name": "micromitophagy"
+      }
+    ]
+  },
+  "27534399": {
+    "gold": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ],
+    "pred": []
+  },
+  "27538372": {
+    "gold": [
+      {
+        "id": "GO_0055007",
+        "name": "cardiac muscle cell differentiation"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0048863",
+        "name": "stem cell differentiation"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0045837",
+        "name": "negative regulation of membrane potential"
+      },
+      {
+        "id": "GO_1903426",
+        "name": "regulation of reactive oxygen species biosynthetic process"
+      },
+      {
+        "id": "GO_0051562",
+        "name": "negative regulation of mitochondrial calcium ion concentration"
+      },
+      {
+        "id": "GO_0035051",
+        "name": "cardiocyte differentiation"
+      }
+    ],
+    "pred": []
+  },
+  "27542380": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0009372",
+        "name": "quorum sensing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050821",
+        "name": "protein stabilization"
+      }
+    ]
+  },
+  "27546367": {
+    "gold": [
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ]
+  },
+  "27563025": {
+    "gold": [
+      {
+        "id": "GO_0031100",
+        "name": "animal organ regeneration"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0045445",
+        "name": "myoblast differentiation"
+      },
+      {
+        "id": "GO_0014904",
+        "name": "myotube cell development"
+      }
+    ],
+    "pred": []
+  },
+  "27569827": {
+    "gold": [
+      {
+        "id": "GO_0020033",
+        "name": "antigenic variation"
+      }
+    ],
+    "pred": []
+  },
+  "27570140": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      },
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27572277": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27576608": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "27580908": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "27587730": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27600888": {
+    "gold": [
+      {
+        "id": "GO_0016032",
+        "name": "viral process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ]
+  },
+  "27601292": {
+    "gold": [
+      {
+        "id": "GO_0006805",
+        "name": "xenobiotic metabolic process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0043086",
+        "name": "negative regulation of catalytic activity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27601594": {
+    "gold": [
+      {
+        "id": "GO_0006955",
+        "name": "immune response"
+      },
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      },
+      {
+        "id": "GO_0042110",
+        "name": "T cell activation"
+      },
+      {
+        "id": "GO_0051726",
+        "name": "regulation of cell cycle"
+      }
+    ],
+    "pred": []
+  },
+  "27603112": {
+    "gold": [
+      {
+        "id": "GO_0015888",
+        "name": "thiamine transport"
+      }
+    ],
+    "pred": []
+  },
+  "27608421": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0019748",
+        "name": "secondary metabolic process"
+      },
+      {
+        "id": "GO_0016998",
+        "name": "cell wall macromolecule catabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009987",
+        "name": "cellular process"
+      }
+    ]
+  },
+  "27608968": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27611704": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      }
+    ]
+  },
+  "27616047": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": []
+  },
+  "27622027": {
+    "gold": [
+      {
+        "id": "GO_0019882",
+        "name": "antigen processing and presentation"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0001913",
+        "name": "T cell mediated cytotoxicity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ]
+  },
+  "27629431": {
+    "gold": [
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      },
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ]
+  },
+  "27631550": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27637577": {
+    "gold": [
+      {
+        "id": "GO_0032259",
+        "name": "methylation"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27650225": {
+    "gold": [
+      {
+        "id": "GO_0007589",
+        "name": "body fluid secretion"
+      },
+      {
+        "id": "GO_0030421",
+        "name": "defecation"
+      },
+      {
+        "id": "GO_0120054",
+        "name": "intestinal motility"
+      }
+    ],
+    "pred": []
+  },
+  "27651955": {
+    "gold": [
+      {
+        "id": "GO_0040011",
+        "name": "locomotion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0048731",
+        "name": "system development"
+      }
+    ]
+  },
+  "27659183": {
+    "gold": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ]
+  },
+  "27659602": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "27660632": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ]
+  },
+  "27667559": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27667560": {
+    "gold": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      }
+    ]
+  },
+  "27668722": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0009627",
+        "name": "systemic acquired resistance"
+      },
+      {
+        "id": "GO_0001171",
+        "name": "reverse transcription"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0009410",
+        "name": "response to xenobiotic stimulus"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010198",
+        "name": "synergid death"
+      }
+    ]
+  },
+  "27669217": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27671789": {
+    "gold": [
+      {
+        "id": "GO_0016925",
+        "name": "protein sumoylation"
+      },
+      {
+        "id": "GO_0016485",
+        "name": "protein processing"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0034421",
+        "name": "post-translational protein acetylation"
+      }
+    ]
+  },
+  "27676724": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27678020": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0046958",
+        "name": "nonassociative learning"
+      }
+    ]
+  },
+  "27692319": {
+    "gold": [
+      {
+        "id": "GO_0009790",
+        "name": "embryo development"
+      },
+      {
+        "id": "GO_0035188",
+        "name": "hatching"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0002119",
+        "name": "nematode larval development"
+      }
+    ]
+  },
+  "27697757": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0009566",
+        "name": "fertilization"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0097284",
+        "name": "hepatocyte apoptotic process"
+      },
+      {
+        "id": "GO_0000910",
+        "name": "cytokinesis"
+      },
+      {
+        "id": "GO_0009636",
+        "name": "response to toxic substance"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      },
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ]
+  },
+  "27699590": {
+    "gold": [
+      {
+        "id": "GO_0042593",
+        "name": "glucose homeostasis"
+      },
+      {
+        "id": "GO_0006094",
+        "name": "gluconeogenesis"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ]
+  },
+  "27708411": {
+    "gold": [
+      {
+        "id": "GO_0000730",
+        "name": "DNA recombinase assembly"
+      },
+      {
+        "id": "GO_0006310",
+        "name": "DNA recombination"
+      },
+      {
+        "id": "GO_0000018",
+        "name": "regulation of DNA recombination"
+      },
+      {
+        "id": "GO_0051701",
+        "name": "biological process involved in interaction with host"
+      }
+    ],
+    "pred": []
+  },
+  "27709647": {
+    "gold": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ]
+  },
+  "27710934": {
+    "gold": [
+      {
+        "id": "GO_0018256",
+        "name": "protein formylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030259",
+        "name": "lipid glycosylation"
+      }
+    ]
+  },
+  "27717775": {
+    "gold": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      },
+      {
+        "id": "GO_0044319",
+        "name": "wound healing, spreading of cells"
+      }
+    ]
+  },
+  "27722201": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      },
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27722881": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": []
+  },
+  "27724977": {
+    "gold": [
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      },
+      {
+        "id": "GO_0017145",
+        "name": "stem cell division"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ],
+    "pred": []
+  },
+  "27729085": {
+    "gold": [
+      {
+        "id": "GO_0043696",
+        "name": "dedifferentiation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ]
+  },
+  "27743686": {
+    "gold": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0001546",
+        "name": "preantral ovarian follicle growth"
+      }
+    ],
+    "pred": []
+  },
+  "27745564": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "27756117": {
+    "gold": [
+      {
+        "id": "GO_0007599",
+        "name": "hemostasis"
+      },
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      }
+    ]
+  },
+  "27757318": {
+    "gold": [
+      {
+        "id": "GO_0001775",
+        "name": "cell activation"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0001777",
+        "name": "T cell homeostatic proliferation"
+      }
+    ],
+    "pred": []
+  },
+  "27764714": {
+    "gold": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27765873": {
+    "gold": [
+      {
+        "id": "GO_0034440",
+        "name": "lipid oxidation"
+      },
+      {
+        "id": "GO_0018158",
+        "name": "protein oxidation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_1901813",
+        "name": "astaxanthin metabolic process"
+      }
+    ]
+  },
+  "27771331": {
+    "gold": [
+      {
+        "id": "GO_0043335",
+        "name": "protein unfolding"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      }
+    ]
+  },
+  "27771746": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27778231": {
+    "gold": [
+      {
+        "id": "GO_0009410",
+        "name": "response to xenobiotic stimulus"
+      },
+      {
+        "id": "GO_0042981",
+        "name": "regulation of apoptotic process"
+      },
+      {
+        "id": "GO_0015031",
+        "name": "protein transport"
+      },
+      {
+        "id": "GO_0006457",
+        "name": "protein folding"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0007005",
+        "name": "mitochondrion organization"
+      }
+    ]
+  },
+  "27779702": {
+    "gold": [
+      {
+        "id": "GO_0070527",
+        "name": "platelet aggregation"
+      },
+      {
+        "id": "GO_0007596",
+        "name": "blood coagulation"
+      },
+      {
+        "id": "GO_0007154",
+        "name": "cell communication"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050817",
+        "name": "coagulation"
+      }
+    ]
+  },
+  "27784873": {
+    "gold": [
+      {
+        "id": "GO_0006939",
+        "name": "smooth muscle contraction"
+      },
+      {
+        "id": "GO_0060073",
+        "name": "micturition"
+      }
+    ],
+    "pred": []
+  },
+  "27791169": {
+    "gold": [
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "27791362": {
+    "gold": [
+      {
+        "id": "GO_0008015",
+        "name": "blood circulation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27794068": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      },
+      {
+        "id": "GO_0032637",
+        "name": "interleukin-8 production"
+      },
+      {
+        "id": "GO_0001816",
+        "name": "cytokine production"
+      }
+    ],
+    "pred": []
+  },
+  "27794381": {
+    "gold": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "27797717": {
+    "gold": [
+      {
+        "id": "GO_0000423",
+        "name": "mitophagy"
+      },
+      {
+        "id": "GO_0071806",
+        "name": "protein transmembrane transport"
+      },
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0051865",
+        "name": "protein autoubiquitination"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0097553",
+        "name": "calcium ion transmembrane import into cytosol"
+      }
+    ]
+  },
+  "27799314": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0002377",
+        "name": "immunoglobulin production"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ]
+  },
+  "27799834": {
+    "gold": [
+      {
+        "id": "GO_0014889",
+        "name": "muscle atrophy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0043503",
+        "name": "skeletal muscle fiber adaptation"
+      }
+    ]
+  },
+  "27801735": {
+    "gold": [
+      {
+        "id": "GO_0000075",
+        "name": "cell cycle checkpoint signaling"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      }
+    ]
+  },
+  "27801889": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27802570": {
+    "gold": [
+      {
+        "id": "GO_0009835",
+        "name": "fruit ripening"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009835",
+        "name": "fruit ripening"
+      }
+    ]
+  },
+  "27803787": {
+    "gold": [
+      {
+        "id": "GO_0023057",
+        "name": "negative regulation of signaling"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      },
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      }
+    ]
+  },
+  "27806658": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27810802": {
+    "gold": [
+      {
+        "id": "GO_0009627",
+        "name": "systemic acquired resistance"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007601",
+        "name": "visual perception"
+      }
+    ]
+  },
+  "27813022": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27815033": {
+    "gold": [
+      {
+        "id": "GO_0010150",
+        "name": "leaf senescence"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "27820849": {
+    "gold": [
+      {
+        "id": "GO_0002376",
+        "name": "immune system process"
+      },
+      {
+        "id": "GO_0007423",
+        "name": "sensory organ development"
+      },
+      {
+        "id": "GO_0022008",
+        "name": "neurogenesis"
+      }
+    ],
+    "pred": []
+  },
+  "27822855": {
+    "gold": [
+      {
+        "id": "GO_0006277",
+        "name": "DNA amplification"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006277",
+        "name": "DNA amplification"
+      }
+    ]
+  },
+  "27832159": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "27832198": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0042540",
+        "name": "hemoglobin catabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "27832581": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27837917": {
+    "gold": [
+      {
+        "id": "GO_0060291",
+        "name": "long-term synaptic potentiation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0048173",
+        "name": "positive regulation of short-term neuronal synaptic plasticity"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ]
+  },
+  "27838742": {
+    "gold": [
+      {
+        "id": "GO_0048102",
+        "name": "autophagic cell death"
+      },
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      }
+    ]
+  },
+  "27845771": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0016477",
+        "name": "cell migration"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      },
+      {
+        "id": "GO_0007049",
+        "name": "cell cycle"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": []
+  },
+  "27846748": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0045453",
+        "name": "bone resorption"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      }
+    ]
+  },
+  "27855073": {
+    "gold": [
+      {
+        "id": "GO_1990145",
+        "name": "maintenance of translational fidelity"
+      },
+      {
+        "id": "GO_0042254",
+        "name": "ribosome biogenesis"
+      },
+      {
+        "id": "GO_0042255",
+        "name": "ribosome assembly"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009987",
+        "name": "cellular process"
+      },
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      }
+    ]
+  },
+  "27857970": {
+    "gold": [
+      {
+        "id": "GO_0045859",
+        "name": "regulation of protein kinase activity"
+      },
+      {
+        "id": "GO_0008285",
+        "name": "negative regulation of cell population proliferation"
+      },
+      {
+        "id": "GO_0043065",
+        "name": "positive regulation of apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "27858508": {
+    "gold": [
+      {
+        "id": "GO_0006398",
+        "name": "mRNA 3'-end processing by stem-loop binding and cleavage"
+      },
+      {
+        "id": "GO_0006364",
+        "name": "rRNA processing"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0009566",
+        "name": "fertilization"
+      },
+      {
+        "id": "GO_0006403",
+        "name": "RNA localization"
+      },
+      {
+        "id": "GO_0009790",
+        "name": "embryo development"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27859998": {
+    "gold": [
+      {
+        "id": "GO_0050877",
+        "name": "nervous system process"
+      }
+    ],
+    "pred": []
+  },
+  "27861593": {
+    "gold": [
+      {
+        "id": "GO_0045728",
+        "name": "respiratory burst after phagocytosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009306",
+        "name": "protein secretion"
+      }
+    ]
+  },
+  "27863934": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": []
+  },
+  "27866508": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ]
+  },
+  "27867086": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      }
+    ]
+  },
+  "27872234": {
+    "gold": [
+      {
+        "id": "GO_0060081",
+        "name": "membrane hyperpolarization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0097553",
+        "name": "calcium ion transmembrane import into cytosol"
+      }
+    ]
+  },
+  "27875010": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "27876145": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032623",
+        "name": "interleukin-2 production"
+      }
+    ]
+  },
+  "27882455": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      },
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007614",
+        "name": "short-term memory"
+      }
+    ]
+  },
+  "27883264": {
+    "gold": [
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009372",
+        "name": "quorum sensing"
+      }
+    ]
+  },
+  "27884439": {
+    "gold": [
+      {
+        "id": "GO_0007618",
+        "name": "mating"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27886280": {
+    "gold": [
+      {
+        "id": "GO_0006950",
+        "name": "response to stress"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      },
+      {
+        "id": "GO_0006955",
+        "name": "immune response"
+      }
+    ]
+  },
+  "27891581": {
+    "gold": [
+      {
+        "id": "GO_0006487",
+        "name": "protein N-linked glycosylation"
+      },
+      {
+        "id": "GO_0036065",
+        "name": "fucosylation"
+      },
+      {
+        "id": "GO_0006486",
+        "name": "protein glycosylation"
+      },
+      {
+        "id": "GO_0042125",
+        "name": "protein galactosylation"
+      },
+      {
+        "id": "GO_1990743",
+        "name": "protein sialylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27892522": {
+    "gold": [
+      {
+        "id": "GO_0061025",
+        "name": "membrane fusion"
+      }
+    ],
+    "pred": []
+  },
+  "27894019": {
+    "gold": [
+      {
+        "id": "GO_0006952",
+        "name": "defense response"
+      }
+    ],
+    "pred": []
+  },
+  "27898905": {
+    "gold": [
+      {
+        "id": "GO_0007320",
+        "name": "insemination"
+      },
+      {
+        "id": "GO_0007595",
+        "name": "lactation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "27902690": {
+    "gold": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      }
+    ]
+  },
+  "27903410": {
+    "gold": [
+      {
+        "id": "GO_0008610",
+        "name": "lipid biosynthetic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006687",
+        "name": "glycosphingolipid metabolic process"
+      }
+    ]
+  },
+  "27905023": {
+    "gold": [
+      {
+        "id": "GO_0051932",
+        "name": "synaptic transmission, GABAergic"
+      },
+      {
+        "id": "GO_0021894",
+        "name": "cerebral cortex GABAergic interneuron development"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": []
+  },
+  "27905972": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27910818": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      },
+      {
+        "id": "GO_0001944",
+        "name": "vasculature development"
+      },
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0001649",
+        "name": "osteoblast differentiation"
+      },
+      {
+        "id": "GO_1990523",
+        "name": "bone regeneration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      },
+      {
+        "id": "GO_0031099",
+        "name": "regeneration"
+      }
+    ]
+  },
+  "27913563": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ]
+  },
+  "27921401": {
+    "gold": [
+      {
+        "id": "GO_0002376",
+        "name": "immune system process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0099506",
+        "name": "synaptic vesicle transport along actin filament"
+      }
+    ]
+  },
+  "27923134": {
+    "gold": [
+      {
+        "id": "GO_0060173",
+        "name": "limb development"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0051210",
+        "name": "isotropic cell growth"
+      }
+    ]
+  },
+  "27923790": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0000266",
+        "name": "mitochondrial fission"
+      },
+      {
+        "id": "GO_0042311",
+        "name": "vasodilation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ]
+  },
+  "27925180": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27925527": {
+    "gold": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ]
+  },
+  "27932585": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0043412",
+        "name": "macromolecule modification"
+      },
+      {
+        "id": "GO_0006400",
+        "name": "tRNA modification"
+      },
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      },
+      {
+        "id": "GO_0006457",
+        "name": "protein folding"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      }
+    ]
+  },
+  "27933664": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      },
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": []
+  },
+  "27940576": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      },
+      {
+        "id": "GO_0009968",
+        "name": "negative regulation of signal transduction"
+      },
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  },
+  "27941943": {
+    "gold": [
+      {
+        "id": "GO_0048364",
+        "name": "root development"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006749",
+        "name": "glutathione metabolic process"
+      },
+      {
+        "id": "GO_0019722",
+        "name": "calcium-mediated signaling"
+      },
+      {
+        "id": "GO_0042446",
+        "name": "hormone biosynthetic process"
+      },
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "27965426": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0007049",
+        "name": "cell cycle"
+      },
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      },
+      {
+        "id": "GO_0098763",
+        "name": "mitotic cell cycle phase"
+      },
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      },
+      {
+        "id": "GO_0018107",
+        "name": "peptidyl-threonine phosphorylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      }
+    ]
+  },
+  "27975061": {
+    "gold": [
+      {
+        "id": "GO_0042710",
+        "name": "biofilm formation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      }
+    ]
+  },
+  "27977319": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0009228",
+        "name": "thiamine biosynthetic process"
+      },
+      {
+        "id": "GO_0010431",
+        "name": "seed maturation"
+      },
+      {
+        "id": "GO_0030435",
+        "name": "sporulation resulting in formation of a cellular spore"
+      },
+      {
+        "id": "GO_0030448",
+        "name": "hyphal growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "27986797": {
+    "gold": [
+      {
+        "id": "GO_0097009",
+        "name": "energy homeostasis"
+      },
+      {
+        "id": "GO_0034514",
+        "name": "mitochondrial unfolded protein response"
+      },
+      {
+        "id": "GO_0006950",
+        "name": "response to stress"
+      },
+      {
+        "id": "GO_0046960",
+        "name": "sensitization"
+      },
+      {
+        "id": "GO_0009306",
+        "name": "protein secretion"
+      },
+      {
+        "id": "GO_0045333",
+        "name": "cellular respiration"
+      },
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      },
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "27994535": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ]
+  },
+  "27994913": {
+    "gold": [
+      {
+        "id": "GO_0050900",
+        "name": "leukocyte migration"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042118",
+        "name": "endothelial cell activation"
+      }
+    ]
+  },
+  "27995510": {
+    "gold": [
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006956",
+        "name": "complement activation"
+      }
+    ]
+  },
+  "27995969": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "27999200": {
+    "gold": [
+      {
+        "id": "GO_0016477",
+        "name": "cell migration"
+      },
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      },
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0042116",
+        "name": "macrophage activation"
+      }
+    ]
+  },
+  "28009695": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ]
+  },
+  "28011059": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      },
+      {
+        "id": "GO_0006260",
+        "name": "DNA replication"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28017476": {
+    "gold": [
+      {
+        "id": "GO_0002524",
+        "name": "hypersensitivity"
+      }
+    ],
+    "pred": []
+  },
+  "28034730": {
+    "gold": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042696",
+        "name": "menarche"
+      }
+    ]
+  },
+  "28042600": {
+    "gold": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001660",
+        "name": "fever generation"
+      }
+    ]
+  },
+  "28042936": {
+    "gold": [
+      {
+        "id": "GO_0006805",
+        "name": "xenobiotic metabolic process"
+      },
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "28051263": {
+    "gold": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "28054712": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0090696",
+        "name": "post-embryonic plant organ development"
+      }
+    ]
+  },
+  "28058258": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "28066382": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "28071754": {
+    "gold": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0048518",
+        "name": "positive regulation of biological process"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ]
+  },
+  "28073595": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0001558",
+        "name": "regulation of cell growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_1904427",
+        "name": "positive regulation of calcium ion transmembrane transport"
+      }
+    ]
+  },
+  "28075514": {
+    "gold": [
+      {
+        "id": "GO_0030431",
+        "name": "sleep"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030431",
+        "name": "sleep"
+      }
+    ]
+  },
+  "28077027": {
+    "gold": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ]
+  },
+  "28077286": {
+    "gold": [
+      {
+        "id": "GO_0035188",
+        "name": "hatching"
+      },
+      {
+        "id": "GO_0007617",
+        "name": "mating behavior"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": []
+  },
+  "28081044": {
+    "gold": [
+      {
+        "id": "GO_0050893",
+        "name": "sensory processing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "28082609": {
+    "gold": [
+      {
+        "id": "GO_0035822",
+        "name": "gene conversion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009987",
+        "name": "cellular process"
+      }
+    ]
+  },
+  "28087473": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0034142",
+        "name": "toll-like receptor 4 signaling pathway"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28105138": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28107521": {
+    "gold": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      }
+    ],
+    "pred": []
+  },
+  "28122243": {
+    "gold": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      },
+      {
+        "id": "GO_0017145",
+        "name": "stem cell division"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0042531",
+        "name": "positive regulation of tyrosine phosphorylation of STAT protein"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      },
+      {
+        "id": "GO_0003328",
+        "name": "pancreatic D cell fate commitment"
+      }
+    ]
+  },
+  "28125612": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050817",
+        "name": "coagulation"
+      }
+    ]
+  },
+  "28125734": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0031047",
+        "name": "regulatory ncRNA-mediated gene silencing"
+      },
+      {
+        "id": "GO_0009987",
+        "name": "cellular process"
+      },
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0048468",
+        "name": "cell development"
+      }
+    ]
+  },
+  "28128937": {
+    "gold": [
+      {
+        "id": "GO_0019417",
+        "name": "sulfur oxidation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0046358",
+        "name": "butyrate biosynthetic process"
+      }
+    ]
+  },
+  "28130404": {
+    "gold": [
+      {
+        "id": "GO_0002456",
+        "name": "T cell mediated immunity"
+      },
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      },
+      {
+        "id": "GO_0009597",
+        "name": "detection of virus"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ]
+  },
+  "28144577": {
+    "gold": [
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      },
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ],
+    "pred": []
+  },
+  "28145492": {
+    "gold": [
+      {
+        "id": "GO_0006811",
+        "name": "monoatomic ion transport"
+      },
+      {
+        "id": "GO_0070459",
+        "name": "prolactin secretion"
+      },
+      {
+        "id": "GO_0007623",
+        "name": "circadian rhythm"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050804",
+        "name": "modulation of chemical synaptic transmission"
+      }
+    ]
+  },
+  "28149055": {
+    "gold": [
+      {
+        "id": "GO_0006310",
+        "name": "DNA recombination"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006281",
+        "name": "DNA repair"
+      }
+    ]
+  },
+  "28149591": {
+    "gold": [
+      {
+        "id": "GO_0007601",
+        "name": "visual perception"
+      }
+    ],
+    "pred": []
+  },
+  "28158248": {
+    "gold": [
+      {
+        "id": "GO_0009058",
+        "name": "biosynthetic process"
+      },
+      {
+        "id": "GO_0008585",
+        "name": "female gonad development"
+      },
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": []
+  },
+  "28160457": {
+    "gold": [
+      {
+        "id": "GO_0007595",
+        "name": "lactation"
+      }
+    ],
+    "pred": []
+  },
+  "28161910": {
+    "gold": [
+      {
+        "id": "GO_0042697",
+        "name": "menopause"
+      },
+      {
+        "id": "GO_0097284",
+        "name": "hepatocyte apoptotic process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28165738": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0051726",
+        "name": "regulation of cell cycle"
+      },
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_1901030",
+        "name": "positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway"
+      }
+    ]
+  },
+  "28167893": {
+    "gold": [
+      {
+        "id": "GO_0048532",
+        "name": "anatomical structure arrangement"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0030437",
+        "name": "ascospore formation"
+      },
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ],
+    "pred": []
+  },
+  "28171748": {
+    "gold": [
+      {
+        "id": "GO_0031099",
+        "name": "regeneration"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      }
+    ]
+  },
+  "28179911": {
+    "gold": [
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006633",
+        "name": "fatty acid biosynthetic process"
+      }
+    ],
+    "pred": []
+  },
+  "28186729": {
+    "gold": [
+      {
+        "id": "GO_0007416",
+        "name": "synapse assembly"
+      },
+      {
+        "id": "GO_0060291",
+        "name": "long-term synaptic potentiation"
+      },
+      {
+        "id": "GO_0051100",
+        "name": "negative regulation of binding"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0098977",
+        "name": "inhibitory chemical synaptic transmission"
+      }
+    ]
+  },
+  "28192171": {
+    "gold": [
+      {
+        "id": "GO_0006572",
+        "name": "tyrosine catabolic process"
+      },
+      {
+        "id": "GO_0042246",
+        "name": "tissue regeneration"
+      }
+    ],
+    "pred": []
+  },
+  "28197133": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "28197156": {
+    "gold": [
+      {
+        "id": "GO_0010228",
+        "name": "vegetative to reproductive phase transition of meristem"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "28210319": {
+    "gold": [
+      {
+        "id": "GO_0014732",
+        "name": "skeletal muscle atrophy"
+      },
+      {
+        "id": "GO_0007588",
+        "name": "excretion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ]
+  },
+  "28220186": {
+    "gold": [
+      {
+        "id": "GO_0006310",
+        "name": "DNA recombination"
+      }
+    ],
+    "pred": []
+  },
+  "28229097": {
+    "gold": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      },
+      {
+        "id": "GO_0016032",
+        "name": "viral process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0031128",
+        "name": "developmental induction"
+      }
+    ]
+  },
+  "28232316": {
+    "gold": [
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0090706",
+        "name": "specification of plant organ position"
+      }
+    ]
+  },
+  "28234635": {
+    "gold": [
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "28239461": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "28241859": {
+    "gold": [
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0009790",
+        "name": "embryo development"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0006909",
+        "name": "phagocytosis"
+      },
+      {
+        "id": "GO_0042116",
+        "name": "macrophage activation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28243201": {
+    "gold": [
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016055",
+        "name": "Wnt signaling pathway"
+      },
+      {
+        "id": "GO_0071864",
+        "name": "positive regulation of cell proliferation in bone marrow"
+      }
+    ]
+  },
+  "28243909": {
+    "gold": [
+      {
+        "id": "GO_0007605",
+        "name": "sensory perception of sound"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007605",
+        "name": "sensory perception of sound"
+      }
+    ]
+  },
+  "28249376": {
+    "gold": [
+      {
+        "id": "GO_0007586",
+        "name": "digestion"
+      },
+      {
+        "id": "GO_0006113",
+        "name": "fermentation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0019655",
+        "name": "glycolytic fermentation to ethanol"
+      }
+    ]
+  },
+  "28249723": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      },
+      {
+        "id": "GO_0009293",
+        "name": "transduction"
+      }
+    ]
+  },
+  "28251753": {
+    "gold": [
+      {
+        "id": "GO_0007602",
+        "name": "phototransduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0018911",
+        "name": "1,2,4-trichlorobenzene catabolic process"
+      }
+    ]
+  },
+  "28253085": {
+    "gold": [
+      {
+        "id": "GO_0006805",
+        "name": "xenobiotic metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160007",
+        "name": "glutathione import into mitochondrion"
+      }
+    ]
+  },
+  "28254329": {
+    "gold": [
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      },
+      {
+        "id": "GO_0030168",
+        "name": "platelet activation"
+      }
+    ]
+  },
+  "28257468": {
+    "gold": [
+      {
+        "id": "GO_0030431",
+        "name": "sleep"
+      },
+      {
+        "id": "GO_0006909",
+        "name": "phagocytosis"
+      },
+      {
+        "id": "GO_0006911",
+        "name": "phagocytosis, engulfment"
+      },
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      },
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0007411",
+        "name": "axon guidance"
+      },
+      {
+        "id": "GO_0006974",
+        "name": "DNA damage response"
+      },
+      {
+        "id": "GO_0006805",
+        "name": "xenobiotic metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0097323",
+        "name": "B cell adhesion"
+      }
+    ]
+  },
+  "28263181": {
+    "gold": [
+      {
+        "id": "GO_0019660",
+        "name": "glycolytic fermentation"
+      },
+      {
+        "id": "GO_0006113",
+        "name": "fermentation"
+      },
+      {
+        "id": "GO_0008152",
+        "name": "metabolic process"
+      }
+    ],
+    "pred": []
+  },
+  "28273336": {
+    "gold": [
+      {
+        "id": "GO_0046960",
+        "name": "sensitization"
+      }
+    ],
+    "pred": []
+  },
+  "28273482": {
+    "gold": [
+      {
+        "id": "GO_0045088",
+        "name": "regulation of innate immune response"
+      },
+      {
+        "id": "GO_0002776",
+        "name": "antimicrobial peptide secretion"
+      },
+      {
+        "id": "GO_0002218",
+        "name": "activation of innate immune response"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ]
+  },
+  "28282592": {
+    "gold": [
+      {
+        "id": "GO_0061337",
+        "name": "cardiac conduction"
+      }
+    ],
+    "pred": []
+  },
+  "28289091": {
+    "gold": [
+      {
+        "id": "GO_0043032",
+        "name": "positive regulation of macrophage activation"
+      },
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      },
+      {
+        "id": "GO_0006909",
+        "name": "phagocytosis"
+      },
+      {
+        "id": "GO_0007267",
+        "name": "cell-cell signaling"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28294559": {
+    "gold": [
+      {
+        "id": "GO_0097421",
+        "name": "liver regeneration"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ],
+    "pred": []
+  },
+  "28299441": {
+    "gold": [
+      {
+        "id": "GO_0009699",
+        "name": "phenylpropanoid biosynthetic process"
+      },
+      {
+        "id": "GO_0006417",
+        "name": "regulation of translation"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "28301509": {
+    "gold": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "28322666": {
+    "gold": [
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ]
+  },
+  "28326936": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": []
+  },
+  "28334615": {
+    "gold": [
+      {
+        "id": "GO_0032964",
+        "name": "collagen biosynthetic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "28338634": {
+    "gold": [
+      {
+        "id": "GO_0007268",
+        "name": "chemical synaptic transmission"
+      }
+    ],
+    "pred": []
+  },
+  "28342945": {
+    "gold": [
+      {
+        "id": "GO_0048167",
+        "name": "regulation of synaptic plasticity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0031915",
+        "name": "positive regulation of synaptic plasticity"
+      }
+    ]
+  },
+  "28343993": {
+    "gold": [
+      {
+        "id": "GO_0019082",
+        "name": "viral protein processing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0044827",
+        "name": "modulation by host of viral genome replication"
+      }
+    ]
+  },
+  "28344199": {
+    "gold": [
+      {
+        "id": "GO_0042117",
+        "name": "monocyte activation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001775",
+        "name": "cell activation"
+      }
+    ]
+  },
+  "28351716": {
+    "gold": [
+      {
+        "id": "GO_0007601",
+        "name": "visual perception"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007601",
+        "name": "visual perception"
+      }
+    ]
+  },
+  "28353042": {
+    "gold": [
+      {
+        "id": "GO_0018158",
+        "name": "protein oxidation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0010728",
+        "name": "regulation of hydrogen peroxide biosynthetic process"
+      }
+    ]
+  },
+  "28358712": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28362386": {
+    "gold": [
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0009790",
+        "name": "embryo development"
+      },
+      {
+        "id": "GO_0001829",
+        "name": "trophectodermal cell differentiation"
+      },
+      {
+        "id": "GO_0038092",
+        "name": "nodal signaling pathway"
+      }
+    ],
+    "pred": []
+  },
+  "28364409": {
+    "gold": [
+      {
+        "id": "GO_0006547",
+        "name": "L-histidine metabolic process"
+      },
+      {
+        "id": "GO_0019369",
+        "name": "arachidonate metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016042",
+        "name": "lipid catabolic process"
+      }
+    ]
+  },
+  "28375566": {
+    "gold": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0051301",
+        "name": "cell division"
+      }
+    ],
+    "pred": []
+  },
+  "28375743": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28377051": {
+    "gold": [
+      {
+        "id": "GO_0001525",
+        "name": "angiogenesis"
+      },
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      },
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0030041",
+        "name": "actin filament polymerization"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  },
+  "28386663": {
+    "gold": [
+      {
+        "id": "GO_0042592",
+        "name": "homeostatic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006703",
+        "name": "estrogen biosynthetic process"
+      }
+    ]
+  },
+  "28387468": {
+    "gold": [
+      {
+        "id": "GO_0031214",
+        "name": "biomineral tissue development"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0001503",
+        "name": "ossification"
+      }
+    ]
+  },
+  "28387835": {
+    "gold": [
+      {
+        "id": "GO_0034097",
+        "name": "response to cytokine"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28389374": {
+    "gold": [
+      {
+        "id": "GO_0006281",
+        "name": "DNA repair"
+      },
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_0016579",
+        "name": "protein deubiquitination"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      },
+      {
+        "id": "GO_2000144",
+        "name": "positive regulation of DNA-templated transcription initiation"
+      }
+    ]
+  },
+  "28390176": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      },
+      {
+        "id": "GO_0009968",
+        "name": "negative regulation of signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016236",
+        "name": "macroautophagy"
+      }
+    ]
+  },
+  "28391514": {
+    "gold": [
+      {
+        "id": "GO_0048771",
+        "name": "tissue remodeling"
+      },
+      {
+        "id": "GO_0046960",
+        "name": "sensitization"
+      },
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      },
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006508",
+        "name": "proteolysis"
+      },
+      {
+        "id": "GO_0050728",
+        "name": "negative regulation of inflammatory response"
+      }
+    ]
+  },
+  "28391546": {
+    "gold": [
+      {
+        "id": "GO_0007588",
+        "name": "excretion"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007565",
+        "name": "female pregnancy"
+      }
+    ]
+  },
+  "28392427": {
+    "gold": [
+      {
+        "id": "GO_0030097",
+        "name": "hemopoiesis"
+      },
+      {
+        "id": "GO_0022008",
+        "name": "neurogenesis"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ]
+  },
+  "28394935": {
+    "gold": [
+      {
+        "id": "GO_0018119",
+        "name": "peptidyl-cysteine S-nitrosylation"
+      },
+      {
+        "id": "GO_0050790",
+        "name": "regulation of catalytic activity"
+      },
+      {
+        "id": "GO_0030036",
+        "name": "actin cytoskeleton organization"
+      },
+      {
+        "id": "GO_0071806",
+        "name": "protein transmembrane transport"
+      },
+      {
+        "id": "GO_0030041",
+        "name": "actin filament polymerization"
+      },
+      {
+        "id": "GO_0035606",
+        "name": "peptidyl-cysteine S-trans-nitrosylation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0018241",
+        "name": "protein O-linked glycosylation via hydroxylysine"
+      }
+    ]
+  },
+  "28399452": {
+    "gold": [
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28403387": {
+    "gold": [
+      {
+        "id": "GO_0007612",
+        "name": "learning"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ]
+  },
+  "28407355": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0060033",
+        "name": "anatomical structure regression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      }
+    ]
+  },
+  "28412023": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0006805",
+        "name": "xenobiotic metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28413509": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "28419641": {
+    "gold": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ]
+  },
+  "28421738": {
+    "gold": [
+      {
+        "id": "GO_0006605",
+        "name": "protein targeting"
+      },
+      {
+        "id": "GO_0009410",
+        "name": "response to xenobiotic stimulus"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0051090",
+        "name": "regulation of DNA-binding transcription factor activity"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010198",
+        "name": "synergid death"
+      }
+    ]
+  },
+  "28424240": {
+    "gold": [
+      {
+        "id": "GO_0050870",
+        "name": "positive regulation of T cell activation"
+      },
+      {
+        "id": "GO_0006355",
+        "name": "regulation of DNA-templated transcription"
+      },
+      {
+        "id": "GO_0009987",
+        "name": "cellular process"
+      },
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      },
+      {
+        "id": "GO_0050776",
+        "name": "regulation of immune response"
+      },
+      {
+        "id": "GO_0048468",
+        "name": "cell development"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      },
+      {
+        "id": "GO_0032623",
+        "name": "interleukin-2 production"
+      },
+      {
+        "id": "GO_0045066",
+        "name": "regulatory T cell differentiation"
+      },
+      {
+        "id": "GO_0050862",
+        "name": "positive regulation of T cell receptor signaling pathway"
+      },
+      {
+        "id": "GO_0002709",
+        "name": "regulation of T cell mediated immunity"
+      }
+    ],
+    "pred": []
+  },
+  "28424683": {
+    "gold": [
+      {
+        "id": "GO_0016049",
+        "name": "cell growth"
+      },
+      {
+        "id": "GO_0042098",
+        "name": "T cell proliferation"
+      }
+    ],
+    "pred": []
+  },
+  "28424986": {
+    "gold": [
+      {
+        "id": "GO_0007596",
+        "name": "blood coagulation"
+      }
+    ],
+    "pred": []
+  },
+  "28425861": {
+    "gold": [
+      {
+        "id": "GO_0009408",
+        "name": "response to heat"
+      },
+      {
+        "id": "GO_0010286",
+        "name": "heat acclimation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009408",
+        "name": "response to heat"
+      }
+    ]
+  },
+  "28427273": {
+    "gold": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006954",
+        "name": "inflammatory response"
+      }
+    ]
+  },
+  "28433910": {
+    "gold": [
+      {
+        "id": "GO_0006113",
+        "name": "fermentation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0019655",
+        "name": "glycolytic fermentation to ethanol"
+      }
+    ]
+  },
+  "28436493": {
+    "gold": [
+      {
+        "id": "GO_0044315",
+        "name": "protein secretion by the type VII secretion system"
+      },
+      {
+        "id": "GO_0001816",
+        "name": "cytokine production"
+      },
+      {
+        "id": "GO_0002432",
+        "name": "granuloma formation"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      }
+    ]
+  },
+  "28437231": {
+    "gold": [
+      {
+        "id": "GO_0042710",
+        "name": "biofilm formation"
+      },
+      {
+        "id": "GO_0001906",
+        "name": "cell killing"
+      },
+      {
+        "id": "GO_0006909",
+        "name": "phagocytosis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0097656",
+        "name": "cell-cell self recognition"
+      }
+    ]
+  },
+  "28440461": {
+    "gold": [
+      {
+        "id": "GO_0023052",
+        "name": "signaling"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0038179",
+        "name": "neurotrophin signaling pathway"
+      }
+    ]
+  },
+  "28442401": {
+    "gold": [
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0006915",
+        "name": "apoptotic process"
+      },
+      {
+        "id": "GO_0008219",
+        "name": "cell death"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_2000144",
+        "name": "positive regulation of DNA-templated transcription initiation"
+      },
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      }
+    ]
+  },
+  "28444830": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0007173",
+        "name": "epidermal growth factor receptor signaling pathway"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035556",
+        "name": "intracellular signal transduction"
+      },
+      {
+        "id": "GO_0045780",
+        "name": "positive regulation of bone resorption"
+      }
+    ]
+  },
+  "28445938": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28448263": {
+    "gold": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      }
+    ]
+  },
+  "28450196": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0006260",
+        "name": "DNA replication"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0044827",
+        "name": "modulation by host of viral genome replication"
+      }
+    ]
+  },
+  "28451941": {
+    "gold": [
+      {
+        "id": "GO_0003006",
+        "name": "developmental process involved in reproduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_2000748",
+        "name": "positive regulation of defecation rhythm"
+      }
+    ]
+  },
+  "28456751": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006955",
+        "name": "immune response"
+      }
+    ]
+  },
+  "28457334": {
+    "gold": [
+      {
+        "id": "GO_0007596",
+        "name": "blood coagulation"
+      },
+      {
+        "id": "GO_0042730",
+        "name": "fibrinolysis"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050817",
+        "name": "coagulation"
+      }
+    ]
+  },
+  "28460054": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      },
+      {
+        "id": "GO_0009651",
+        "name": "response to salt stress"
+      },
+      {
+        "id": "GO_0042538",
+        "name": "hyperosmotic salinity response"
+      },
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      },
+      {
+        "id": "GO_0009845",
+        "name": "seed germination"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0160109",
+        "name": "plant gross anatomical part developmental process"
+      }
+    ]
+  },
+  "28466814": {
+    "gold": [
+      {
+        "id": "GO_0009566",
+        "name": "fertilization"
+      },
+      {
+        "id": "GO_0007566",
+        "name": "embryo implantation"
+      },
+      {
+        "id": "GO_0008283",
+        "name": "cell population proliferation"
+      },
+      {
+        "id": "GO_0030154",
+        "name": "cell differentiation"
+      }
+    ],
+    "pred": []
+  },
+  "28467858": {
+    "gold": [
+      {
+        "id": "GO_0036324",
+        "name": "vascular endothelial growth factor receptor-2 signaling pathway"
+      },
+      {
+        "id": "GO_0001525",
+        "name": "angiogenesis"
+      },
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0038084",
+        "name": "vascular endothelial growth factor signaling pathway"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  },
+  "28468980": {
+    "gold": [
+      {
+        "id": "GO_0002377",
+        "name": "immunoglobulin production"
+      }
+    ],
+    "pred": []
+  },
+  "28469263": {
+    "gold": [
+      {
+        "id": "GO_0042697",
+        "name": "menopause"
+      },
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": []
+  },
+  "28471296": {
+    "gold": [
+      {
+        "id": "GO_0008542",
+        "name": "visual learning"
+      },
+      {
+        "id": "GO_0007614",
+        "name": "short-term memory"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007614",
+        "name": "short-term memory"
+      },
+      {
+        "id": "GO_0007623",
+        "name": "circadian rhythm"
+      }
+    ]
+  },
+  "28481342": {
+    "gold": [
+      {
+        "id": "GO_0007411",
+        "name": "axon guidance"
+      },
+      {
+        "id": "GO_0007155",
+        "name": "cell adhesion"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "28494223": {
+    "gold": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      }
+    ]
+  },
+  "28495934": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0061743",
+        "name": "motor learning"
+      }
+    ]
+  },
+  "28501028": {
+    "gold": [
+      {
+        "id": "GO_0016032",
+        "name": "viral process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0042060",
+        "name": "wound healing"
+      }
+    ]
+  },
+  "28502652": {
+    "gold": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007165",
+        "name": "signal transduction"
+      }
+    ]
+  },
+  "28503387": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0032502",
+        "name": "developmental process"
+      }
+    ]
+  },
+  "28505177": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "28508329": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0035194",
+        "name": "regulatory ncRNA-mediated post-transcriptional gene silencing"
+      },
+      {
+        "id": "GO_0006412",
+        "name": "translation"
+      }
+    ]
+  },
+  "28512014": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      },
+      {
+        "id": "GO_0032940",
+        "name": "secretion by cell"
+      },
+      {
+        "id": "GO_0007586",
+        "name": "digestion"
+      },
+      {
+        "id": "GO_0035264",
+        "name": "multicellular organism growth"
+      },
+      {
+        "id": "GO_0035074",
+        "name": "pupation"
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription"
+      }
+    ],
+    "pred": []
+  },
+  "28520994": {
+    "gold": [
+      {
+        "id": "GO_0040007",
+        "name": "growth"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0006955",
+        "name": "immune response"
+      }
+    ]
+  },
+  "28523479": {
+    "gold": [
+      {
+        "id": "GO_0060612",
+        "name": "adipose tissue development"
+      },
+      {
+        "id": "GO_0007567",
+        "name": "parturition"
+      },
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": []
+  },
+  "28523846": {
+    "gold": [
+      {
+        "id": "GO_0006457",
+        "name": "protein folding"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0009080",
+        "name": "pyruvate family amino acid catabolic process"
+      }
+    ]
+  },
+  "28525754": {
+    "gold": [
+      {
+        "id": "GO_0010468",
+        "name": "regulation of gene expression"
+      },
+      {
+        "id": "GO_0007614",
+        "name": "short-term memory"
+      },
+      {
+        "id": "GO_0007613",
+        "name": "memory"
+      },
+      {
+        "id": "GO_0007616",
+        "name": "long-term memory"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007616",
+        "name": "long-term memory"
+      }
+    ]
+  },
+  "28526360": {
+    "gold": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0007631",
+        "name": "feeding behavior"
+      }
+    ]
+  },
+  "28528555": {
+    "gold": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0050890",
+        "name": "cognition"
+      }
+    ]
+  },
+  "28533788": {
+    "gold": [
+      {
+        "id": "GO_0010467",
+        "name": "gene expression"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0099048",
+        "name": "CRISPR-cas system"
+      }
+    ]
+  },
+  "28550165": {
+    "gold": [
+      {
+        "id": "GO_0006468",
+        "name": "protein phosphorylation"
+      },
+      {
+        "id": "GO_0050789",
+        "name": "regulation of biological process"
+      },
+      {
+        "id": "GO_0019538",
+        "name": "protein metabolic process"
+      }
+    ],
+    "pred": [
+      {
+        "id": "GO_0016310",
+        "name": "phosphorylation"
+      }
+    ]
+  }
+}

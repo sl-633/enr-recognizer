@@ -1,0 +1,35 @@
+{
+  "mode": "thresholded",
+  "topk": 100,
+  "with_score": true,
+  "threshold_tuned_on_dev": 0.045935069521268204,
+  "dev_threshold_stats": {
+    "P": 0.36624775583482944,
+    "R": 0.25757575757575757,
+    "F1": 0.30244625648628615
+  },
+  "set_micro_metrics": {
+    "dev": {
+      "TP": 204,
+      "FP": 353,
+      "FN": 588,
+      "P": 0.36624775583482944,
+      "R": 0.25757575757575757,
+      "F1": 0.30244625648628615
+    },
+    "test": {
+      "TP": 202,
+      "FP": 338,
+      "FN": 558,
+      "P": 0.37407407407407406,
+      "R": 0.2657894736842105,
+      "F1": 0.3107692307692308
+    }
+  },
+  "outputs": {
+    "dev": "data/mm-go/mld/xrt-output/dev_thresholded.json",
+    "test": "data/mm-go/mld/xrt-output/test_thresholded.json",
+    "train": "data/mm-go/mld/xrt-output/train_thresholded.json",
+    "all": "data/mm-go/mld/xrt-output/predictions_all_thresholded.json"
+  }
+}
