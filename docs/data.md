@@ -21,6 +21,7 @@ Put the ontology file of GO into `data/mm-go/meta` as `go-basic.json`.
 | Name & Synonyms | 84,022 | 42,230 |
 
 ## MedMention-ST21pv
+**Ref:** https://github.com/chanzuckerberg/MedMentions/tree/master/st21pv
 
 Download and put these 5 files into `data/mm-st21pv`.
 * corpus_pubtator.txt
