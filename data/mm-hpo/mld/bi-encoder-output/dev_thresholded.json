@@ -301,6 +301,11 @@
         "id": "HP_0001513",
         "name": "Obesity",
         "score": 0.7453618049621582
+      },
+      {
+        "id": "HP_0001824",
+        "name": "Weight loss",
+        "score": 0.594984233379364
       }
     ]
   },
@@ -1313,6 +1318,11 @@
         "id": "HP_0007898",
         "name": "Exudative retinopathy",
         "score": 0.6009969711303711
+      },
+      {
+        "id": "HP_0001147",
+        "name": "Retinal exudate",
+        "score": 0.5954359173774719
       }
     ]
   },
@@ -1394,6 +1404,11 @@
         "id": "HP_0200119",
         "name": "Acute hepatitis",
         "score": 0.6069193482398987
+      },
+      {
+        "id": "HP_0001410",
+        "name": "Decreased liver function",
+        "score": 0.5955188274383545
       }
     ]
   },
@@ -1865,6 +1880,11 @@
         "id": "HP_0000112",
         "name": "Nephropathy",
         "score": 0.6001886129379272
+      },
+      {
+        "id": "HP_0011036",
+        "name": "Abnormality of renal excretion",
+        "score": 0.5962255001068115
       }
     ]
   },
@@ -2728,6 +2748,11 @@
         "id": "HP_0041167",
         "name": "Fractured cervical vertebra",
         "score": 0.6084676384925842
+      },
+      {
+        "id": "HP_0003978",
+        "name": "Fractured radius",
+        "score": 0.595870316028595
       }
     ]
   },
@@ -3638,6 +3663,11 @@
         "id": "HP_0000364",
         "name": "Hearing abnormality",
         "score": 0.6059330701828003
+      },
+      {
+        "id": "HP_0012715",
+        "name": "Profound hearing impairment",
+        "score": 0.5964694619178772
       }
     ]
   },
@@ -3868,6 +3898,11 @@
         "id": "HP_0000682",
         "name": "Abnormal dental enamel morphology",
         "score": 0.5995073914527893
+      },
+      {
+        "id": "HP_0200141",
+        "name": "Small, conical teeth",
+        "score": 0.5943437218666077
       }
     ]
   },
@@ -4304,6 +4339,11 @@
         "id": "HP_0001373",
         "name": "Joint dislocation",
         "score": 0.6005011796951294
+      },
+      {
+        "id": "HP_0030311",
+        "name": "Lower extremity joint dislocation",
+        "score": 0.5948726534843445
       }
     ]
   },
@@ -4995,6 +5035,11 @@
         "id": "HP_6001281",
         "name": "Optic nerve sheath dilatation",
         "score": 0.6061204671859741
+      },
+      {
+        "id": "HP_0000587",
+        "name": "Abnormal optic nerve morphology",
+        "score": 0.5962862372398376
       }
     ]
   },
@@ -5512,6 +5557,11 @@
         "id": "HP_0025425",
         "name": "Laryngospasm",
         "score": 0.6825270652770996
+      },
+      {
+        "id": "HP_0001609",
+        "name": "Hoarse voice",
+        "score": 0.5950384140014648
       }
     ]
   },
@@ -5942,6 +5992,11 @@
         "id": "HP_0002896",
         "name": "Neoplasm of the liver",
         "score": 0.6007537841796875
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm",
+        "score": 0.5946664214134216
       }
     ]
   },
@@ -6312,6 +6367,11 @@
         "id": "HP_0002093",
         "name": "Respiratory insufficiency",
         "score": 0.5990365743637085
+      },
+      {
+        "id": "HP_0001642",
+        "name": "Pulmonic stenosis",
+        "score": 0.594946026802063
       }
     ]
   },
@@ -6326,7 +6386,13 @@
         "name": "Type II diabetes mellitus"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0100013",
+        "name": "Neoplasm of the breast",
+        "score": 0.5957868099212646
+      }
+    ]
   },
   "27998307": {
     "gold": [
@@ -6477,6 +6543,11 @@
         "id": "HP_0012174",
         "name": "Glioblastoma multiforme",
         "score": 0.634360671043396
+      },
+      {
+        "id": "HP_0009733",
+        "name": "Glioma",
+        "score": 0.5948565006256104
       }
     ]
   },
@@ -7144,6 +7215,11 @@
         "id": "HP_0033687",
         "name": "Short term memory impairment",
         "score": 0.5968011617660522
+      },
+      {
+        "id": "HP_0001268",
+        "name": "Mental deterioration",
+        "score": 0.5947016477584839
       }
     ]
   },
@@ -7565,6 +7641,11 @@
         "id": "HP_0003002",
         "name": "Breast carcinoma",
         "score": 0.7885350584983826
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm",
+        "score": 0.5947065353393555
       }
     ]
   },
@@ -8040,6 +8121,11 @@
         "id": "HP_0031418",
         "name": "Increased body mass index",
         "score": 0.6075845956802368
+      },
+      {
+        "id": "HP_0045082",
+        "name": "Decreased body mass index",
+        "score": 0.59507155418396
       }
     ]
   },
@@ -8877,6 +8963,11 @@
         "id": "HP_0011793",
         "name": "Neoplasm by anatomical site",
         "score": 0.624833345413208
+      },
+      {
+        "id": "HP_0100834",
+        "name": "Neoplasm of the large intestine",
+        "score": 0.5962986350059509
       }
     ]
   },
@@ -9058,6 +9149,11 @@
         "id": "HP_0030858",
         "name": "Addictive behavior",
         "score": 0.5991165041923523
+      },
+      {
+        "id": "HP_5200329",
+        "name": "Problematic alcohol consumption",
+        "score": 0.5947150588035583
       }
     ]
   },
@@ -9109,6 +9205,11 @@
         "id": "HP_0002718",
         "name": "Recurrent bacterial infections",
         "score": 0.6250978112220764
+      },
+      {
+        "id": "HP_0032326",
+        "name": "Methicillin-resistant Staphylococcus aureus infection",
+        "score": 0.5959471464157104
       }
     ]
   },
@@ -9652,6 +9753,11 @@
         "id": "HP_0001513",
         "name": "Obesity",
         "score": 0.6616316437721252
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus",
+        "score": 0.5962976813316345
       }
     ]
   },
@@ -9999,6 +10105,11 @@
         "id": "HP_0033459",
         "name": "Decreased circulating apolipoprotein concentration",
         "score": 0.5995660424232483
+      },
+      {
+        "id": "HP_0002155",
+        "name": "Hypertriglyceridemia",
+        "score": 0.5963829755783081
       }
     ]
   },
@@ -10166,6 +10277,11 @@
         "id": "HP_0002354",
         "name": "Memory impairment",
         "score": 0.5994845628738403
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment",
+        "score": 0.5958464741706848
       }
     ]
   },
@@ -10377,6 +10493,11 @@
         "id": "HP_0005086",
         "name": "Knee osteoarthritis",
         "score": 0.6179230213165283
+      },
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis",
+        "score": 0.5955342650413513
       }
     ]
   },

@@ -581,6 +581,11 @@
         "id": "HP_0000123",
         "name": "Nephritis",
         "score": 0.5965335965156555
+      },
+      {
+        "id": "HP_0012210",
+        "name": "Abnormal renal morphology",
+        "score": 0.595486581325531
       }
     ]
   },
@@ -1204,7 +1209,18 @@
         "name": "Papilledema"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0011483",
+        "name": "Anterior synechiae of the anterior chamber",
+        "score": 0.5950044393539429
+      },
+      {
+        "id": "HP_0011484",
+        "name": "Posterior synechiae of the anterior chamber",
+        "score": 0.5948445796966553
+      }
+    ]
   },
   "27408381": {
     "gold": [
@@ -1644,6 +1660,11 @@
         "id": "HP_0001250",
         "name": "Seizure",
         "score": 0.747888445854187
+      },
+      {
+        "id": "HP_0011182",
+        "name": "Interictal epileptiform activity",
+        "score": 0.5955274105072021
       }
     ]
   },
@@ -1659,6 +1680,11 @@
         "id": "HP_0000112",
         "name": "Nephropathy",
         "score": 0.6264446973800659
+      },
+      {
+        "id": "HP_0012214",
+        "name": "Increased glomerular filtration rate",
+        "score": 0.59455406665802
       }
     ]
   },
@@ -1760,6 +1786,11 @@
         "id": "HP_0100649",
         "name": "Neoplasm of the oral cavity",
         "score": 0.6020933389663696
+      },
+      {
+        "id": "HP_0031021",
+        "name": "Squamous Papilloma",
+        "score": 0.5963813662528992
       }
     ]
   },
@@ -3070,6 +3101,11 @@
         "id": "HP_0005294",
         "name": "Arterial dissection",
         "score": 0.5979574918746948
+      },
+      {
+        "id": "HP_0031649",
+        "name": "Aortic rupture",
+        "score": 0.5953439474105835
       }
     ]
   },
@@ -3634,6 +3670,11 @@
         "id": "HP_0030075",
         "name": "Ductal carcinoma in situ",
         "score": 0.6133127808570862
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm",
+        "score": 0.5946993827819824
       }
     ]
   },
@@ -3806,6 +3847,11 @@
         "id": "HP_0007302",
         "name": "Bipolar affective disorder",
         "score": 0.6704838275909424
+      },
+      {
+        "id": "HP_0100754",
+        "name": "Mania",
+        "score": 0.5955424308776855
       }
     ]
   },
@@ -4088,6 +4134,16 @@
         "id": "HP_0004297",
         "name": "Abnormality of the biliary system",
         "score": 0.6163897514343262
+      },
+      {
+        "id": "HP_6000701",
+        "name": "Elevated urinary bile acid level",
+        "score": 0.5963007211685181
+      },
+      {
+        "id": "HP_0030984",
+        "name": "Abnormal serum bile acid concentration",
+        "score": 0.5953472852706909
       }
     ]
   },
@@ -4668,6 +4724,11 @@
         "id": "HP_0003312",
         "name": "Abnormal form of the vertebral bodies",
         "score": 0.6075599193572998
+      },
+      {
+        "id": "HP_0030304",
+        "name": "Abnormal number of vertebrae",
+        "score": 0.5956627726554871
       }
     ]
   },
@@ -4739,6 +4800,16 @@
         "id": "HP_0001395",
         "name": "Hepatic fibrosis",
         "score": 0.6206842064857483
+      },
+      {
+        "id": "HP_0200123",
+        "name": "Chronic hepatitis",
+        "score": 0.5955214500427246
+      },
+      {
+        "id": "HP_0012115",
+        "name": "Hepatitis",
+        "score": 0.5946869850158691
       }
     ]
   },
@@ -5197,6 +5268,11 @@
         "id": "HP_0007302",
         "name": "Bipolar affective disorder",
         "score": 0.7023152709007263
+      },
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder",
+        "score": 0.5960505604743958
       }
     ]
   },
@@ -5269,6 +5345,11 @@
         "id": "HP_0001328",
         "name": "Specific learning disability",
         "score": 0.6001638770103455
+      },
+      {
+        "id": "HP_0000708",
+        "name": "Atypical behavior",
+        "score": 0.5948362946510315
       }
     ]
   },
@@ -5399,6 +5480,11 @@
         "id": "HP_0005987",
         "name": "Multinodular goiter",
         "score": 0.5987076759338379
+      },
+      {
+        "id": "HP_0008249",
+        "name": "Thyroid hyperplasia",
+        "score": 0.5944024324417114
       }
     ]
   },
@@ -5575,6 +5661,11 @@
         "id": "HP_0200063",
         "name": "Colorectal polyposis",
         "score": 0.5997586250305176
+      },
+      {
+        "id": "HP_0100273",
+        "name": "Neoplasm of the colon",
+        "score": 0.5943078994750977
       }
     ]
   },
@@ -6161,6 +6252,11 @@
         "id": "HP_0041081",
         "name": "Fractured lower leg",
         "score": 0.604079008102417
+      },
+      {
+        "id": "HP_0041117",
+        "name": "Fractured lower limb segment",
+        "score": 0.5948485136032104
       }
     ]
   },
@@ -6444,6 +6540,11 @@
         "id": "HP_0031434",
         "name": "Abnormal prosody",
         "score": 0.6039396524429321
+      },
+      {
+        "id": "HP_0011443",
+        "name": "Abnormality of coordination",
+        "score": 0.5943399667739868
       }
     ]
   },
@@ -6795,6 +6896,11 @@
         "id": "HP_0002511",
         "name": "Alzheimer disease",
         "score": 0.7901708483695984
+      },
+      {
+        "id": "HP_0003791",
+        "name": "Deposits immunoreactive to beta-amyloid protein",
+        "score": 0.596244215965271
       }
     ]
   },
@@ -7773,7 +7879,13 @@
         "name": "Heart block"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0005110",
+        "name": "Atrial fibrillation",
+        "score": 0.5950742363929749
+      }
+    ]
   },
   "28282963": {
     "gold": [
@@ -8141,6 +8253,16 @@
         "id": "HP_0030615",
         "name": "Foveal photoreceptor outer segment loss on macular OCT",
         "score": 0.5980067849159241
+      },
+      {
+        "id": "HP_0025574",
+        "name": "Macular hemorrhage",
+        "score": 0.5955243110656738
+      },
+      {
+        "id": "HP_0500087",
+        "name": "Peripapillary atrophy",
+        "score": 0.5952541828155518
       }
     ]
   },
@@ -8679,6 +8801,11 @@
         "id": "HP_0011014",
         "name": "Abnormal glucose homeostasis",
         "score": 0.60074383020401
+      },
+      {
+        "id": "HP_0005978",
+        "name": "Type II diabetes mellitus",
+        "score": 0.5948964357376099
       }
     ]
   },
@@ -9014,6 +9141,16 @@
         "id": "HP_0006483",
         "name": "Abnormal number of teeth",
         "score": 0.5999312400817871
+      },
+      {
+        "id": "HP_0000677",
+        "name": "Oligodontia",
+        "score": 0.5960080027580261
+      },
+      {
+        "id": "HP_0006333",
+        "name": "Crowded maxillary incisors",
+        "score": 0.5952941179275513
       }
     ]
   },
@@ -9625,6 +9762,11 @@
         "id": "HP_0045081",
         "name": "Abnormality of body mass index",
         "score": 0.598497211933136
+      },
+      {
+        "id": "HP_0001824",
+        "name": "Weight loss",
+        "score": 0.5947902202606201
       }
     ]
   },
@@ -9765,6 +9907,11 @@
         "id": "HP_0030692",
         "name": "Brain neoplasm",
         "score": 0.6267191767692566
+      },
+      {
+        "id": "HP_0033680",
+        "name": "Pilocytic astrocytoma",
+        "score": 0.5958458185195923
       }
     ]
   },
@@ -10042,6 +10189,11 @@
         "id": "HP_0031258",
         "name": "Delirium",
         "score": 0.6778497695922852
+      },
+      {
+        "id": "HP_0000713",
+        "name": "Agitation",
+        "score": 0.5960593223571777
       }
     ]
   },
