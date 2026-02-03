@@ -232,6 +232,10 @@
     [
       "GO_0006517",
       "protein deglycosylation"
+    ],
+    [
+      "GO_0016310",
+      "phosphorylation"
     ]
   ],
   "27313637": [],
@@ -339,7 +343,12 @@
     ]
   ],
   "27365044": [],
-  "27371349": [],
+  "27371349": [
+    [
+      "GO_0006935",
+      "chemotaxis"
+    ]
+  ],
   "27371352": [],
   "27371870": [
     [
@@ -1149,6 +1158,10 @@
     [
       "GO_0010467",
       "gene expression"
+    ],
+    [
+      "GO_0019098",
+      "reproductive behavior"
     ]
   ],
   "27574814": [
@@ -1540,6 +1553,10 @@
     [
       "GO_0006366",
       "transcription by RNA polymerase II"
+    ],
+    [
+      "GO_0006517",
+      "protein deglycosylation"
     ]
   ],
   "27651148": [],
@@ -2092,6 +2109,10 @@
     [
       "GO_0009835",
       "fruit ripening"
+    ],
+    [
+      "GO_0009851",
+      "auxin biosynthetic process"
     ]
   ],
   "27794263": [
@@ -3710,7 +3731,12 @@
   ],
   "28161688": [],
   "28169492": [],
-  "28179399": [],
+  "28179399": [
+    [
+      "GO_0009658",
+      "chloroplast organization"
+    ]
+  ],
   "28179478": [],
   "28179938": [],
   "28180050": [],
@@ -4119,7 +4145,12 @@
   ],
   "28280642": [],
   "28282033": [],
-  "28282614": [],
+  "28282614": [
+    [
+      "GO_0006874",
+      "intracellular calcium ion homeostasis"
+    ]
+  ],
   "28283525": [],
   "28283889": [
     [
@@ -4907,6 +4938,10 @@
     [
       "GO_0001932",
       "regulation of protein phosphorylation"
+    ],
+    [
+      "GO_0016042",
+      "lipid catabolic process"
     ]
   ],
   "28438558": [
@@ -5159,7 +5194,12 @@
       "branching morphogenesis of an epithelial tube"
     ]
   ],
-  "28509318": [],
+  "28509318": [
+    [
+      "GO_0001503",
+      "ossification"
+    ]
+  ],
   "28509526": [],
   "28513626": [],
   "28514681": [],
@@ -6997,6 +7037,10 @@
     [
       "GO_0050789",
       "regulation of biological process"
+    ],
+    [
+      "GO_0006351",
+      "DNA-templated transcription"
     ]
   ],
   "28383311": [],
@@ -8045,6 +8089,10 @@
     [
       "GO_0006915",
       "apoptotic process"
+    ],
+    [
+      "GO_0008219",
+      "cell death"
     ]
   ],
   "27845771": [
