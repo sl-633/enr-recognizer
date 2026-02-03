@@ -280,8 +280,8 @@ On MM-HPO:
 |--------------------------|------|----:|------:|----:|----------:|--------:|--------:|
 | Top-100                  | dev  | 431 | 43769 | 475 |    0.9751 | 47.5717 |  1.9111 |
 |                          | test | 403 | 41197 | 492 |    0.9688 | 45.0279 |  1.8967 |
-| Tuned threshold=0.052760 | dev  | 298 |   280 | 608 |   51.5571 | 32.8918 | 40.1617 |
-|                          | test | 261 |   288 | 634 |   47.5410 | 29.1620 | 36.1496 |
+| Tuned threshold=0.048433 | dev  | 307 |   320 | 599 |   48.9633 | 33.8852 | 40.0522 |
+|                          | test | 276 |   326 | 619 |   45.8472 | 30.8380 | 36.8737 |
 
 On MM-GO:
 
@@ -289,8 +289,8 @@ On MM-GO:
 |--------------------------|------|----:|------:|----:|----------:|--------:|--------:|
 | Top-100                  | dev  | 334 | 33266 | 458 |    0.9940 | 42.1717 |  1.9423 |
 |                          | test | 333 | 34667 | 427 |    0.9514 | 43.8158 |  1.8624 |
-| Tuned threshold=0.045935 | dev  | 204 |   353 | 588 |   36.6248 | 25.7576 | 30.2446 |
-|                          | test | 202 |   338 | 558 |   37.4074 | 26.5789 | 31.0769 |
+| Tuned threshold=0.045884 | dev  | 204 |   354 | 588 |   36.5591 | 25.7576 | 30.2222 |
+|                          | test | 202 |   339 | 558 |   37.3383 | 26.5789 | 31.0530 |
 
 ## Bi-Encoder
 
@@ -342,8 +342,8 @@ Our default setting `epochs=5`:
 |--------------------------|------|----:|------:|----:|----------:|--------:|--------:|
 | Top-100                  | dev  | 835 | 43365 |  71 |    1.8891 | 92.1634 |  3.7024 |
 |                          | test | 777 | 40923 | 120 |    1.8633 | 86.6221 |  3.6481 |
-| Tuned threshold=0.596491 | dev  | 357 |   569 | 549 |   38.5529 | 39.4040 | 38.9738 |
-|                          | test | 325 |   592 | 572 |   35.4417 | 36.2319 | 35.8324 |
+| Tuned threshold=0.594208 | dev  | 362 |   588 | 544 |   38.1053 | 39.9558 | 39.0086 |
+|                          | test | 329 |   618 | 568 |   34.7413 | 36.6778 | 35.6833 |
 
 On MM-GO:
 
@@ -391,7 +391,8 @@ If there is missing split, like no prediction on dev set, you can add `--allow-m
 
 ### Get distribution-matched FPs
 
-To ensure fair comparison across recognizers, we match the **average number of false positives per passage** across models:
+To ensure fair comparison across recognizers, we match the **average number of false positives per passage** across
+models:
 we use MA-COIR (Beam-10) as a reference and adjust the thresholds of XR-Transformer and Bi-Encoder so that all three
 recognizers produce the same average number of false positives per passage on the training set.
 False positives produced under this matched setting are collected as ENs.
@@ -440,6 +441,7 @@ On MM-GO:
 [fp-only] records=2526 avg_hard=3.57 -> data/mm-go/mld/cross-encoder-input/train_be_fp.jsonl
 [fp-only] records=2526 avg_hard=4.65 -> data/mm-go/mld/cross-encoder-input/train_xrt_fp.jsonl
 ```
+
 On MM-HPO:
 
 - `python -m src.datasets.cross_encoder --dataset hpo build-fp-only --fp-json data/mm-hpo/mld/fp/fp_macoir-output_beam10.json --out data/mm-hpo/mld/cross-encoder-input/train_macoir_fp.jsonl`
@@ -454,21 +456,23 @@ On MM-HPO:
 
 Multiple Recognizer:
 
-Firstly, we need to merge multi-resource FPs into one FP file. Then, we build data based on the merged FP file.
+Firstly, we need to merge multi-resource FPs into one FP file. 
+
+Then, we build data based on the merged FP file.
 
 On MM-GO:
 
-python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_be.json
-python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_be.json --out data/mm-go/mld/cross-encoder-input/train_macoir_be_fp.jsonl
+- `python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_be.json`
+- `python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_be.json --out data/mm-go/mld/cross-encoder-input/train_macoir_be_fp.jsonl`
 
-python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_xrt.json
-python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_xrt.json --out data/mm-go/mld/cross-encoder-input/train_macoir_xrt_fp.jsonl
+- `python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_xrt.json`
+- `python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_xrt.json --out data/mm-go/mld/cross-encoder-input/train_macoir_xrt_fp.jsonl`
 
-python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_xrt_be.json
-python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_xrt_be.json --out data/mm-go/mld/cross-encoder-input/train_xrt_be_fp.jsonl
+- `python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_xrt_be.json`
+- `python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_xrt_be.json --out data/mm-go/mld/cross-encoder-input/train_xrt_be_fp.jsonl`
 
-python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_xrt_be.json
-python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_xrt_be.json --out data/mm-go/mld/cross-encoder-input/train_macoir_xrt_be_fp.jsonl
+- `python -m src.datasets.cross_encoder --dataset go merge-fp --inputs data/mm-go/mld/fp/fp_macoir-output_beam10.json data/mm-go/mld/fp/fp_be_map_to_macoir_beam10.json data/mm-go/mld/fp/fp_xrt_map_to_macoir_beam10.json --out data/mm-go/mld/fp/fp_macoir_xrt_be.json`
+- `python -m src.datasets.cross_encoder --dataset go build-fp-only --fp-json data/mm-go/mld/fp/fp_macoir_xrt_be.json --out data/mm-go/mld/cross-encoder-input/train_macoir_xrt_be_fp.jsonl`
 
 ```
 [fp-only] records=2526 avg_hard=5.71 -> data/mm-go/mld/cross-encoder-input/train_macoir_be_fp.jsonl
@@ -485,8 +489,6 @@ On MM-HPO:
 [fp-only] records=2720 avg_hard=7.30 -> data/mm-hpo/mld/cross-encoder-input/train_xrt_be_fp.jsonl
 [fp-only] records=2720 avg_hard=9.57 -> data/mm-hpo/mld/cross-encoder-input/train_macoir_xrt_be_fp.jsonl
 ```
-
-
 
 ### Construct GN+EN data
 
