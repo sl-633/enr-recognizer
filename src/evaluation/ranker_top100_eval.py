@@ -239,11 +239,11 @@ def compute_counts(
 
 
 def tune_threshold_on_dev(
-        dev_preds: List[PredExample],
-        dev_gold_by_doc: Dict[str, GoldExample],
-        dev_query_to_doc: Dict[str, str],
-        topk: int,
-        max_candidates: int,
+    dev_preds: List[PredExample],
+    dev_gold_by_doc: Dict[str, GoldExample],
+    dev_query_to_doc: Dict[str, str],
+    topk: int,
+    max_candidates: int,
 ) -> Tuple[float, Dict[str, float]]:
     scores: List[float] = []
     for ex in dev_preds:
@@ -253,27 +253,33 @@ def tune_threshold_on_dev(
     if not scores:
         return 1.0, {"P": 0.0, "R": 0.0, "F1": 0.0}
 
-    uniq = np.unique(np.asarray(scores, dtype=np.float32))
+    arr = np.asarray(scores, dtype=np.float32)
+    uniq = np.unique(arr)
+
+    # match old behavior: quantile on raw scores (keeps frequency)
     if uniq.size > max_candidates:
-        cand = np.quantile(uniq, np.linspace(0.0, 1.0, max_candidates))
-        cand = np.unique(cand)
+        cand = np.quantile(arr, np.linspace(0.0, 1.0, max_candidates))
+        cand = np.unique(cand.astype(np.float32))
     else:
         cand = uniq
 
-    best_thr = 1.0
+    best_thr = None
     best_p = best_r = 0.0
     best_f1 = -1.0
 
     for thr in cand:
         tp, fp, fn = compute_counts(
-            dev_preds, dev_gold_by_doc, dev_query_to_doc, mode="thresholded", topk=topk, threshold=float(thr)
+            dev_preds, dev_gold_by_doc, dev_query_to_doc,
+            mode="thresholded", topk=topk, threshold=float(thr)
         )
         p, r, f1 = set_micro_prf1(tp, fp, fn)
-        if (f1 > best_f1) or (math.isclose(f1, best_f1) and float(thr) > best_thr):
+
+        # tie-break: prefer higher threshold when F1 ties
+        if (f1 > best_f1) or (math.isclose(f1, best_f1) and (best_thr is None or float(thr) > best_thr)):
             best_thr = float(thr)
             best_p, best_r, best_f1 = p, r, f1
 
-    return best_thr, {"P": best_p, "R": best_r, "F1": best_f1}
+    return (best_thr if best_thr is not None else 1.0), {"P": best_p, "R": best_r, "F1": best_f1}
 
 
 def build_split_dump(
