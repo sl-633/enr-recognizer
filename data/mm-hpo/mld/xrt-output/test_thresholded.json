@@ -157,6 +157,11 @@
         "id": "HP_0000726",
         "name": "Dementia",
         "score": 0.12275978922843933
+      },
+      {
+        "id": "HP_0002463",
+        "name": "Language impairment",
+        "score": 0.04939133673906326
       }
     ]
   },
@@ -364,6 +369,11 @@
         "id": "HP_0100753",
         "name": "Schizophrenia",
         "score": 0.9184982776641846
+      },
+      {
+        "id": "HP_0100769",
+        "name": "Synovitis",
+        "score": 0.05264165624976158
       }
     ]
   },
@@ -560,6 +570,11 @@
         "id": "HP_0001410",
         "name": "Decreased liver function",
         "score": 0.05596968159079552
+      },
+      {
+        "id": "HP_0001395",
+        "name": "Hepatic fibrosis",
+        "score": 0.04856229946017265
       }
     ]
   },
@@ -678,6 +693,11 @@
         "id": "HP_0000819",
         "name": "Diabetes mellitus",
         "score": 0.09538993239402771
+      },
+      {
+        "id": "HP_0000855",
+        "name": "Insulin resistance",
+        "score": 0.04900459572672844
       }
     ]
   },
@@ -1062,6 +1082,16 @@
         "id": "HP_0000822",
         "name": "Hypertension",
         "score": 0.05774576589465141
+      },
+      {
+        "id": "HP_0001945",
+        "name": "Fever",
+        "score": 0.05176053196191788
+      },
+      {
+        "id": "HP_0001974",
+        "name": "Increased total leukocyte count",
+        "score": 0.05140093341469765
       }
     ]
   },
@@ -1085,7 +1115,18 @@
         "name": "Optic neuropathy"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0001112",
+        "name": "Leber optic atrophy",
+        "score": 0.051548946648836136
+      },
+      {
+        "id": "HP_0001138",
+        "name": "Optic neuropathy",
+        "score": 0.05128874629735947
+      }
+    ]
   },
   "27433451": {
     "gold": [
@@ -1344,6 +1385,16 @@
         "id": "HP_0012393",
         "name": "Allergy",
         "score": 0.05602237954735756
+      },
+      {
+        "id": "HP_0012534",
+        "name": "Dysesthesia",
+        "score": 0.05118013918399811
+      },
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain",
+        "score": 0.048613421618938446
       }
     ]
   },
@@ -1388,7 +1439,13 @@
         "name": "Abnormality of the cardiovascular system"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0025464",
+        "name": "Increased reactive oxygen species production",
+        "score": 0.050462789833545685
+      }
+    ]
   },
   "27470609": {
     "gold": [
@@ -1524,7 +1581,13 @@
         "name": "Anxiety"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0000717",
+        "name": "Autism",
+        "score": 0.048803918063640594
+      }
+    ]
   },
   "27478553": {
     "gold": [
@@ -1670,6 +1733,11 @@
         "id": "HP_0001297",
         "name": "Stroke",
         "score": 0.8699013590812683
+      },
+      {
+        "id": "HP_0001919",
+        "name": "Acute kidney injury",
+        "score": 0.05209917947649956
       }
     ]
   },
@@ -1851,6 +1919,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.2601991593837738
+      },
+      {
+        "id": "HP_0012539",
+        "name": "Non-Hodgkin lymphoma",
+        "score": 0.05063029006123543
       }
     ]
   },
@@ -2883,6 +2956,16 @@
         "id": "HP_0000822",
         "name": "Hypertension",
         "score": 0.0709240511059761
+      },
+      {
+        "id": "HP_0001518",
+        "name": "Small for gestational age",
+        "score": 0.0508250892162323
+      },
+      {
+        "id": "HP_0001360",
+        "name": "Holoprosencephaly",
+        "score": 0.04872777685523033
       }
     ]
   },
@@ -2990,6 +3073,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.934593141078949
+      },
+      {
+        "id": "HP_0002500",
+        "name": "Abnormal cerebral white matter morphology",
+        "score": 0.05153147131204605
       }
     ]
   },
@@ -3221,6 +3309,16 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.3264896869659424
+      },
+      {
+        "id": "HP_0002488",
+        "name": "Acute leukemia",
+        "score": 0.05160721391439438
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia",
+        "score": 0.04994763433933258
       }
     ]
   },
@@ -3400,6 +3498,11 @@
         "id": "HP_0025464",
         "name": "Increased reactive oxygen species production",
         "score": 0.05380880832672119
+      },
+      {
+        "id": "HP_0000501",
+        "name": "Glaucoma",
+        "score": 0.049268968403339386
       }
     ]
   },
@@ -3532,7 +3635,13 @@
         "name": "Chronic pulmonary obstruction"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction",
+        "score": 0.04854639247059822
+      }
+    ]
   },
   "27806658": {
     "gold": [
@@ -3810,6 +3919,11 @@
         "id": "HP_0001370",
         "name": "Rheumatoid arthritis",
         "score": 0.06154659762978554
+      },
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy",
+        "score": 0.05199991166591644
       }
     ]
   },
@@ -3820,7 +3934,13 @@
         "name": "Hypoxemia"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0012418",
+        "name": "Hypoxemia",
+        "score": 0.05201181769371033
+      }
+    ]
   },
   "27857788": {
     "gold": [
@@ -3918,6 +4038,11 @@
         "id": "HP_0000709",
         "name": "Psychosis",
         "score": 0.08920848369598389
+      },
+      {
+        "id": "HP_0000746",
+        "name": "Delusion",
+        "score": 0.051858220249414444
       }
     ]
   },
@@ -3969,6 +4094,11 @@
         "id": "HP_0000822",
         "name": "Hypertension",
         "score": 0.06084278225898743
+      },
+      {
+        "id": "HP_0001297",
+        "name": "Stroke",
+        "score": 0.05188392102718353
       }
     ]
   },
@@ -4177,6 +4307,11 @@
         "id": "HP_0003119",
         "name": "Abnormal circulating lipid concentration",
         "score": 0.0528012178838253
+      },
+      {
+        "id": "HP_0002960",
+        "name": "Autoimmunity",
+        "score": 0.052288759499788284
       }
     ]
   },
@@ -4296,6 +4431,16 @@
         "id": "HP_0007302",
         "name": "Bipolar affective disorder",
         "score": 0.3846640884876251
+      },
+      {
+        "id": "HP_0007018",
+        "name": "Attention deficit hyperactivity disorder",
+        "score": 0.05169270932674408
+      },
+      {
+        "id": "HP_0001360",
+        "name": "Holoprosencephaly",
+        "score": 0.04893093928694725
       }
     ]
   },
@@ -4338,6 +4483,16 @@
         "id": "HP_0001250",
         "name": "Seizure",
         "score": 0.06857748329639435
+      },
+      {
+        "id": "HP_0000722",
+        "name": "Compulsive behaviors",
+        "score": 0.051078926771879196
+      },
+      {
+        "id": "HP_0001249",
+        "name": "Intellectual disability",
+        "score": 0.04945177957415581
       }
     ]
   },
@@ -4498,6 +4653,11 @@
         "id": "HP_0002104",
         "name": "Apnea",
         "score": 0.05414186418056488
+      },
+      {
+        "id": "HP_0002094",
+        "name": "Dyspnea",
+        "score": 0.05110643059015274
       }
     ]
   },
@@ -5188,6 +5348,11 @@
         "id": "HP_0020110",
         "name": "Bone fracture",
         "score": 0.2910589575767517
+      },
+      {
+        "id": "HP_6000655",
+        "name": "Femoral neck fracture",
+        "score": 0.05012084171175957
       }
     ]
   },
@@ -5468,6 +5633,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.11804180592298508
+      },
+      {
+        "id": "HP_0002757",
+        "name": "Recurrent fractures",
+        "score": 0.052630845457315445
       }
     ]
   },
@@ -5614,6 +5784,11 @@
         "id": "HP_0001824",
         "name": "Weight loss",
         "score": 0.05731143429875374
+      },
+      {
+        "id": "HP_0001513",
+        "name": "Obesity",
+        "score": 0.04919510334730148
       }
     ]
   },
@@ -6178,6 +6353,11 @@
         "id": "HP_0002527",
         "name": "Falls",
         "score": 0.0739998146891594
+      },
+      {
+        "id": "HP_0001369",
+        "name": "Arthritis",
+        "score": 0.05243569239974022
       }
     ]
   },
@@ -6215,7 +6395,23 @@
         "name": "Abnormality of the cardiovascular system"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0001638",
+        "name": "Cardiomyopathy",
+        "score": 0.05115707963705063
+      },
+      {
+        "id": "HP_0000554",
+        "name": "Uveitis",
+        "score": 0.05083070322871208
+      },
+      {
+        "id": "HP_0001626",
+        "name": "Abnormality of the cardiovascular system",
+        "score": 0.04896014183759689
+      }
+    ]
   },
   "28243201": {
     "gold": [
@@ -6310,6 +6506,11 @@
         "id": "HP_0001638",
         "name": "Cardiomyopathy",
         "score": 0.05717397853732109
+      },
+      {
+        "id": "HP_0001645",
+        "name": "Sudden cardiac death",
+        "score": 0.0492074079811573
       }
     ]
   },
@@ -6747,6 +6948,11 @@
         "id": "HP_0005978",
         "name": "Type II diabetes mellitus",
         "score": 0.1558108627796173
+      },
+      {
+        "id": "HP_0000819",
+        "name": "Diabetes mellitus",
+        "score": 0.052472107112407684
       }
     ]
   },
@@ -6906,6 +7112,11 @@
         "id": "HP_0001410",
         "name": "Decreased liver function",
         "score": 0.05503188073635101
+      },
+      {
+        "id": "HP_0001650",
+        "name": "Aortic valve stenosis",
+        "score": 0.050699491053819656
       }
     ]
   },
@@ -6934,6 +7145,11 @@
         "id": "HP_0012532",
         "name": "Chronic pain",
         "score": 0.13670872151851654
+      },
+      {
+        "id": "HP_0012622",
+        "name": "Chronic kidney disease",
+        "score": 0.050588008016347885
       }
     ]
   },
@@ -7020,6 +7236,16 @@
         "id": "HP_0000478",
         "name": "Abnormality of the eye",
         "score": 0.053912222385406494
+      },
+      {
+        "id": "HP_0001317",
+        "name": "Abnormal cerebellum morphology",
+        "score": 0.05026230216026306
+      },
+      {
+        "id": "HP_0000554",
+        "name": "Uveitis",
+        "score": 0.049164026975631714
       }
     ]
   },
@@ -7106,6 +7332,11 @@
         "id": "HP_0000112",
         "name": "Nephropathy",
         "score": 0.052796538919210434
+      },
+      {
+        "id": "HP_0001824",
+        "name": "Weight loss",
+        "score": 0.04905605688691139
       }
     ]
   },
@@ -7458,6 +7689,11 @@
         "id": "HP_0001639",
         "name": "Hypertrophic cardiomyopathy",
         "score": 0.053260184824466705
+      },
+      {
+        "id": "HP_0000478",
+        "name": "Abnormality of the eye",
+        "score": 0.049976836889982224
       }
     ]
   },
@@ -7511,6 +7747,11 @@
         "id": "HP_0000020",
         "name": "Urinary incontinence",
         "score": 0.058737512677907944
+      },
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy",
+        "score": 0.04850957915186882
       }
     ]
   },
@@ -7610,6 +7851,16 @@
         "id": "HP_0001635",
         "name": "Congestive heart failure",
         "score": 0.06022612750530243
+      },
+      {
+        "id": "HP_0001712",
+        "name": "Left ventricular hypertrophy",
+        "score": 0.050350189208984375
+      },
+      {
+        "id": "HP_0004756",
+        "name": "Ventricular tachycardia",
+        "score": 0.04898058623075485
       }
     ]
   },
@@ -8053,6 +8304,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.9999833106994629
+      },
+      {
+        "id": "HP_0002592",
+        "name": "Gastric ulcer",
+        "score": 0.048817165195941925
       }
     ]
   },
@@ -8451,6 +8707,11 @@
         "id": "HP_0001649",
         "name": "Tachycardia",
         "score": 0.05685010179877281
+      },
+      {
+        "id": "HP_0001658",
+        "name": "Myocardial infarction",
+        "score": 0.04888274148106575
       }
     ]
   },
@@ -8508,6 +8769,11 @@
         "id": "HP_0002721",
         "name": "Immunodeficiency",
         "score": 0.06418544054031372
+      },
+      {
+        "id": "HP_0002665",
+        "name": "Lymphoma",
+        "score": 0.05102982372045517
       }
     ]
   },
@@ -8551,6 +8817,11 @@
         "id": "HP_0040277",
         "name": "Neoplasm of the pituitary gland",
         "score": 0.07441524416208267
+      },
+      {
+        "id": "HP_0002664",
+        "name": "Neoplasm",
+        "score": 0.052087146788835526
       }
     ]
   },

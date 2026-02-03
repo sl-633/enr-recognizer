@@ -145,6 +145,16 @@
         "id": "HP_0012625",
         "name": "Stage 3 chronic kidney disease",
         "score": 0.06403934955596924
+      },
+      {
+        "id": "HP_0012623",
+        "name": "Stage 1 chronic kidney disease",
+        "score": 0.05239923298358917
+      },
+      {
+        "id": "HP_0000020",
+        "name": "Urinary incontinence",
+        "score": 0.05203249678015709
       }
     ]
   },
@@ -254,6 +264,11 @@
         "id": "HP_0005294",
         "name": "Arterial dissection",
         "score": 0.061461206525564194
+      },
+      {
+        "id": "HP_0005308",
+        "name": "Pulmonary artery vasoconstriction",
+        "score": 0.049514465034008026
       }
     ]
   },
@@ -481,6 +496,11 @@
         "id": "HP_0002488",
         "name": "Acute leukemia",
         "score": 0.2579600214958191
+      },
+      {
+        "id": "HP_0001909",
+        "name": "Leukemia",
+        "score": 0.049724679440259933
       }
     ]
   },
@@ -725,6 +745,11 @@
         "id": "HP_0002960",
         "name": "Autoimmunity",
         "score": 0.2651865780353546
+      },
+      {
+        "id": "HP_0002665",
+        "name": "Lymphoma",
+        "score": 0.0513567179441452
       }
     ]
   },
@@ -960,6 +985,16 @@
         "id": "HP_0002910",
         "name": "Elevated circulating hepatic transaminase concentration",
         "score": 0.18131974339485168
+      },
+      {
+        "id": "HP_0003124",
+        "name": "Hypercholesterolemia",
+        "score": 0.05274593085050583
+      },
+      {
+        "id": "HP_0002901",
+        "name": "Hypocalcemia",
+        "score": 0.05268000066280365
       }
     ]
   },
@@ -1049,6 +1084,11 @@
         "id": "HP_0004950",
         "name": "Peripheral arterial stenosis",
         "score": 0.08477732539176941
+      },
+      {
+        "id": "HP_0004970",
+        "name": "Ascending tubular aorta aneurysm",
+        "score": 0.05008402466773987
       }
     ]
   },
@@ -1294,6 +1334,11 @@
         "id": "HP_0003072",
         "name": "Hypercalcemia",
         "score": 0.055536381900310516
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension",
+        "score": 0.04858677461743355
       }
     ]
   },
@@ -1392,7 +1437,13 @@
         "name": "Chronic villitis"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0001622",
+        "name": "Premature birth",
+        "score": 0.05082608014345169
+      }
+    ]
   },
   "27447713": {
     "gold": [
@@ -1604,6 +1655,11 @@
         "id": "HP_0100543",
         "name": "Cognitive impairment",
         "score": 0.1476888209581375
+      },
+      {
+        "id": "HP_0000726",
+        "name": "Dementia",
+        "score": 0.051508400589227676
       }
     ]
   },
@@ -2005,6 +2061,11 @@
         "id": "HP_0001395",
         "name": "Hepatic fibrosis",
         "score": 0.06390941143035889
+      },
+      {
+        "id": "HP_0001735",
+        "name": "Acute pancreatitis",
+        "score": 0.04910223186016083
       }
     ]
   },
@@ -2268,6 +2329,11 @@
         "id": "HP_0001682",
         "name": "Subvalvular aortic stenosis",
         "score": 0.057397693395614624
+      },
+      {
+        "id": "HP_0004942",
+        "name": "Aortic aneurysm",
+        "score": 0.05262172594666481
       }
     ]
   },
@@ -2513,6 +2579,11 @@
         "id": "HP_0000822",
         "name": "Hypertension",
         "score": 0.07989837229251862
+      },
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety",
+        "score": 0.04960903897881508
       }
     ]
   },
@@ -2696,6 +2767,11 @@
         "id": "HP_0001541",
         "name": "Ascites",
         "score": 0.06602657586336136
+      },
+      {
+        "id": "HP_0002204",
+        "name": "Pulmonary embolism",
+        "score": 0.04875408113002777
       }
     ]
   },
@@ -2834,6 +2910,11 @@
         "id": "HP_0000105",
         "name": "Enlarged kidney",
         "score": 0.11671098321676254
+      },
+      {
+        "id": "HP_0000020",
+        "name": "Urinary incontinence",
+        "score": 0.04889092594385147
       }
     ]
   },
@@ -2853,7 +2934,13 @@
         "name": "Chronic pulmonary obstruction"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0006510",
+        "name": "Chronic pulmonary obstruction",
+        "score": 0.052053052932024
+      }
+    ]
   },
   "27621953": {
     "gold": [
@@ -2900,6 +2987,11 @@
         "id": "HP_0002878",
         "name": "Respiratory failure",
         "score": 0.06306511163711548
+      },
+      {
+        "id": "HP_0001695",
+        "name": "Cardiac arrest",
+        "score": 0.05185745656490326
       }
     ]
   },
@@ -2923,6 +3015,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.07996460050344467
+      },
+      {
+        "id": "HP_0000099",
+        "name": "Glomerulonephritis",
+        "score": 0.04910820722579956
       }
     ]
   },
@@ -3351,6 +3448,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 1.0
+      },
+      {
+        "id": "HP_0002615",
+        "name": "Hypotension",
+        "score": 0.0514548122882843
       }
     ]
   },
@@ -4212,6 +4314,11 @@
         "id": "HP_0002463",
         "name": "Language impairment",
         "score": 0.13012243807315826
+      },
+      {
+        "id": "HP_0002381",
+        "name": "Aphasia",
+        "score": 0.049621667712926865
       }
     ]
   },
@@ -4611,6 +4718,11 @@
         "id": "HP_0001279",
         "name": "Syncope",
         "score": 0.0951562374830246
+      },
+      {
+        "id": "HP_0001249",
+        "name": "Intellectual disability",
+        "score": 0.05072775483131409
       }
     ]
   },
@@ -4799,6 +4911,11 @@
         "id": "HP_0002511",
         "name": "Alzheimer disease",
         "score": 0.06335162371397018
+      },
+      {
+        "id": "HP_0000726",
+        "name": "Dementia",
+        "score": 0.05170609802007675
       }
     ]
   },
@@ -5064,6 +5181,11 @@
         "id": "HP_0004950",
         "name": "Peripheral arterial stenosis",
         "score": 0.054544366896152496
+      },
+      {
+        "id": "HP_0006528",
+        "name": "Chronic lung disease",
+        "score": 0.051974911242723465
       }
     ]
   },
@@ -5088,6 +5210,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.5796715021133423
+      },
+      {
+        "id": "HP_0003074",
+        "name": "Hyperglycemia",
+        "score": 0.052692390978336334
       }
     ]
   },
@@ -5199,7 +5326,13 @@
         "name": "Hair-pulling"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0000739",
+        "name": "Anxiety",
+        "score": 0.04997378960251808
+      }
+    ]
   },
   "28008561": {
     "gold": [
@@ -5506,6 +5639,11 @@
         "id": "HP_0100753",
         "name": "Schizophrenia",
         "score": 0.7447398900985718
+      },
+      {
+        "id": "HP_0100785",
+        "name": "Insomnia",
+        "score": 0.05211855471134186
       }
     ]
   },
@@ -5789,6 +5927,16 @@
         "id": "HP_0004619",
         "name": "Lumbar kyphoscoliosis",
         "score": 0.05924898013472557
+      },
+      {
+        "id": "HP_0004950",
+        "name": "Peripheral arterial stenosis",
+        "score": 0.051201775670051575
+      },
+      {
+        "id": "HP_0003307",
+        "name": "Hyperlordosis",
+        "score": 0.0491475984454155
       }
     ]
   },
@@ -6399,6 +6547,16 @@
         "id": "HP_0001518",
         "name": "Small for gestational age",
         "score": 0.12681642174720764
+      },
+      {
+        "id": "HP_0001733",
+        "name": "Pancreatitis",
+        "score": 0.0520428866147995
+      },
+      {
+        "id": "HP_0001788",
+        "name": "Premature rupture of membranes",
+        "score": 0.048486437648534775
       }
     ]
   },
@@ -6414,6 +6572,16 @@
         "id": "HP_0012531",
         "name": "Pain",
         "score": 0.6537498831748962
+      },
+      {
+        "id": "HP_0012534",
+        "name": "Dysesthesia",
+        "score": 0.051367856562137604
+      },
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain",
+        "score": 0.050549548119306564
       }
     ]
   },
@@ -6621,6 +6789,11 @@
         "id": "HP_0000739",
         "name": "Anxiety",
         "score": 0.0580572634935379
+      },
+      {
+        "id": "HP_0001324",
+        "name": "Muscle weakness",
+        "score": 0.048433780670166016
       }
     ]
   },
@@ -6778,6 +6951,11 @@
         "id": "HP_0033676",
         "name": "Posttraumatic stress symptom",
         "score": 0.08801201730966568
+      },
+      {
+        "id": "HP_0100543",
+        "name": "Cognitive impairment",
+        "score": 0.051591187715530396
       }
     ]
   },
@@ -7048,6 +7226,11 @@
         "id": "HP_0001658",
         "name": "Myocardial infarction",
         "score": 0.0722813829779625
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension",
+        "score": 0.0509331189095974
       }
     ]
   },
@@ -7416,6 +7599,11 @@
         "id": "HP_0001513",
         "name": "Obesity",
         "score": 0.41420114040374756
+      },
+      {
+        "id": "HP_0001824",
+        "name": "Weight loss",
+        "score": 0.05011550337076187
       }
     ]
   },
@@ -7564,6 +7752,11 @@
         "id": "HP_0003401",
         "name": "Paresthesia",
         "score": 0.0685933530330658
+      },
+      {
+        "id": "HP_0012532",
+        "name": "Chronic pain",
+        "score": 0.049712054431438446
       }
     ]
   },
@@ -7621,6 +7814,11 @@
         "id": "HP_0012085",
         "name": "Pyuria",
         "score": 0.05376488342881203
+      },
+      {
+        "id": "HP_0012124",
+        "name": "Intermediate uveitis",
+        "score": 0.051815781742334366
       }
     ]
   },
@@ -8117,6 +8315,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.13375651836395264
+      },
+      {
+        "id": "HP_0002633",
+        "name": "Vasculitis",
+        "score": 0.051327917724847794
       }
     ]
   },
@@ -8246,6 +8449,21 @@
         "id": "HP_0001638",
         "name": "Cardiomyopathy",
         "score": 0.06962737441062927
+      },
+      {
+        "id": "HP_0001645",
+        "name": "Sudden cardiac death",
+        "score": 0.052718233317136765
+      },
+      {
+        "id": "HP_0000822",
+        "name": "Hypertension",
+        "score": 0.05145344138145447
+      },
+      {
+        "id": "HP_0001649",
+        "name": "Tachycardia",
+        "score": 0.04851025715470314
       }
     ]
   },
@@ -8276,6 +8494,11 @@
         "id": "HP_0002664",
         "name": "Neoplasm",
         "score": 0.24407851696014404
+      },
+      {
+        "id": "HP_0002653",
+        "name": "Bone pain",
+        "score": 0.050295550376176834
       }
     ]
   },
@@ -8348,7 +8571,13 @@
         "name": "Periapical bone loss"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0000670",
+        "name": "Carious teeth",
+        "score": 0.05156053975224495
+      }
+    ]
   },
   "28464291": {
     "gold": [
@@ -8626,7 +8855,13 @@
         "name": "Urticaria"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0005086",
+        "name": "Knee osteoarthritis",
+        "score": 0.052439041435718536
+      }
+    ]
   },
   "28495504": {
     "gold": [
@@ -8639,7 +8874,13 @@
         "name": "Anuria"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0000112",
+        "name": "Nephropathy",
+        "score": 0.049836110323667526
+      }
+    ]
   },
   "28496002": {
     "gold": [
@@ -8721,7 +8962,13 @@
         "name": "Osteoarthritis"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0002758",
+        "name": "Osteoarthritis",
+        "score": 0.04890882223844528
+      }
+    ]
   },
   "28501764": {
     "gold": [
@@ -9017,7 +9264,13 @@
         "name": "Pain"
       }
     ],
-    "pred": []
+    "pred": [
+      {
+        "id": "HP_0012531",
+        "name": "Pain",
+        "score": 0.05065449699759483
+      }
+    ]
   },
   "28546554": {
     "gold": [
