@@ -6698,6 +6698,11 @@
         "id": "GO_0050789",
         "name": "regulation of biological process",
         "score": 0.10274604707956314
+      },
+      {
+        "id": "GO_0006351",
+        "name": "DNA-templated transcription",
+        "score": 0.04590950906276703
       }
     ]
   },

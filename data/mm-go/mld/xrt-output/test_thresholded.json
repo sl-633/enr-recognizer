@@ -3623,6 +3623,11 @@
         "id": "GO_0006915",
         "name": "apoptotic process",
         "score": 0.2528132200241089
+      },
+      {
+        "id": "GO_0008219",
+        "name": "cell death",
+        "score": 0.045908793807029724
       }
     ]
   },
