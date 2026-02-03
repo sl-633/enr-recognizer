@@ -9,6 +9,10 @@
     [
       "HP_0003414",
       "Atlantoaxial dislocation"
+    ],
+    [
+      "HP_0003450",
+      "Axonal regeneration"
     ]
   ],
   "26867927": [],
@@ -60,16 +64,30 @@
   "27235985": [],
   "27236033": [],
   "27236596": [],
-  "27237979": [],
+  "27237979": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27239953": [],
   "27240437": [],
   "27241087": [
     [
       "HP_0100280",
       "Crohn's disease"
+    ],
+    [
+      "HP_0100279",
+      "Ulcerative colitis"
     ]
   ],
-  "27242101": [],
+  "27242101": [
+    [
+      "HP_0011109",
+      "Chronic sinusitis"
+    ]
+  ],
   "27245524": [],
   "27246120": [
     [
@@ -112,6 +130,10 @@
     [
       "HP_0010735",
       "Polyostotic fibrous dysplasia"
+    ],
+    [
+      "HP_0012324",
+      "Myeloid leukemia"
     ]
   ],
   "27256491": [],
@@ -127,12 +149,21 @@
   ],
   "27258136": [],
   "27258956": [],
-  "27259326": [],
+  "27259326": [
+    [
+      "HP_0002665",
+      "Lymphoma"
+    ]
+  ],
   "27259677": [],
   "27261525": [
     [
       "HP_0000763",
       "Sensory neuropathy"
+    ],
+    [
+      "HP_0100769",
+      "Synovitis"
     ]
   ],
   "27262362": [],
@@ -168,7 +199,12 @@
   "27271951": [],
   "27274087": [],
   "27274417": [],
-  "27275298": [],
+  "27275298": [
+    [
+      "HP_0033511",
+      "Addictive substance use"
+    ]
+  ],
   "27275827": [],
   "27282214": [
     [
@@ -190,6 +226,18 @@
     [
       "HP_0003401",
       "Paresthesia"
+    ],
+    [
+      "HP_0003414",
+      "Atlantoaxial dislocation"
+    ],
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ],
+    [
+      "HP_0003418",
+      "Back pain"
     ]
   ],
   "27299289": [
@@ -198,10 +246,20 @@
       "Enlarged kidney"
     ]
   ],
-  "27299522": [],
+  "27299522": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27301553": [],
   "27301853": [],
-  "27303795": [],
+  "27303795": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27303808": [
     [
       "HP_0500050",
@@ -217,9 +275,22 @@
     [
       "HP_0001654",
       "Abnormal heart valve morphology"
+    ],
+    [
+      "HP_0011736",
+      "Primary hyperaldosteronism"
+    ],
+    [
+      "HP_0011779",
+      "Anaplastic thyroid carcinoma"
     ]
   ],
-  "27308603": [],
+  "27308603": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27310240": [
     [
       "HP_0100820",
@@ -233,6 +304,10 @@
     [
       "HP_0012490",
       "Panniculitis"
+    ],
+    [
+      "HP_0012450",
+      "Chronic constipation"
     ]
   ],
   "27312487": [],
@@ -242,6 +317,14 @@
     [
       "HP_0004942",
       "Aortic aneurysm"
+    ],
+    [
+      "HP_0004950",
+      "Peripheral arterial stenosis"
+    ],
+    [
+      "HP_0000819",
+      "Diabetes mellitus"
     ]
   ],
   "27316920": [],
@@ -278,6 +361,74 @@
     [
       "HP_0025337",
       "Red eye"
+    ],
+    [
+      "HP_0030519",
+      "Congruous heteronymous hemianopia"
+    ],
+    [
+      "HP_0030518",
+      "Congruous homonymous hemianopia"
+    ],
+    [
+      "HP_0030517",
+      "Heteronymous hemianopia"
+    ],
+    [
+      "HP_0030516",
+      "Homonymous hemianopia"
+    ],
+    [
+      "HP_0030515",
+      "Moderately reduced visual acuity"
+    ],
+    [
+      "HP_0030514",
+      "Difficulty adjusting from dark to light"
+    ],
+    [
+      "HP_0030520",
+      "Binasal hemianopia"
+    ],
+    [
+      "HP_0030512",
+      "Difficulty adjusting to changes in luminance"
+    ],
+    [
+      "HP_0030511",
+      "Bradyopsia"
+    ],
+    [
+      "HP_0030510",
+      "Combined hamartoma of the retinal pigment epithelium and retina"
+    ],
+    [
+      "HP_0030509",
+      "Retinal racemose hemangioma"
+    ],
+    [
+      "HP_0030507",
+      "Retinal crystals"
+    ],
+    [
+      "HP_0030506",
+      "Yellow/white lesions of the retina"
+    ],
+    [
+      "HP_0030505",
+      "Nummular pigmentation of the fundus"
+    ],
+    [
+      "HP_0030521",
+      "Bitemporal hemianopia"
+    ],
+    [
+      "HP_0030522",
+      "Mild constriction of peripheral visual field"
+    ],
+    [
+      "HP_0030513",
+      "Difficulty adjusting from light to dark"
     ]
   ],
   "27337992": [
@@ -312,20 +463,50 @@
       "Hypocalcemia"
     ]
   ],
-  "27340878": [],
+  "27340878": [
+    [
+      "HP_0012085",
+      "Pyuria"
+    ]
+  ],
   "27342305": [],
-  "27343757": [],
+  "27343757": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27344476": [],
   "27345009": [],
   "27348135": [],
   "27348517": [],
   "27349321": [],
   "27351590": [],
-  "27351941": [],
-  "27352045": [],
+  "27351941": [
+    [
+      "HP_0000112",
+      "Nephropathy"
+    ]
+  ],
+  "27352045": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "27352367": [],
-  "27357243": [],
-  "27357530": [],
+  "27357243": [
+    [
+      "HP_0009721",
+      "Shagreen patch"
+    ]
+  ],
+  "27357530": [
+    [
+      "HP_0012517",
+      "Reduced circulating catalase activity"
+    ]
+  ],
   "27358560": [],
   "27358636": [
     [
@@ -366,9 +547,18 @@
     [
       "HP_0030413",
       "Squamous cell carcinoma of the tongue"
+    ],
+    [
+      "HP_0002071",
+      "Abnormality of extrapyramidal motor function"
     ]
   ],
-  "27387187": [],
+  "27387187": [
+    [
+      "HP_0012085",
+      "Pyuria"
+    ]
+  ],
   "27389043": [],
   "27389831": [
     [
@@ -403,6 +593,10 @@
     [
       "HP_0033415",
       "Cardiac tamponade"
+    ],
+    [
+      "HP_0033675",
+      "Frailty"
     ]
   ],
   "27393252": [],
@@ -430,6 +624,10 @@
     [
       "HP_0003072",
       "Hypercalcemia"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27399912": [],
@@ -460,12 +658,21 @@
       "Myeloid leukemia"
     ]
   ],
-  "27408908": [],
+  "27408908": [
+    [
+      "HP_0003072",
+      "Hypercalcemia"
+    ]
+  ],
   "27409663": [],
   "27411493": [
     [
       "HP_0000020",
       "Urinary incontinence"
+    ],
+    [
+      "HP_0012183",
+      "Hyperplastic colonic polyposis"
     ]
   ],
   "27412144": [],
@@ -487,6 +694,10 @@
     [
       "HP_0003119",
       "Abnormal circulating lipid concentration"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27421843": [],
@@ -507,6 +718,10 @@
     [
       "HP_0002896",
       "Neoplasm of the liver"
+    ],
+    [
+      "HP_0001733",
+      "Pancreatitis"
     ]
   ],
   "27426278": [
@@ -538,6 +753,10 @@
     [
       "HP_0040276",
       "Adenocarcinoma of the colon"
+    ],
+    [
+      "HP_0040270",
+      "Impaired glucose tolerance"
     ]
   ],
   "27435702": [],
@@ -575,6 +794,10 @@
     [
       "HP_0500050",
       "Retinopathy of prematurity stage 1"
+    ],
+    [
+      "HP_0002665",
+      "Lymphoma"
     ]
   ],
   "27445865": [],
@@ -616,14 +839,32 @@
   ],
   "27456016": [],
   "27456062": [],
-  "27463423": [],
+  "27463423": [
+    [
+      "HP_0000112",
+      "Nephropathy"
+    ]
+  ],
   "27464574": [],
-  "27465008": [],
+  "27465008": [
+    [
+      "HP_0033676",
+      "Posttraumatic stress symptom"
+    ],
+    [
+      "HP_0033635",
+      "Post-capillary pulmonary hypertension"
+    ]
+  ],
   "27465497": [],
   "27467251": [
     [
       "HP_0001650",
       "Aortic valve stenosis"
+    ],
+    [
+      "HP_0001654",
+      "Abnormal heart valve morphology"
     ]
   ],
   "27467556": [
@@ -654,7 +895,12 @@
     ]
   ],
   "27470998": [],
-  "27474829": [],
+  "27474829": [
+    [
+      "HP_0012490",
+      "Panniculitis"
+    ]
+  ],
   "27475106": [
     [
       "HP_0033532",
@@ -681,7 +927,12 @@
       "Focal motor seizure"
     ]
   ],
-  "27481342": [],
+  "27481342": [
+    [
+      "HP_0000020",
+      "Urinary incontinence"
+    ]
+  ],
   "27481881": [
     [
       "HP_0001944",
@@ -747,6 +998,10 @@
     [
       "HP_0001410",
       "Decreased liver function"
+    ],
+    [
+      "HP_0100673",
+      "Vaginal hydrocele"
     ]
   ],
   "27489735": [],
@@ -777,7 +1032,12 @@
       "Malnutrition"
     ]
   ],
-  "27494870": [],
+  "27494870": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27494906": [],
   "27498099": [],
   "27498545": [],
@@ -785,6 +1045,10 @@
     [
       "HP_0002871",
       "Central apnea"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27501756": [],
@@ -800,26 +1064,49 @@
   "27506608": [],
   "27508384": [],
   "27508512": [],
-  "27510556": [],
+  "27510556": [
+    [
+      "HP_0001685",
+      "Myocardial fibrosis"
+    ]
+  ],
   "27511214": [
     [
       "HP_0030760",
       "Renal fibrosis"
     ]
   ],
-  "27512352": [],
+  "27512352": [
+    [
+      "HP_0012592",
+      "Albuminuria"
+    ]
+  ],
   "27512369": [
     [
       "HP_0500050",
       "Retinopathy of prematurity stage 1"
+    ],
+    [
+      "HP_5200291",
+      "REM sleep behavior disorder"
     ]
   ],
   "27513632": [],
-  "27514764": [],
+  "27514764": [
+    [
+      "HP_0012085",
+      "Pyuria"
+    ]
+  ],
   "27515243": [
     [
       "HP_0001891",
       "Iron deficiency anemia"
+    ],
+    [
+      "HP_0001263",
+      "Global developmental delay"
     ]
   ],
   "27515307": [
@@ -832,7 +1119,12 @@
       "Cardiogenic shock"
     ]
   ],
-  "27515958": [],
+  "27515958": [
+    [
+      "HP_0000123",
+      "Nephritis"
+    ]
+  ],
   "27516356": [],
   "27516476": [],
   "27518506": [],
@@ -845,14 +1137,29 @@
   "27522061": [],
   "27522512": [],
   "27528428": [],
-  "27528471": [],
+  "27528471": [
+    [
+      "HP_6000063",
+      "Hepatolithiasis"
+    ]
+  ],
   "27528862": [],
   "27530243": [],
   "27530333": [],
-  "27531288": [],
+  "27531288": [
+    [
+      "HP_0012653",
+      "Status asthmaticus"
+    ]
+  ],
   "27533056": [],
   "27533082": [],
-  "27533420": [],
+  "27533420": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27534355": [],
   "27534961": [],
   "27536134": [],
@@ -900,7 +1207,12 @@
       "Thymus hyperplasia"
     ]
   ],
-  "27551182": [],
+  "27551182": [
+    [
+      "HP_0002104",
+      "Apnea"
+    ]
+  ],
   "27551242": [
     [
       "HP_0012393",
@@ -915,13 +1227,22 @@
     ]
   ],
   "27554678": [],
-  "27555975": [],
+  "27555975": [
+    [
+      "HP_0003765",
+      "Psoriasiform dermatitis"
+    ]
+  ],
   "27556293": [],
   "27556586": [],
   "27557464": [
     [
       "HP_0012570",
       "Synovial sarcoma"
+    ],
+    [
+      "HP_0012517",
+      "Reduced circulating catalase activity"
     ]
   ],
   "27559131": [],
@@ -947,6 +1268,18 @@
     [
       "HP_0012625",
       "Stage 3 chronic kidney disease"
+    ],
+    [
+      "HP_0012626",
+      "Stage 4 chronic kidney disease"
+    ],
+    [
+      "HP_0012624",
+      "Stage 2 chronic kidney disease"
+    ],
+    [
+      "HP_0012647",
+      "Abnormal inflammatory response"
     ]
   ],
   "27563006": [],
@@ -975,6 +1308,10 @@
     [
       "HP_0002910",
       "Elevated circulating hepatic transaminase concentration"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27568206": [
@@ -985,6 +1322,10 @@
     [
       "HP_0030731",
       "Carcinoma"
+    ],
+    [
+      "HP_0009725",
+      "Bladder neoplasm"
     ]
   ],
   "27568582": [],
@@ -1031,12 +1372,80 @@
     [
       "HP_0031607",
       "Pelvic organ prolapse"
+    ],
+    [
+      "HP_0010546",
+      "Muscle fibrillation"
     ]
   ],
   "27573199": [
     [
       "HP_0030430",
       "Neuroma"
+    ],
+    [
+      "HP_0007502",
+      "Follicular hyperkeratosis"
+    ],
+    [
+      "HP_0007501",
+      "Streaks of hyperkeratosis along each finger onto the palm"
+    ],
+    [
+      "HP_0007500",
+      "Decreased number of sweat glands"
+    ],
+    [
+      "HP_0007497",
+      "Focal friction-related palmoplantar hyperkeratosis"
+    ],
+    [
+      "HP_0007495",
+      "Prematurely aged appearance"
+    ],
+    [
+      "HP_0007494",
+      "Discrete 2 to 5-mm hyper- and hypopigmented macules"
+    ],
+    [
+      "HP_0007490",
+      "Linear arrays of macular hyperkeratoses in flexural areas"
+    ],
+    [
+      "HP_0007489",
+      "Diffuse telangiectasia"
+    ],
+    [
+      "HP_0007488",
+      "Diffuse skin atrophy"
+    ],
+    [
+      "HP_0007486",
+      "Cavernous hemangioma of the face"
+    ],
+    [
+      "HP_0007485",
+      "Absence of subcutaneous fat"
+    ],
+    [
+      "HP_0007483",
+      "Depigmentation/hyperpigmentation of skin"
+    ],
+    [
+      "HP_0007482",
+      "Generalized papillary lesions"
+    ],
+    [
+      "HP_0007481",
+      "Hyperpigmented nevi"
+    ],
+    [
+      "HP_0007480",
+      "Decreased sweating due to autonomic dysfunction"
+    ],
+    [
+      "HP_0007499",
+      "Recurrent staphylococcal infections"
     ]
   ],
   "27573470": [
@@ -1051,6 +1460,10 @@
     [
       "HP_0003119",
       "Abnormal circulating lipid concentration"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27574277": [
@@ -1061,7 +1474,16 @@
   ],
   "27575716": [],
   "27577581": [],
-  "27578611": [],
+  "27578611": [
+    [
+      "HP_0012592",
+      "Albuminuria"
+    ],
+    [
+      "HP_0012653",
+      "Status asthmaticus"
+    ]
+  ],
   "27578983": [],
   "27579316": [],
   "27580610": [
@@ -1070,7 +1492,12 @@
       "Depression"
     ]
   ],
-  "27581464": [],
+  "27581464": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27582109": [],
   "27582170": [],
   "27583405": [],
@@ -1080,9 +1507,18 @@
     [
       "HP_0003401",
       "Paresthesia"
+    ],
+    [
+      "HP_0003365",
+      "Arthralgia of the hip"
     ]
   ],
-  "27588084": [],
+  "27588084": [
+    [
+      "HP_0005225",
+      "Intestinal edema"
+    ]
+  ],
   "27588935": [
     [
       "HP_0001943",
@@ -1098,6 +1534,10 @@
     [
       "HP_0009721",
       "Shagreen patch"
+    ],
+    [
+      "HP_0009724",
+      "Subungual fibromas"
     ]
   ],
   "27591323": [],
@@ -1159,11 +1599,20 @@
     [
       "HP_0003207",
       "Arterial calcification"
+    ],
+    [
+      "HP_0003198",
+      "Myopathy"
     ]
   ],
   "27612043": [],
   "27612907": [],
-  "27613509": [],
+  "27613509": [
+    [
+      "HP_0100785",
+      "Insomnia"
+    ]
+  ],
   "27613550": [],
   "27613895": [
     [
@@ -1181,6 +1630,10 @@
     [
       "HP_0000204",
       "Cleft upper lip"
+    ],
+    [
+      "HP_0000202",
+      "Orofacial cleft"
     ]
   ],
   "27618260": [],
@@ -1193,6 +1646,14 @@
     [
       "HP_0012798",
       "Pulmonary lymphangiomyomatosis"
+    ],
+    [
+      "HP_0031035",
+      "Chronic infection"
+    ],
+    [
+      "HP_0012735",
+      "Cough"
     ]
   ],
   "27618756": [],
@@ -1201,12 +1662,20 @@
     [
       "HP_0001712",
       "Left ventricular hypertrophy"
+    ],
+    [
+      "HP_0031368",
+      "Intestinal perforation"
     ]
   ],
   "27621804": [
     [
       "HP_0001712",
       "Left ventricular hypertrophy"
+    ],
+    [
+      "HP_0100753",
+      "Schizophrenia"
     ]
   ],
   "27622096": [],
@@ -1215,6 +1684,10 @@
     [
       "HP_0002890",
       "Thyroid carcinoma"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27623945": [],
@@ -1222,9 +1695,18 @@
     [
       "HP_0001654",
       "Abnormal heart valve morphology"
+    ],
+    [
+      "HP_0001733",
+      "Pancreatitis"
     ]
   ],
-  "27625093": [],
+  "27625093": [
+    [
+      "HP_0005162",
+      "Abnormal left ventricular function"
+    ]
+  ],
   "27625449": [
     [
       "HP_0031943",
@@ -1233,6 +1715,58 @@
     [
       "HP_0012191",
       "B-cell lymphoma"
+    ],
+    [
+      "HP_0012183",
+      "Hyperplastic colonic polyposis"
+    ],
+    [
+      "HP_0010317",
+      "Scapular aplasia"
+    ],
+    [
+      "HP_0010316",
+      "Ebstein anomaly of the tricuspid valve"
+    ],
+    [
+      "HP_0010315",
+      "Aplasia/Hypoplasia of the diaphragm"
+    ],
+    [
+      "HP_0010314",
+      "Premature thelarche"
+    ],
+    [
+      "HP_0010313",
+      "Breast hypertrophy"
+    ],
+    [
+      "HP_0010312",
+      "Asymmetry of the breasts"
+    ],
+    [
+      "HP_0010311",
+      "Aplasia/Hypoplasia of the breasts"
+    ],
+    [
+      "HP_0010309",
+      "Bifid sternum"
+    ],
+    [
+      "HP_0010308",
+      "Asternia"
+    ],
+    [
+      "HP_0010307",
+      "Stridor"
+    ],
+    [
+      "HP_0010306",
+      "Short thorax"
+    ],
+    [
+      "HP_0010305",
+      "Absence of the sacrum"
     ]
   ],
   "27626325": [],
@@ -1253,12 +1787,22 @@
   "27632796": [],
   "27633393": [],
   "27634034": [],
-  "27634905": [],
+  "27634905": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27635325": [],
   "27635790": [],
   "27636763": [],
   "27638176": [],
-  "27638646": [],
+  "27638646": [
+    [
+      "HP_0001712",
+      "Left ventricular hypertrophy"
+    ]
+  ],
   "27639826": [
     [
       "HP_0012461",
@@ -1286,7 +1830,12 @@
       "Cervical intraepithelial neoplasia"
     ]
   ],
-  "27643972": [],
+  "27643972": [
+    [
+      "HP_0003470",
+      "Paralysis"
+    ]
+  ],
   "27644077": [],
   "27644675": [
     [
@@ -1333,10 +1882,24 @@
     [
       "HP_0031943",
       "Akathisia"
+    ],
+    [
+      "HP_0033513",
+      "Addictive cocaine use"
     ]
   ],
-  "27655678": [],
-  "27655704": [],
+  "27655678": [
+    [
+      "HP_0002665",
+      "Lymphoma"
+    ]
+  ],
+  "27655704": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27655998": [
     [
       "HP_0001649",
@@ -1345,6 +1908,10 @@
     [
       "HP_0001639",
       "Hypertrophic cardiomyopathy"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27656399": [
@@ -1373,6 +1940,10 @@
     [
       "HP_0003365",
       "Arthralgia of the hip"
+    ],
+    [
+      "HP_0011034",
+      "Amyloidosis"
     ]
   ],
   "27656567": [
@@ -1412,7 +1983,12 @@
   ],
   "27662437": [],
   "27665747": [],
-  "27667368": [],
+  "27667368": [
+    [
+      "HP_0001650",
+      "Aortic valve stenosis"
+    ]
+  ],
   "27668791": [],
   "27669294": [],
   "27670600": [],
@@ -1425,10 +2001,24 @@
     [
       "HP_0034498",
       "Hepatic focal nodular hyperplasia"
+    ],
+    [
+      "HP_0002664",
+      "Neoplasm"
     ]
   ],
-  "27680876": [],
-  "27680974": [],
+  "27680876": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
+  "27680974": [
+    [
+      "HP_0031475",
+      "Status epilepticus without prominent motor symptoms"
+    ]
+  ],
   "27681813": [
     [
       "HP_0012517",
@@ -1493,6 +2083,14 @@
     [
       "HP_0030692",
       "Brain neoplasm"
+    ],
+    [
+      "HP_0002665",
+      "Lymphoma"
+    ],
+    [
+      "HP_0034498",
+      "Hepatic focal nodular hyperplasia"
     ]
   ],
   "27690079": [],
@@ -1502,7 +2100,12 @@
   "27694930": [],
   "27695342": [],
   "27695358": [],
-  "27696493": [],
+  "27696493": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27697474": [
     [
       "HP_0030553",
@@ -1551,6 +2154,10 @@
     [
       "HP_0004970",
       "Ascending tubular aorta aneurysm"
+    ],
+    [
+      "HP_0006528",
+      "Chronic lung disease"
     ]
   ],
   "27703571": [
@@ -1563,12 +2170,20 @@
     [
       "HP_0100785",
       "Insomnia"
+    ],
+    [
+      "HP_0100786",
+      "Hypersomnia"
     ]
   ],
   "27704268": [
     [
       "HP_0002894",
       "Neoplasm of the pancreas"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27706165": [],
@@ -1624,9 +2239,22 @@
     [
       "HP_0030186",
       "Kinetic tremor"
+    ],
+    [
+      "HP_0030243",
+      "Hepatic vein thrombosis"
+    ],
+    [
+      "HP_0030242",
+      "Portal vein thrombosis"
     ]
   ],
-  "27714651": [],
+  "27714651": [
+    [
+      "HP_0030127",
+      "Endometriosis"
+    ]
+  ],
   "27715398": [
     [
       "HP_0500050",
@@ -1635,6 +2263,10 @@
     [
       "HP_0100324",
       "Scleroderma"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27716016": [
@@ -1700,7 +2332,12 @@
       "Axonal regeneration"
     ]
   ],
-  "27721784": [],
+  "27721784": [
+    [
+      "HP_0012735",
+      "Cough"
+    ]
+  ],
   "27723444": [],
   "27723749": [],
   "27723905": [
@@ -1726,6 +2363,10 @@
     [
       "HP_0002871",
       "Central apnea"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27737807": [],
@@ -1748,6 +2389,14 @@
     [
       "HP_0001919",
       "Acute kidney injury"
+    ],
+    [
+      "HP_0003256",
+      "Abnormality of the coagulation cascade"
+    ],
+    [
+      "HP_0000105",
+      "Enlarged kidney"
     ]
   ],
   "27742373": [],
@@ -1776,10 +2425,24 @@
       "Back pain"
     ]
   ],
-  "27744233": [],
+  "27744233": [
+    [
+      "HP_0033635",
+      "Post-capillary pulmonary hypertension"
+    ]
+  ],
   "27744500": [],
   "27746055": [],
-  "27746068": [],
+  "27746068": [
+    [
+      "HP_0012008",
+      "Focal cognitive seizure with illusion"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27748824": [],
   "27748842": [],
   "27749392": [],
@@ -1868,6 +2531,10 @@
     [
       "HP_0011665",
       "Takotsubo cardiomyopathy"
+    ],
+    [
+      "HP_0001685",
+      "Myocardial fibrosis"
     ]
   ],
   "27768391": [],
@@ -1907,7 +2574,12 @@
   ],
   "27773526": [],
   "27774519": [],
-  "27775803": [],
+  "27775803": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27775984": [
     [
       "HP_6000771",
@@ -1986,7 +2658,12 @@
       "Positive bloodstream VDRL test"
     ]
   ],
-  "27776171": [],
+  "27776171": [
+    [
+      "HP_0012085",
+      "Pyuria"
+    ]
+  ],
   "27776422": [],
   "27776910": [],
   "27777170": [],
@@ -2011,8 +2688,18 @@
     ]
   ],
   "27780748": [],
-  "27780827": [],
-  "27782940": [],
+  "27780827": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
+  "27782940": [
+    [
+      "HP_0001638",
+      "Cardiomyopathy"
+    ]
+  ],
   "27783097": [
     [
       "HP_0002664",
@@ -2041,6 +2728,14 @@
     [
       "HP_0005294",
       "Arterial dissection"
+    ],
+    [
+      "HP_0005308",
+      "Pulmonary artery vasoconstriction"
+    ],
+    [
+      "HP_0004938",
+      "Tortuous cerebral arteries"
     ]
   ],
   "27793676": [
@@ -2056,6 +2751,10 @@
     [
       "HP_0100845",
       "Anaphylactic shock"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27802446": [],
@@ -2067,9 +2766,19 @@
       "Astrocytosis"
     ]
   ],
-  "27810033": [],
+  "27810033": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "27811060": [],
-  "27811630": [],
+  "27811630": [
+    [
+      "HP_0031319",
+      "Cardiomyocyte hypertrophy"
+    ]
+  ],
   "27812142": [],
   "27815131": [],
   "27816023": [
@@ -2093,7 +2802,12 @@
     ]
   ],
   "27818989": [],
-  "27819740": [],
+  "27819740": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27821210": [],
   "27821288": [
     [
@@ -2101,12 +2815,21 @@
       "Neoplasm"
     ]
   ],
-  "27821385": [],
+  "27821385": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27821673": [],
   "27822302": [
     [
       "HP_0008711",
       "Benign prostatic hyperplasia"
+    ],
+    [
+      "HP_0008736",
+      "Hypoplasia of penis"
     ]
   ],
   "27824334": [],
@@ -2175,13 +2898,27 @@
     [
       "HP_0012490",
       "Panniculitis"
+    ],
+    [
+      "HP_0012450",
+      "Chronic constipation"
     ]
   ],
   "27845220": [],
   "27846331": [],
   "27847720": [],
-  "27847809": [],
-  "27849637": [],
+  "27847809": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
+  "27849637": [
+    [
+      "HP_0002145",
+      "Frontotemporal dementia"
+    ]
+  ],
   "27851729": [],
   "27851974": [],
   "27852582": [],
@@ -2195,6 +2932,10 @@
     [
       "HP_0002748",
       "Rickets"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27858503": [],
@@ -2219,6 +2960,10 @@
     [
       "HP_0002896",
       "Neoplasm of the liver"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27865227": [],
@@ -2255,8 +3000,18 @@
       "Post-capillary pulmonary hypertension"
     ]
   ],
-  "27866868": [],
-  "27867860": [],
+  "27866868": [
+    [
+      "HP_0012722",
+      "Heart block"
+    ]
+  ],
+  "27867860": [
+    [
+      "HP_0006536",
+      "Airway obstruction"
+    ]
+  ],
   "27869148": [],
   "27870908": [],
   "27871298": [],
@@ -2272,6 +3027,10 @@
     [
       "HP_0011644",
       "Coronary sinus diverticulum"
+    ],
+    [
+      "HP_0000166",
+      "Severe periodontitis"
     ]
   ],
   "27871915": [],
@@ -2299,12 +3058,20 @@
     [
       "HP_0002718",
       "Recurrent bacterial infections"
+    ],
+    [
+      "HP_0002529",
+      "Neuronal loss in central nervous system"
     ]
   ],
   "27876598": [
     [
       "HP_0003307",
       "Hyperlordosis"
+    ],
+    [
+      "HP_0003287",
+      "Abnormality of mitochondrial metabolism"
     ]
   ],
   "27881039": [
@@ -2338,11 +3105,24 @@
     [
       "HP_0030833",
       "Neck pain"
+    ],
+    [
+      "HP_0030834",
+      "Shoulder pain"
+    ],
+    [
+      "HP_0012534",
+      "Dysesthesia"
     ]
   ],
   "27887867": [],
   "27890332": [],
-  "27890470": [],
+  "27890470": [
+    [
+      "HP_0002104",
+      "Apnea"
+    ]
+  ],
   "27890602": [
     [
       "HP_0012532",
@@ -2366,12 +3146,20 @@
     [
       "HP_0030828",
       "Wheezing"
+    ],
+    [
+      "HP_0030890",
+      "Hyperintensity of cerebral white matter on MRI"
     ]
   ],
   "27895981": [
     [
       "HP_0003510",
       "Severe short stature"
+    ],
+    [
+      "HP_0003546",
+      "Exercise intolerance"
     ]
   ],
   "27896785": [],
@@ -2381,9 +3169,19 @@
       "Joint stiffness"
     ]
   ],
-  "27897214": [],
+  "27897214": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27898506": [],
-  "27899087": [],
+  "27899087": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "27899295": [],
   "27899384": [
     [
@@ -2411,7 +3209,12 @@
       "Abnormality of the nose"
     ]
   ],
-  "27906083": [],
+  "27906083": [
+    [
+      "HP_0041153",
+      "Fractured ankle"
+    ]
+  ],
   "27906085": [],
   "27906594": [],
   "27907099": [
@@ -2422,6 +3225,10 @@
     [
       "HP_0009726",
       "Renal neoplasm"
+    ],
+    [
+      "HP_0012762",
+      "Cerebral white matter atrophy"
     ]
   ],
   "27908689": [
@@ -2436,6 +3243,10 @@
     [
       "HP_0003162",
       "Fasting hypoglycemia"
+    ],
+    [
+      "HP_0003072",
+      "Hypercalcemia"
     ]
   ],
   "27909072": [],
@@ -2448,7 +3259,12 @@
   ],
   "27913601": [],
   "27913973": [],
-  "27915270": [],
+  "27915270": [
+    [
+      "HP_0100646",
+      "Thyroiditis"
+    ]
+  ],
   "27918168": [
     [
       "HP_0012085",
@@ -2482,6 +3298,10 @@
     [
       "HP_0012085",
       "Pyuria"
+    ],
+    [
+      "HP_0002017",
+      "Nausea and vomiting"
     ]
   ],
   "27922979": [
@@ -2496,6 +3316,10 @@
     [
       "HP_0031355",
       "Maintenance insomnia"
+    ],
+    [
+      "HP_0100607",
+      "Dysmenorrhea"
     ]
   ],
   "27923741": [],
@@ -2527,11 +3351,20 @@
     [
       "HP_0033680",
       "Pilocytic astrocytoma"
+    ],
+    [
+      "HP_0032933",
+      "Airway hyperresponsiveness"
     ]
   ],
   "27930756": [],
   "27931296": [],
-  "27933173": [],
+  "27933173": [
+    [
+      "HP_0001518",
+      "Small for gestational age"
+    ]
+  ],
   "27935078": [],
   "27935981": [
     [
@@ -2545,6 +3378,18 @@
     [
       "HP_0200034",
       "Papule"
+    ],
+    [
+      "HP_0200123",
+      "Chronic hepatitis"
+    ],
+    [
+      "HP_0200119",
+      "Acute hepatitis"
+    ],
+    [
+      "HP_0025127",
+      "Actinic keratosis"
     ]
   ],
   "27936353": [
@@ -2602,6 +3447,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0100699",
+      "Scarring"
     ]
   ],
   "27969034": [],
@@ -2628,6 +3477,10 @@
     [
       "HP_0002140",
       "Ischemic stroke"
+    ],
+    [
+      "HP_0011665",
+      "Takotsubo cardiomyopathy"
     ]
   ],
   "27984098": [],
@@ -2692,6 +3545,18 @@
     [
       "HP_0002754",
       "Osteomyelitis"
+    ],
+    [
+      "HP_0010866",
+      "Abdominal wall defect"
+    ],
+    [
+      "HP_0002665",
+      "Lymphoma"
+    ],
+    [
+      "HP_0010741",
+      "Pedal edema"
     ]
   ],
   "28004480": [
@@ -2706,6 +3571,10 @@
     [
       "HP_0100279",
       "Ulcerative colitis"
+    ],
+    [
+      "HP_0100324",
+      "Scleroderma"
     ]
   ],
   "28005982": [],
@@ -2720,6 +3589,10 @@
     [
       "HP_0006753",
       "Neoplasm of the stomach"
+    ],
+    [
+      "HP_0006744",
+      "Adrenocortical carcinoma"
     ]
   ],
   "28010143": [
@@ -2732,10 +3605,19 @@
     [
       "HP_0000546",
       "Retinal degeneration"
+    ],
+    [
+      "HP_0000478",
+      "Abnormality of the eye"
     ]
   ],
   "28011275": [],
-  "28011843": [],
+  "28011843": [
+    [
+      "HP_0005231",
+      "Chronic gastritis"
+    ]
+  ],
   "28012091": [
     [
       "HP_0030049",
@@ -2752,6 +3634,18 @@
     [
       "HP_0010992",
       "Stress urinary incontinence"
+    ],
+    [
+      "HP_0002639",
+      "Budd-Chiari syndrome"
+    ],
+    [
+      "HP_0000202",
+      "Orofacial cleft"
+    ],
+    [
+      "HP_0000546",
+      "Retinal degeneration"
     ]
   ],
   "28018968": [
@@ -2770,12 +3664,21 @@
   ],
   "28024227": [],
   "28025021": [],
-  "28025369": [],
+  "28025369": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "28026030": [],
   "28026871": [
     [
       "HP_0011713",
       "Left bundle branch block"
+    ],
+    [
+      "HP_0011736",
+      "Primary hyperaldosteronism"
     ]
   ],
   "28026981": [],
@@ -2788,6 +3691,14 @@
     [
       "HP_0009725",
       "Bladder neoplasm"
+    ],
+    [
+      "HP_0009721",
+      "Shagreen patch"
+    ],
+    [
+      "HP_0009724",
+      "Subungual fibromas"
     ]
   ],
   "28032216": [
@@ -2801,6 +3712,10 @@
     [
       "HP_0031502",
       "Trophoblastic tumor"
+    ],
+    [
+      "HP_0031525",
+      "Keratoacanthoma"
     ]
   ],
   "28040133": [
@@ -2860,16 +3775,30 @@
     [
       "HP_0500050",
       "Retinopathy of prematurity stage 1"
+    ],
+    [
+      "HP_0025771",
+      "Ruminations"
     ]
   ],
   "28054831": [],
   "28056901": [],
-  "28057660": [],
+  "28057660": [
+    [
+      "HP_0000738",
+      "Hallucinations"
+    ]
+  ],
   "28062147": [],
   "28062652": [],
   "28063390": [],
   "28065172": [],
-  "28065421": [],
+  "28065421": [
+    [
+      "HP_0002104",
+      "Apnea"
+    ]
+  ],
   "28066530": [],
   "28066805": [],
   "28067006": [],
@@ -2895,15 +3824,28 @@
     [
       "HP_0010885",
       "Avascular necrosis"
+    ],
+    [
+      "HP_0011024",
+      "Abnormality of the gastrointestinal tract"
     ]
   ],
   "28074666": [
     [
       "HP_0033635",
       "Post-capillary pulmonary hypertension"
+    ],
+    [
+      "HP_0033680",
+      "Pilocytic astrocytoma"
     ]
   ],
-  "28075453": [],
+  "28075453": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28077046": [],
   "28077112": [],
   "28077289": [],
@@ -2922,14 +3864,28 @@
     ]
   ],
   "28078046": [],
-  "28078451": [],
+  "28078451": [
+    [
+      "HP_0012393",
+      "Allergy"
+    ]
+  ],
   "28081533": [
     [
       "HP_0000729",
       "Autistic behavior"
+    ],
+    [
+      "HP_0000717",
+      "Autism"
     ]
   ],
-  "28082453": [],
+  "28082453": [
+    [
+      "HP_0001685",
+      "Myocardial fibrosis"
+    ]
+  ],
   "28083494": [],
   "28084988": [],
   "28085530": [],
@@ -2954,7 +3910,12 @@
       "Hyperplastic colonic polyposis"
     ]
   ],
-  "28089781": [],
+  "28089781": [
+    [
+      "HP_0030766",
+      "Ear pain"
+    ]
+  ],
   "28091359": [
     [
       "HP_0100845",
@@ -2962,7 +3923,12 @@
     ]
   ],
   "28092840": [],
-  "28093505": [],
+  "28093505": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28093699": [],
   "28096951": [],
   "28096973": [
@@ -2971,13 +3937,23 @@
       "Primary hyperparathyroidism"
     ]
   ],
-  "28097027": [],
+  "28097027": [
+    [
+      "HP_0000668",
+      "Hypodontia"
+    ]
+  ],
   "28097040": [],
   "28097130": [],
   "28097508": [],
   "28098048": [],
   "28099237": [],
-  "28099754": [],
+  "28099754": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "28100635": [],
   "28101400": [],
   "28101482": [],
@@ -2996,6 +3972,14 @@
     [
       "HP_0012490",
       "Panniculitis"
+    ],
+    [
+      "HP_0012499",
+      "Descending aortic dissection"
+    ],
+    [
+      "HP_0012450",
+      "Chronic constipation"
     ]
   ],
   "28104446": [
@@ -3032,9 +4016,18 @@
     [
       "HP_0012877",
       "Retrograde ejaculation"
+    ],
+    [
+      "HP_0012876",
+      "Premature ejaculation"
     ]
   ],
-  "28110669": [],
+  "28110669": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28110694": [],
   "28110975": [
     [
@@ -3042,7 +4035,12 @@
       "Pyuria"
     ]
   ],
-  "28111056": [],
+  "28111056": [
+    [
+      "HP_0033635",
+      "Post-capillary pulmonary hypertension"
+    ]
+  ],
   "28111820": [],
   "28112192": [
     [
@@ -3085,6 +4083,14 @@
     [
       "HP_0002901",
       "Hypocalcemia"
+    ],
+    [
+      "HP_0012330",
+      "Pyelonephritis"
+    ],
+    [
+      "HP_0012316",
+      "Fibrous tissue neoplasm"
     ]
   ],
   "28127757": [
@@ -3093,7 +4099,12 @@
       "Lymphoma"
     ]
   ],
-  "28128333": [],
+  "28128333": [
+    [
+      "HP_0012085",
+      "Pyuria"
+    ]
+  ],
   "28128970": [],
   "28129335": [],
   "28130086": [],
@@ -3106,9 +4117,28 @@
     ]
   ],
   "28133644": [],
-  "28137551": [],
-  "28141713": [],
-  "28141819": [],
+  "28137551": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
+  "28141713": [
+    [
+      "HP_0000739",
+      "Anxiety"
+    ]
+  ],
+  "28141819": [
+    [
+      "HP_0040275",
+      "Adenocarcinoma of the large intestine"
+    ],
+    [
+      "HP_0040270",
+      "Impaired glucose tolerance"
+    ]
+  ],
   "28141942": [],
   "28143537": [],
   "28143658": [],
@@ -3127,6 +4157,10 @@
     [
       "HP_0012517",
       "Reduced circulating catalase activity"
+    ],
+    [
+      "HP_0012570",
+      "Synovial sarcoma"
     ]
   ],
   "28147376": [],
@@ -3229,11 +4263,24 @@
   ],
   "28181688": [],
   "28182705": [],
-  "28183348": [],
+  "28183348": [
+    [
+      "HP_0030731",
+      "Carcinoma"
+    ],
+    [
+      "HP_0012183",
+      "Hyperplastic colonic polyposis"
+    ]
+  ],
   "28183822": [
     [
       "HP_0003193",
       "Allergic rhinitis"
+    ],
+    [
+      "HP_0003198",
+      "Myopathy"
     ]
   ],
   "28186998": [],
@@ -3246,6 +4293,10 @@
     [
       "HP_0100256",
       "Senile plaques"
+    ],
+    [
+      "HP_0031368",
+      "Intestinal perforation"
     ]
   ],
   "28189379": [
@@ -3369,11 +4420,25 @@
     [
       "HP_0002665",
       "Lymphoma"
+    ],
+    [
+      "HP_0002586",
+      "Peritonitis"
     ]
   ],
   "28231967": [],
-  "28232384": [],
-  "28232582": [],
+  "28232384": [
+    [
+      "HP_0030359",
+      "Squamous cell lung carcinoma"
+    ]
+  ],
+  "28232582": [
+    [
+      "HP_0012316",
+      "Fibrous tissue neoplasm"
+    ]
+  ],
   "28232924": [],
   "28233467": [
     [
@@ -3400,7 +4465,12 @@
       "Hypoxemia"
     ]
   ],
-  "28235687": [],
+  "28235687": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28235956": [
     [
       "HP_0002664",
@@ -3450,6 +4520,10 @@
     [
       "HP_0002757",
       "Recurrent fractures"
+    ],
+    [
+      "HP_0002653",
+      "Bone pain"
     ]
   ],
   "28241985": [
@@ -3523,7 +4597,12 @@
   ],
   "28249118": [],
   "28249880": [],
-  "28251761": [],
+  "28251761": [
+    [
+      "HP_0003510",
+      "Severe short stature"
+    ]
+  ],
   "28254372": [
     [
       "HP_0040276",
@@ -3537,6 +4616,10 @@
     [
       "HP_0000023",
       "Inguinal hernia"
+    ],
+    [
+      "HP_0001410",
+      "Decreased liver function"
     ]
   ],
   "28261010": [],
@@ -3577,8 +4660,18 @@
       "Arthralgia of the hip"
     ]
   ],
-  "28268114": [],
-  "28268645": [],
+  "28268114": [
+    [
+      "HP_0001022",
+      "Albinism"
+    ]
+  ],
+  "28268645": [
+    [
+      "HP_0000738",
+      "Hallucinations"
+    ]
+  ],
   "28268982": [],
   "28269034": [],
   "28269955": [],
@@ -3624,19 +4717,41 @@
     [
       "HP_0012534",
       "Dysesthesia"
+    ],
+    [
+      "HP_0012517",
+      "Reduced circulating catalase activity"
     ]
   ],
-  "28277099": [],
+  "28277099": [
+    [
+      "HP_0002104",
+      "Apnea"
+    ]
+  ],
   "28280318": [],
   "28280631": [
     [
       "HP_0002894",
       "Neoplasm of the pancreas"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ],
+    [
+      "HP_0002890",
+      "Thyroid carcinoma"
     ]
   ],
   "28280642": [],
   "28282033": [],
-  "28282614": [],
+  "28282614": [
+    [
+      "HP_0031943",
+      "Akathisia"
+    ]
+  ],
   "28284173": [],
   "28284237": [
     [
@@ -3730,6 +4845,10 @@
     [
       "HP_0012085",
       "Pyuria"
+    ],
+    [
+      "HP_0012124",
+      "Intermediate uveitis"
     ]
   ],
   "28296655": [
@@ -3738,7 +4857,12 @@
       "Bronchiolitis"
     ]
   ],
-  "28296818": [],
+  "28296818": [
+    [
+      "HP_0040194",
+      "Increased head circumference"
+    ]
+  ],
   "28297629": [
     [
       "HP_0001909",
@@ -3770,6 +4894,10 @@
     [
       "HP_0001735",
       "Acute pancreatitis"
+    ],
+    [
+      "HP_0002488",
+      "Acute leukemia"
     ]
   ],
   "28299642": [
@@ -3817,6 +4945,10 @@
     [
       "HP_0011459",
       "Esophageal carcinoma"
+    ],
+    [
+      "HP_0011419",
+      "Placental abruption"
     ]
   ],
   "28320554": [
@@ -3838,6 +4970,10 @@
     [
       "HP_0002894",
       "Neoplasm of the pancreas"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28324211": [],
@@ -3848,7 +4984,12 @@
       "Cardiomyopathy"
     ]
   ],
-  "28328127": [],
+  "28328127": [
+    [
+      "HP_0004324",
+      "Increased body weight"
+    ]
+  ],
   "28328136": [
     [
       "HP_0007015",
@@ -3873,7 +5014,12 @@
       "Thromboembolism"
     ]
   ],
-  "28332137": [],
+  "28332137": [
+    [
+      "HP_0000112",
+      "Nephropathy"
+    ]
+  ],
   "28332360": [],
   "28332476": [],
   "28333018": [
@@ -3897,11 +5043,24 @@
   "28339013": [],
   "28340104": [],
   "28340463": [],
-  "28341038": [],
+  "28341038": [
+    [
+      "HP_0012517",
+      "Reduced circulating catalase activity"
+    ],
+    [
+      "HP_0010788",
+      "Testicular neoplasm"
+    ]
+  ],
   "28341065": [
     [
       "HP_0000230",
       "Gingivitis"
+    ],
+    [
+      "HP_0002633",
+      "Vasculitis"
     ]
   ],
   "28341536": [],
@@ -3957,7 +5116,12 @@
     ]
   ],
   "28345022": [],
-  "28345195": [],
+  "28345195": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "28346915": [
     [
       "HP_0000020",
@@ -3965,11 +5129,21 @@
     ]
   ],
   "28347282": [],
-  "28348808": [],
+  "28348808": [
+    [
+      "HP_0031217",
+      "Hot flashes"
+    ]
+  ],
   "28349897": [],
   "28350368": [],
   "28350803": [],
-  "28351298": [],
+  "28351298": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28352621": [],
   "28353232": [],
   "28355402": [
@@ -3996,6 +5170,26 @@
     [
       "HP_0002625",
       "Deep venous thrombosis"
+    ],
+    [
+      "HP_0012592",
+      "Albuminuria"
+    ],
+    [
+      "HP_0012625",
+      "Stage 3 chronic kidney disease"
+    ],
+    [
+      "HP_0012626",
+      "Stage 4 chronic kidney disease"
+    ],
+    [
+      "HP_0012653",
+      "Status asthmaticus"
+    ],
+    [
+      "HP_0012624",
+      "Stage 2 chronic kidney disease"
     ]
   ],
   "28355982": [
@@ -4029,20 +5223,42 @@
     [
       "HP_0012762",
       "Cerebral white matter atrophy"
+    ],
+    [
+      "HP_0012798",
+      "Pulmonary lymphangiomyomatosis"
+    ],
+    [
+      "HP_0031520",
+      "Groin pain"
     ]
   ],
   "28367982": [],
   "28368473": [],
-  "28369089": [],
+  "28369089": [
+    [
+      "HP_0030079",
+      "Cervix cancer"
+    ]
+  ],
   "28373747": [],
   "28373799": [],
   "28378026": [
     [
       "HP_0002721",
       "Immunodeficiency"
+    ],
+    [
+      "HP_0002617",
+      "Vascular dilatation"
     ]
   ],
-  "28380486": [],
+  "28380486": [
+    [
+      "HP_0031207",
+      "Hepatic hemangioma"
+    ]
+  ],
   "28381295": [],
   "28382143": [],
   "28382289": [],
@@ -4055,7 +5271,12 @@
   ],
   "28384889": [],
   "28385594": [],
-  "28385938": [],
+  "28385938": [
+    [
+      "HP_0020102",
+      "Pneumocystis jirovecii pneumonia"
+    ]
+  ],
   "28386264": [],
   "28388882": [],
   "28389361": [],
@@ -4078,6 +5299,18 @@
     [
       "HP_0004942",
       "Aortic aneurysm"
+    ],
+    [
+      "HP_0001638",
+      "Cardiomyopathy"
+    ],
+    [
+      "HP_0011644",
+      "Coronary sinus diverticulum"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28392546": [],
@@ -4143,14 +5376,28 @@
       "Adenocarcinoma of the colon"
     ]
   ],
-  "28401602": [],
+  "28401602": [
+    [
+      "HP_0100673",
+      "Vaginal hydrocele"
+    ]
+  ],
   "28403239": [],
-  "28403406": [],
+  "28403406": [
+    [
+      "HP_0006536",
+      "Airway obstruction"
+    ]
+  ],
   "28404091": [],
   "28405177": [
     [
       "HP_0002647",
       "Aortic dissection"
+    ],
+    [
+      "HP_0010783",
+      "Erythema"
     ]
   ],
   "28406285": [],
@@ -4158,10 +5405,24 @@
     [
       "HP_0000407",
       "Sensorineural hearing impairment"
+    ],
+    [
+      "HP_0000819",
+      "Diabetes mellitus"
     ]
   ],
-  "28408329": [],
-  "28409856": [],
+  "28408329": [
+    [
+      "HP_0004757",
+      "Paroxysmal atrial fibrillation"
+    ]
+  ],
+  "28409856": [
+    [
+      "HP_0041153",
+      "Fractured ankle"
+    ]
+  ],
   "28410205": [],
   "28410350": [],
   "28411139": [],
@@ -4181,6 +5442,14 @@
     [
       "HP_0000855",
       "Insulin resistance"
+    ],
+    [
+      "HP_0003077",
+      "Hyperlipidemia"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28413598": [
@@ -4203,9 +5472,18 @@
     [
       "HP_0100256",
       "Senile plaques"
+    ],
+    [
+      "HP_0010741",
+      "Pedal edema"
     ]
   ],
-  "28413643": [],
+  "28413643": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28413969": [
     [
       "HP_0030243",
@@ -4214,6 +5492,18 @@
     [
       "HP_0030186",
       "Kinetic tremor"
+    ],
+    [
+      "HP_0012623",
+      "Stage 1 chronic kidney disease"
+    ],
+    [
+      "HP_0030242",
+      "Portal vein thrombosis"
+    ],
+    [
+      "HP_0012653",
+      "Status asthmaticus"
     ]
   ],
   "28414203": [],
@@ -4241,6 +5531,18 @@
     [
       "HP_0003365",
       "Arthralgia of the hip"
+    ],
+    [
+      "HP_0003259",
+      "Elevated circulating creatinine concentration"
+    ],
+    [
+      "HP_0012517",
+      "Reduced circulating catalase activity"
+    ],
+    [
+      "HP_0003418",
+      "Back pain"
     ]
   ],
   "28416598": [
@@ -4251,7 +5553,12 @@
   ],
   "28416969": [],
   "28418900": [],
-  "28419010": [],
+  "28419010": [
+    [
+      "HP_0031943",
+      "Akathisia"
+    ]
+  ],
   "28419865": [],
   "28420030": [],
   "28420059": [],
@@ -4287,8 +5594,18 @@
     ]
   ],
   "28429775": [],
-  "28430012": [],
-  "28430726": [],
+  "28430012": [
+    [
+      "HP_0002633",
+      "Vasculitis"
+    ]
+  ],
+  "28430726": [
+    [
+      "HP_0031649",
+      "Aortic rupture"
+    ]
+  ],
   "28430891": [
     [
       "HP_0002039",
@@ -4301,6 +5618,10 @@
     [
       "HP_0500050",
       "Retinopathy of prematurity stage 1"
+    ],
+    [
+      "HP_5200029",
+      "Social disinhibition"
     ]
   ],
   "28432743": [
@@ -4311,19 +5632,37 @@
     [
       "HP_0012051",
       "Reactive hypoglycemia"
+    ],
+    [
+      "HP_0001263",
+      "Global developmental delay"
     ]
   ],
   "28432944": [
     [
       "HP_0040270",
       "Impaired glucose tolerance"
+    ],
+    [
+      "HP_0040275",
+      "Adenocarcinoma of the large intestine"
     ]
   ],
   "28435209": [],
-  "28435583": [],
+  "28435583": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28436186": [],
   "28436286": [],
-  "28436990": [],
+  "28436990": [
+    [
+      "HP_0009725",
+      "Bladder neoplasm"
+    ]
+  ],
   "28437199": [
     [
       "HP_0004950",
@@ -4351,6 +5690,10 @@
     [
       "HP_0012884",
       "Fallopian tube torsion"
+    ],
+    [
+      "HP_0012877",
+      "Retrograde ejaculation"
     ]
   ],
   "28448873": [],
@@ -4386,17 +5729,34 @@
       "Lymphoma"
     ]
   ],
-  "28456990": [],
+  "28456990": [
+    [
+      "HP_0008200",
+      "Primary hyperparathyroidism"
+    ]
+  ],
   "28457384": [
     [
       "HP_0001541",
       "Ascites"
+    ],
+    [
+      "HP_0031943",
+      "Akathisia"
+    ],
+    [
+      "HP_0001395",
+      "Hepatic fibrosis"
     ]
   ],
   "28457522": [
     [
       "HP_0002093",
       "Respiratory insufficiency"
+    ],
+    [
+      "HP_0006554",
+      "Acute hepatic failure"
     ]
   ],
   "28457994": [],
@@ -4407,6 +5767,14 @@
     [
       "HP_0033834",
       "Malaise"
+    ],
+    [
+      "HP_0033823",
+      "Mediastinal mass"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28460030": [],
@@ -4521,12 +5889,21 @@
       "Abdominal pain"
     ]
   ],
-  "28473531": [],
+  "28473531": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28473742": [],
   "28474673": [
     [
       "HP_0002665",
       "Lymphoma"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28474967": [
@@ -4543,11 +5920,20 @@
   "28476926": [],
   "28478464": [],
   "28479016": [],
-  "28481004": [],
+  "28481004": [
+    [
+      "HP_0001735",
+      "Acute pancreatitis"
+    ]
+  ],
   "28482033": [
     [
       "HP_0030413",
       "Squamous cell carcinoma of the tongue"
+    ],
+    [
+      "HP_0030359",
+      "Squamous cell lung carcinoma"
     ]
   ],
   "28482688": [],
@@ -4595,6 +5981,10 @@
     [
       "HP_0001650",
       "Aortic valve stenosis"
+    ],
+    [
+      "HP_0006536",
+      "Airway obstruction"
     ]
   ],
   "28506602": [],
@@ -4644,6 +6034,10 @@
     [
       "HP_0005318",
       "Cerebral vasculitis"
+    ],
+    [
+      "HP_0004970",
+      "Ascending tubular aorta aneurysm"
     ]
   ],
   "28513923": [
@@ -4694,7 +6088,16 @@
   "28527621": [],
   "28529546": [],
   "28532645": [],
-  "28532912": [],
+  "28532912": [
+    [
+      "HP_0012534",
+      "Dysesthesia"
+    ],
+    [
+      "HP_0012532",
+      "Chronic pain"
+    ]
+  ],
   "28533050": [],
   "28533939": [
     [
@@ -4710,21 +6113,51 @@
       "Hypocalcemia"
     ]
   ],
-  "28534189": [],
+  "28534189": [
+    [
+      "HP_0005214",
+      "Intestinal obstruction"
+    ]
+  ],
   "28534352": [],
   "28534358": [],
-  "28536004": [],
+  "28536004": [
+    [
+      "HP_0012876",
+      "Premature ejaculation"
+    ],
+    [
+      "HP_0012884",
+      "Fallopian tube torsion"
+    ]
+  ],
   "28536123": [],
   "28536535": [
     [
       "HP_0003119",
       "Abnormal circulating lipid concentration"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "28538498": [
     [
       "HP_0031964",
       "Elevated circulating alanine aminotransferase concentration"
+    ],
+    [
+      "HP_0031943",
+      "Akathisia"
+    ],
+    [
+      "HP_0031956",
+      "Elevated circulating aspartate aminotransferase concentration"
+    ],
+    [
+      "HP_0032388",
+      "Periventricular nodular heterotopia"
     ]
   ],
   "28539075": [],
@@ -4739,6 +6172,10 @@
     [
       "HP_0033635",
       "Post-capillary pulmonary hypertension"
+    ],
+    [
+      "HP_0033675",
+      "Frailty"
     ]
   ],
   "28541529": [],
@@ -4764,17 +6201,40 @@
     [
       "HP_0200034",
       "Papule"
+    ],
+    [
+      "HP_0003072",
+      "Hypercalcemia"
     ]
   ],
-  "28544601": [],
-  "28545358": [],
+  "28544601": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
+  "28545358": [
+    [
+      "HP_0002901",
+      "Hypocalcemia"
+    ]
+  ],
   "28545416": [],
   "28546318": [],
   "28548676": [],
   "28548949": [],
   "28548970": [],
   "28548973": [],
-  "28549178": [],
+  "28549178": [
+    [
+      "HP_0003546",
+      "Exercise intolerance"
+    ],
+    [
+      "HP_0003470",
+      "Paralysis"
+    ]
+  ],
   "28549770": [
     [
       "HP_0000478",
@@ -4818,6 +6278,14 @@
     [
       "HP_0012625",
       "Stage 3 chronic kidney disease"
+    ],
+    [
+      "HP_0012623",
+      "Stage 1 chronic kidney disease"
+    ],
+    [
+      "HP_0000020",
+      "Urinary incontinence"
     ]
   ],
   "27239445": [],
@@ -4832,6 +6300,10 @@
     [
       "HP_0005294",
       "Arterial dissection"
+    ],
+    [
+      "HP_0005308",
+      "Pulmonary artery vasoconstriction"
     ]
   ],
   "27252074": [
@@ -4911,7 +6383,12 @@
   ],
   "27348285": [],
   "27348711": [],
-  "27354219": [],
+  "27354219": [
+    [
+      "HP_0002665",
+      "Lymphoma"
+    ]
+  ],
   "27354640": [],
   "27355356": [
     [
@@ -4955,6 +6432,14 @@
     [
       "HP_0002910",
       "Elevated circulating hepatic transaminase concentration"
+    ],
+    [
+      "HP_0003124",
+      "Hypercholesterolemia"
+    ],
+    [
+      "HP_0002901",
+      "Hypocalcemia"
     ]
   ],
   "27390504": [],
@@ -4977,6 +6462,10 @@
     [
       "HP_0004950",
       "Peripheral arterial stenosis"
+    ],
+    [
+      "HP_0004970",
+      "Ascending tubular aorta aneurysm"
     ]
   ],
   "27405692": [
@@ -5048,7 +6537,12 @@
     ]
   ],
   "27441638": [],
-  "27442784": [],
+  "27442784": [
+    [
+      "HP_0001622",
+      "Premature birth"
+    ]
+  ],
   "27447713": [
     [
       "HP_0005584",
@@ -5155,6 +6649,10 @@
     [
       "HP_0001395",
       "Hepatic fibrosis"
+    ],
+    [
+      "HP_0001735",
+      "Acute pancreatitis"
     ]
   ],
   "27510784": [],
@@ -5191,6 +6689,10 @@
     [
       "HP_0001682",
       "Subvalvular aortic stenosis"
+    ],
+    [
+      "HP_0004942",
+      "Aortic aneurysm"
     ]
   ],
   "27544926": [
@@ -5231,6 +6733,10 @@
     [
       "HP_0000822",
       "Hypertension"
+    ],
+    [
+      "HP_0000739",
+      "Anxiety"
     ]
   ],
   "27573702": [],
@@ -5315,6 +6821,10 @@
     [
       "HP_0000105",
       "Enlarged kidney"
+    ],
+    [
+      "HP_0000020",
+      "Urinary incontinence"
     ]
   ],
   "27618138": [],
@@ -5324,9 +6834,18 @@
     [
       "HP_0000822",
       "Hypertension"
+    ],
+    [
+      "HP_0001695",
+      "Cardiac arrest"
     ]
   ],
-  "27625705": [],
+  "27625705": [
+    [
+      "HP_0000099",
+      "Glomerulonephritis"
+    ]
+  ],
   "27626498": [
     [
       "HP_0002664",
@@ -5409,7 +6928,12 @@
   "27686752": [],
   "27694392": [],
   "27695327": [],
-  "27698942": [],
+  "27698942": [
+    [
+      "HP_0002615",
+      "Hypotension"
+    ]
+  ],
   "27706190": [
     [
       "HP_0000112",
@@ -5681,7 +7205,12 @@
       "Cholestatic liver disease"
     ]
   ],
-  "27916672": [],
+  "27916672": [
+    [
+      "HP_0000726",
+      "Dementia"
+    ]
+  ],
   "27917468": [
     [
       "HP_0000974",
@@ -5738,12 +7267,20 @@
     [
       "HP_0004950",
       "Peripheral arterial stenosis"
+    ],
+    [
+      "HP_0006528",
+      "Chronic lung disease"
     ]
   ],
   "27995352": [
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0003074",
+      "Hyperglycemia"
     ]
   ],
   "27998307": [
@@ -5757,7 +7294,12 @@
     ]
   ],
   "28003168": [],
-  "28005403": [],
+  "28005403": [
+    [
+      "HP_0000739",
+      "Anxiety"
+    ]
+  ],
   "28008561": [
     [
       "HP_0002895",
@@ -5824,7 +7366,12 @@
       "Premature birth"
     ]
   ],
-  "28056892": [],
+  "28056892": [
+    [
+      "HP_0100785",
+      "Insomnia"
+    ]
+  ],
   "28057994": [],
   "28058375": [],
   "28062192": [
@@ -5869,6 +7416,14 @@
     [
       "HP_0004619",
       "Lumbar kyphoscoliosis"
+    ],
+    [
+      "HP_0004950",
+      "Peripheral arterial stenosis"
+    ],
+    [
+      "HP_0003307",
+      "Hyperlordosis"
     ]
   ],
   "28097208": [],
@@ -5997,9 +7552,26 @@
     [
       "HP_0001518",
       "Small for gestational age"
+    ],
+    [
+      "HP_0001733",
+      "Pancreatitis"
+    ],
+    [
+      "HP_0001788",
+      "Premature rupture of membranes"
     ]
   ],
-  "28217198": [],
+  "28217198": [
+    [
+      "HP_0012534",
+      "Dysesthesia"
+    ],
+    [
+      "HP_0012532",
+      "Chronic pain"
+    ]
+  ],
   "28217611": [],
   "28219657": [],
   "28220082": [],
@@ -6038,6 +7610,10 @@
     [
       "HP_0000739",
       "Anxiety"
+    ],
+    [
+      "HP_0001324",
+      "Muscle weakness"
     ]
   ],
   "28249160": [
@@ -6070,7 +7646,12 @@
       "Hypoglycemia"
     ]
   ],
-  "28270328": [],
+  "28270328": [
+    [
+      "HP_0100543",
+      "Cognitive impairment"
+    ]
+  ],
   "28274612": [],
   "28277879": [],
   "28282510": [
@@ -6123,6 +7704,10 @@
     [
       "HP_0005978",
       "Type II diabetes mellitus"
+    ],
+    [
+      "HP_0000822",
+      "Hypertension"
     ]
   ],
   "28318092": [],
@@ -6204,7 +7789,12 @@
     ]
   ],
   "28370352": [],
-  "28371313": [],
+  "28371313": [
+    [
+      "HP_0001824",
+      "Weight loss"
+    ]
+  ],
   "28371745": [
     [
       "HP_0001360",
@@ -6244,6 +7834,10 @@
     [
       "HP_0003401",
       "Paresthesia"
+    ],
+    [
+      "HP_0012532",
+      "Chronic pain"
     ]
   ],
   "28385001": [
@@ -6260,6 +7854,10 @@
     [
       "HP_0012085",
       "Pyuria"
+    ],
+    [
+      "HP_0012124",
+      "Intermediate uveitis"
     ]
   ],
   "28389633": [],
@@ -6351,6 +7949,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0002633",
+      "Vasculitis"
     ]
   ],
   "28437582": [],
@@ -6377,6 +7979,18 @@
     [
       "HP_0001638",
       "Cardiomyopathy"
+    ],
+    [
+      "HP_0001645",
+      "Sudden cardiac death"
+    ],
+    [
+      "HP_0000822",
+      "Hypertension"
+    ],
+    [
+      "HP_0001649",
+      "Tachycardia"
     ]
   ],
   "28450395": [
@@ -6389,6 +8003,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0002653",
+      "Bone pain"
     ]
   ],
   "28457143": [],
@@ -6409,7 +8027,12 @@
       "Atherosclerosis"
     ]
   ],
-  "28464019": [],
+  "28464019": [
+    [
+      "HP_0000670",
+      "Carious teeth"
+    ]
+  ],
   "28464291": [],
   "28464602": [],
   "28465793": [
@@ -6453,8 +8076,18 @@
   ],
   "28485296": [],
   "28490164": [],
-  "28492106": [],
-  "28495504": [],
+  "28492106": [
+    [
+      "HP_0005086",
+      "Knee osteoarthritis"
+    ]
+  ],
+  "28495504": [
+    [
+      "HP_0000112",
+      "Nephropathy"
+    ]
+  ],
   "28496002": [
     [
       "HP_0002664",
@@ -6551,6 +8184,10 @@
     [
       "HP_0000726",
       "Dementia"
+    ],
+    [
+      "HP_0002463",
+      "Language impairment"
     ]
   ],
   "27241818": [],
@@ -6581,7 +8218,12 @@
   "27266283": [],
   "27274524": [],
   "27274893": [],
-  "27280525": [],
+  "27280525": [
+    [
+      "HP_0100769",
+      "Synovitis"
+    ]
+  ],
   "27286118": [],
   "27288457": [],
   "27291966": [],
@@ -6624,6 +8266,10 @@
     [
       "HP_0001410",
       "Decreased liver function"
+    ],
+    [
+      "HP_0001395",
+      "Hepatic fibrosis"
     ]
   ],
   "27328333": [],
@@ -6658,6 +8304,10 @@
     [
       "HP_0000819",
       "Diabetes mellitus"
+    ],
+    [
+      "HP_0000855",
+      "Insulin resistance"
     ]
   ],
   "27356521": [
@@ -6715,6 +8365,10 @@
     [
       "HP_0000822",
       "Hypertension"
+    ],
+    [
+      "HP_0001974",
+      "Increased total leukocyte count"
     ]
   ],
   "27420620": [],
@@ -6764,6 +8418,14 @@
     [
       "HP_0012393",
       "Allergy"
+    ],
+    [
+      "HP_0012534",
+      "Dysesthesia"
+    ],
+    [
+      "HP_0012532",
+      "Chronic pain"
     ]
   ],
   "27464853": [],
@@ -6794,7 +8456,12 @@
       "Neurodegeneration"
     ]
   ],
-  "27478387": [],
+  "27478387": [
+    [
+      "HP_0000717",
+      "Autism"
+    ]
+  ],
   "27478553": [],
   "27480410": [],
   "27481539": [
@@ -6816,6 +8483,10 @@
     [
       "HP_0001297",
       "Stroke"
+    ],
+    [
+      "HP_0001919",
+      "Acute kidney injury"
     ]
   ],
   "27489603": [
@@ -7081,6 +8752,10 @@
     [
       "HP_0000822",
       "Hypertension"
+    ],
+    [
+      "HP_0001360",
+      "Holoprosencephaly"
     ]
   ],
   "27709647": [
@@ -7096,6 +8771,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0002500",
+      "Abnormal cerebral white matter morphology"
     ]
   ],
   "27750105": [
@@ -7148,6 +8827,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0002488",
+      "Acute leukemia"
     ]
   ],
   "27779702": [
@@ -7198,6 +8881,10 @@
     [
       "HP_0001685",
       "Myocardial fibrosis"
+    ],
+    [
+      "HP_0000501",
+      "Glaucoma"
     ]
   ],
   "27798219": [],
@@ -7266,7 +8953,12 @@
       "Neoplasm"
     ]
   ],
-  "27846748": [],
+  "27846748": [
+    [
+      "HP_0000112",
+      "Nephropathy"
+    ]
+  ],
   "27857693": [],
   "27857788": [],
   "27859268": [
@@ -7291,10 +8983,19 @@
     [
       "HP_0000716",
       "Depression"
+    ],
+    [
+      "HP_0000746",
+      "Delusion"
     ]
   ],
   "27864317": [],
-  "27866595": [],
+  "27866595": [
+    [
+      "HP_0001297",
+      "Stroke"
+    ]
+  ],
   "27867086": [],
   "27871510": [],
   "27872234": [],
@@ -7310,6 +9011,10 @@
     [
       "HP_0003119",
       "Abnormal circulating lipid concentration"
+    ],
+    [
+      "HP_0002960",
+      "Autoimmunity"
     ]
   ],
   "27909142": [
@@ -7335,7 +9040,12 @@
     ]
   ],
   "27925527": [],
-  "27928244": [],
+  "27928244": [
+    [
+      "HP_0001360",
+      "Holoprosencephaly"
+    ]
+  ],
   "27933285": [
     [
       "HP_0000717",
@@ -7348,6 +9058,10 @@
     [
       "HP_0001250",
       "Seizure"
+    ],
+    [
+      "HP_0000722",
+      "Compulsive behaviors"
     ]
   ],
   "27933664": [
@@ -7387,6 +9101,10 @@
     [
       "HP_0002104",
       "Apnea"
+    ],
+    [
+      "HP_0002094",
+      "Dyspnea"
     ]
   ],
   "27986797": [],
@@ -7615,6 +9333,10 @@
     [
       "HP_0002664",
       "Neoplasm"
+    ],
+    [
+      "HP_0002757",
+      "Recurrent fractures"
     ]
   ],
   "28144189": [],
@@ -7748,6 +9470,10 @@
     [
       "HP_0002527",
       "Falls"
+    ],
+    [
+      "HP_0001369",
+      "Arthritis"
     ]
   ],
   "28239461": [
@@ -7756,7 +9482,16 @@
       "Neoplasm"
     ]
   ],
-  "28239481": [],
+  "28239481": [
+    [
+      "HP_0001638",
+      "Cardiomyopathy"
+    ],
+    [
+      "HP_0000554",
+      "Uveitis"
+    ]
+  ],
   "28243201": [],
   "28245342": [],
   "28251683": [],
@@ -7774,6 +9509,10 @@
     [
       "HP_0001638",
       "Cardiomyopathy"
+    ],
+    [
+      "HP_0001645",
+      "Sudden cardiac death"
     ]
   ],
   "28263181": [],
@@ -7855,6 +9594,10 @@
     [
       "HP_0005978",
       "Type II diabetes mellitus"
+    ],
+    [
+      "HP_0000819",
+      "Diabetes mellitus"
     ]
   ],
   "28331620": [],
@@ -7900,6 +9643,10 @@
     [
       "HP_0001410",
       "Decreased liver function"
+    ],
+    [
+      "HP_0001650",
+      "Aortic valve stenosis"
     ]
   ],
   "28339928": [],
@@ -7911,7 +9658,16 @@
   ],
   "28344199": [],
   "28348382": [],
-  "28351716": [],
+  "28351716": [
+    [
+      "HP_0001317",
+      "Abnormal cerebellum morphology"
+    ],
+    [
+      "HP_0000554",
+      "Uveitis"
+    ]
+  ],
   "28352958": [
     [
       "HP_0002664",
@@ -7922,6 +9678,10 @@
     [
       "HP_0000112",
       "Nephropathy"
+    ],
+    [
+      "HP_0001824",
+      "Weight loss"
     ]
   ],
   "28356035": [
@@ -7981,6 +9741,10 @@
     [
       "HP_0001639",
       "Hypertrophic cardiomyopathy"
+    ],
+    [
+      "HP_0000478",
+      "Abnormality of the eye"
     ]
   ],
   "28391514": [],
@@ -7996,6 +9760,10 @@
     [
       "HP_0000020",
       "Urinary incontinence"
+    ],
+    [
+      "HP_0000112",
+      "Nephropathy"
     ]
   ],
   "28391978": [
@@ -8017,6 +9785,14 @@
     [
       "HP_0001635",
       "Congestive heart failure"
+    ],
+    [
+      "HP_0001712",
+      "Left ventricular hypertrophy"
+    ],
+    [
+      "HP_0004756",
+      "Ventricular tachycardia"
     ]
   ],
   "28397323": [],
@@ -8112,7 +9888,12 @@
     ]
   ],
   "28440461": [],
-  "28442401": [],
+  "28442401": [
+    [
+      "HP_0002592",
+      "Gastric ulcer"
+    ]
+  ],
   "28442859": [],
   "28445938": [],
   "28447586": [
@@ -8222,6 +10003,10 @@
     [
       "HP_0001649",
       "Tachycardia"
+    ],
+    [
+      "HP_0001658",
+      "Myocardial infarction"
     ]
   ],
   "28501028": [
@@ -8232,12 +10017,20 @@
     [
       "HP_0002721",
       "Immunodeficiency"
+    ],
+    [
+      "HP_0002665",
+      "Lymphoma"
     ]
   ],
   "28503387": [
     [
       "HP_0040277",
       "Neoplasm of the pituitary gland"
+    ],
+    [
+      "HP_0002664",
+      "Neoplasm"
     ]
   ],
   "28508329": [],

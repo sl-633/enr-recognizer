@@ -104,6 +104,10 @@
     [
       "HP_0034912",
       "Elevated circulating apolipoprotein E concentration"
+    ],
+    [
+      "HP_0034911",
+      "Decreased circulating apolipoprotein E concentration"
     ]
   ],
   "27196563": [
@@ -221,6 +225,10 @@
     [
       "HP_0025201",
       "Abnormal circulating apolipoprotein concentration"
+    ],
+    [
+      "HP_0003119",
+      "Abnormal circulating lipid concentration"
     ]
   ],
   "27236596": [
@@ -472,6 +480,10 @@
     [
       "HP_0100242",
       "Sarcoma"
+    ],
+    [
+      "HP_0010735",
+      "Polyostotic fibrous dysplasia"
     ]
   ],
   "27256491": [
@@ -610,6 +622,10 @@
     [
       "HP_0045082",
       "Decreased body mass index"
+    ],
+    [
+      "HP_0041079",
+      "Decreased body fat percentage"
     ]
   ],
   "27282214": [],
@@ -769,12 +785,24 @@
     [
       "HP_0041118",
       "Fractured upper limb segment"
+    ],
+    [
+      "HP_0020110",
+      "Bone fracture"
     ]
   ],
   "27312152": [
     [
       "HP_0025497",
       "Coronary artery spasm"
+    ],
+    [
+      "HP_0001658",
+      "Myocardial infarction"
+    ],
+    [
+      "HP_0033678",
+      "Acute coronary syndrome"
     ]
   ],
   "27312275": [],
@@ -834,6 +862,10 @@
     [
       "HP_0000543",
       "Optic disc pallor"
+    ],
+    [
+      "HP_0007685",
+      "Peripheral retinal avascularization"
     ]
   ],
   "27337992": [],
@@ -911,6 +943,10 @@
     [
       "HP_0030431",
       "Osteochondroma"
+    ],
+    [
+      "HP_0100773",
+      "Cartilage destruction"
     ]
   ],
   "27351590": [],
@@ -1045,6 +1081,10 @@
     [
       "HP_0012532",
       "Chronic pain"
+    ],
+    [
+      "HP_0007021",
+      "Pain insensitivity"
     ]
   ],
   "27383575": [
@@ -1073,6 +1113,10 @@
     [
       "HP_0004320",
       "Vaginal fistula"
+    ],
+    [
+      "HP_0100590",
+      "Rectal fistula"
     ]
   ],
   "27384243": [
@@ -1167,6 +1211,14 @@
     [
       "HP_0020219",
       "Motor seizure"
+    ],
+    [
+      "HP_0002266",
+      "Focal clonic seizure"
+    ],
+    [
+      "HP_0011153",
+      "Focal motor seizure"
     ]
   ],
   "27395784": [
@@ -1260,11 +1312,20 @@
     [
       "HP_0100013",
       "Neoplasm of the breast"
+    ],
+    [
+      "HP_0000769",
+      "Abnormality of the breast"
     ]
   ],
   "27409663": [],
   "27411493": [],
-  "27412144": [],
+  "27412144": [
+    [
+      "HP_0012474",
+      "Carotid artery occlusion"
+    ]
+  ],
   "27412526": [
     [
       "HP_0007328",
@@ -1307,6 +1368,10 @@
     [
       "HP_5200341",
       "Addictive cannabis use"
+    ],
+    [
+      "HP_0000722",
+      "Compulsive behaviors"
     ]
   ],
   "27423282": [],
@@ -1516,6 +1581,10 @@
     [
       "HP_0100854",
       "Aplasia of the musculature"
+    ],
+    [
+      "HP_0007344",
+      "Atrophy/Degeneration involving the spinal cord"
     ]
   ],
   "27463423": [
@@ -1901,7 +1970,12 @@
       "Specific learning disability"
     ]
   ],
-  "27515307": [],
+  "27515307": [
+    [
+      "HP_0025636",
+      "Endometritis"
+    ]
+  ],
   "27515958": [
     [
       "HP_0001397",
@@ -1926,6 +2000,10 @@
     [
       "HP_0001399",
       "Hepatic failure"
+    ],
+    [
+      "HP_0031865",
+      "Abnormal liver physiology"
     ]
   ],
   "27516356": [],
@@ -2164,6 +2242,10 @@
     [
       "HP_5200310",
       "Diminishment of social interactions"
+    ],
+    [
+      "HP_0025732",
+      "Abnormal social development"
     ]
   ],
   "27545829": [
@@ -2172,9 +2254,19 @@
       "Weight loss"
     ]
   ],
-  "27546724": [],
+  "27546724": [
+    [
+      "HP_0033688",
+      "Long term memory impairment"
+    ]
+  ],
   "27547432": [],
-  "27548895": [],
+  "27548895": [
+    [
+      "HP_0000646",
+      "Amblyopia"
+    ]
+  ],
   "27550556": [
     [
       "HP_0000750",
@@ -2499,6 +2591,10 @@
     [
       "HP_6000566",
       "Elevated circulating lipoprotein X concentration"
+    ],
+    [
+      "HP_0010979",
+      "Abnormality of lipoprotein cholesterol concentration"
     ]
   ],
   "27577581": [],
@@ -2677,6 +2773,10 @@
     [
       "HP_0003756",
       "Skeletal myopathy"
+    ],
+    [
+      "HP_0003458",
+      "EMG: myopathic abnormalities"
     ]
   ],
   "27608043": [],
@@ -2892,6 +2992,14 @@
     [
       "HP_0000429",
       "Abnormal morphology of the nasal alae"
+    ],
+    [
+      "HP_0011323",
+      "Cleft of chin"
+    ],
+    [
+      "HP_0000418",
+      "Narrow nasal ridge"
     ]
   ],
   "27618260": [],
@@ -3088,6 +3196,10 @@
     [
       "HP_0032222",
       "Serrated intestinal polyps"
+    ],
+    [
+      "HP_0030255",
+      "Large intestinal polyposis"
     ]
   ],
   "27646508": [],
@@ -3454,6 +3566,10 @@
     [
       "HP_0030499",
       "Macular drusen"
+    ],
+    [
+      "HP_0011510",
+      "Drusen"
     ]
   ],
   "27697674": [],
@@ -3832,6 +3948,10 @@
     [
       "HP_0001511",
       "Intrauterine growth retardation"
+    ],
+    [
+      "HP_0033042",
+      "Abnormal chorion morphology"
     ]
   ],
   "27742195": [],
@@ -3903,9 +4023,18 @@
     [
       "HP_0012532",
       "Chronic pain"
+    ],
+    [
+      "HP_0002829",
+      "Arthralgia"
     ]
   ],
-  "27753194": [],
+  "27753194": [
+    [
+      "HP_0001410",
+      "Decreased liver function"
+    ]
+  ],
   "27754198": [
     [
       "HP_0002153",
@@ -4516,6 +4645,10 @@
     [
       "HP_0011793",
       "Neoplasm by anatomical site"
+    ],
+    [
+      "HP_0011792",
+      "Neoplasm by histology"
     ]
   ],
   "27852582": [
@@ -4655,6 +4788,10 @@
     [
       "HP_6001269",
       "Choledocholithiasis"
+    ],
+    [
+      "HP_0100575",
+      "Neoplasm of the gallbladder"
     ]
   ],
   "27876505": [
@@ -4695,6 +4832,10 @@
     [
       "HP_0004430",
       "Severe combined immunodeficiency"
+    ],
+    [
+      "HP_0002961",
+      "Dysgammaglobulinemia"
     ]
   ],
   "27881160": [],
@@ -4775,6 +4916,10 @@
     [
       "HP_0030893",
       "Abnormal response to short acting pulmonary vasodilator"
+    ],
+    [
+      "HP_0030967",
+      "Abnormal pulmonary artery physiology"
     ]
   ],
   "27890602": [
@@ -4847,7 +4992,12 @@
       "Addictive opioid use"
     ]
   ],
-  "27895981": [],
+  "27895981": [
+    [
+      "HP_0500081",
+      "Pseudophakia"
+    ]
+  ],
   "27896785": [
     [
       "HP_0000726",
@@ -4903,6 +5053,10 @@
     [
       "HP_0030157",
       "Flank pain"
+    ],
+    [
+      "HP_6000363",
+      "Flank mass"
     ]
   ],
   "27904771": [
@@ -5082,7 +5236,12 @@
   "27919735": [],
   "27920091": [],
   "27920399": [],
-  "27920636": [],
+  "27920636": [
+    [
+      "HP_0033052",
+      "Non-epileptic seizure"
+    ]
+  ],
   "27921577": [],
   "27922979": [],
   "27923741": [],
@@ -5110,6 +5269,10 @@
     [
       "HP_6000546",
       "Positive human Immunodeficiency virus nucleic acid test in the blood circulation"
+    ],
+    [
+      "HP_0031696",
+      "Disseminated viral infection"
     ]
   ],
   "27928393": [
@@ -5229,6 +5392,10 @@
     [
       "HP_0000622",
       "Blurred vision"
+    ],
+    [
+      "HP_0007754",
+      "Macular dystrophy"
     ]
   ],
   "27931296": [],
@@ -5395,6 +5562,18 @@
     [
       "HP_0000325",
       "Triangular face"
+    ],
+    [
+      "HP_0009940",
+      "Asymmetry of the mandible"
+    ],
+    [
+      "HP_0000689",
+      "Dental malocclusion"
+    ],
+    [
+      "HP_0000272",
+      "Malar flattening"
     ]
   ],
   "27977731": [
@@ -5409,6 +5588,14 @@
     [
       "HP_0100662",
       "Chondritis"
+    ],
+    [
+      "HP_0003040",
+      "Arthropathy"
+    ],
+    [
+      "HP_0005086",
+      "Knee osteoarthritis"
     ]
   ],
   "27978525": [],
@@ -5660,6 +5847,14 @@
     [
       "HP_0005168",
       "Elevated right atrial pressure"
+    ],
+    [
+      "HP_0033119",
+      "Elevated right ventricular systolic pressure"
+    ],
+    [
+      "HP_0001667",
+      "Right ventricular hypertrophy"
     ]
   ],
   "28026871": [
@@ -5684,6 +5879,10 @@
     [
       "HP_5200335",
       "Addictive sex behavior"
+    ],
+    [
+      "HP_0030858",
+      "Addictive behavior"
     ]
   ],
   "28028852": [],
@@ -5708,7 +5907,12 @@
   ],
   "28040133": [],
   "28040320": [],
-  "28040771": [],
+  "28040771": [
+    [
+      "HP_0100584",
+      "Endocarditis"
+    ]
+  ],
   "28041316": [
     [
       "HP_0003401",
@@ -5887,6 +6091,10 @@
     [
       "HP_0410043",
       "Abnormal neural tube morphology"
+    ],
+    [
+      "HP_0010301",
+      "Spinal dysraphism"
     ]
   ],
   "28084988": [
@@ -5937,6 +6145,10 @@
     [
       "HP_0007898",
       "Exudative retinopathy"
+    ],
+    [
+      "HP_0001147",
+      "Retinal exudate"
     ]
   ],
   "28087508": [],
@@ -5967,6 +6179,10 @@
     [
       "HP_0012740",
       "Papilloma"
+    ],
+    [
+      "HP_0030417",
+      "Squamous cell carcinoma of the vulva"
     ]
   ],
   "28089587": [
@@ -6134,6 +6350,10 @@
     [
       "HP_0025568",
       "Abnormal morphology of the choroidal vasculature"
+    ],
+    [
+      "HP_0001135",
+      "Chorioretinal dystrophy"
     ]
   ],
   "28101482": [
@@ -6179,6 +6399,10 @@
     [
       "HP_0005162",
       "Abnormal left ventricular function"
+    ],
+    [
+      "HP_0001711",
+      "Abnormal left ventricle morphology"
     ]
   ],
   "28108610": [],
@@ -6190,6 +6414,10 @@
     [
       "HP_0041085",
       "Compression-fractured vertebra"
+    ],
+    [
+      "HP_0000938",
+      "Osteopenia"
     ]
   ],
   "28109317": [
@@ -6233,6 +6461,10 @@
     [
       "HP_0031432",
       "Restricted or repetitive behaviors or interests"
+    ],
+    [
+      "HP_0004305",
+      "Involuntary movements"
     ]
   ],
   "28110975": [
@@ -6323,7 +6555,12 @@
       "Abnormality of redox activity"
     ]
   ],
-  "28116177": [],
+  "28116177": [
+    [
+      "HP_0012316",
+      "Fibrous tissue neoplasm"
+    ]
+  ],
   "28118773": [
     [
       "HP_0400007",
@@ -6594,7 +6831,12 @@
     ]
   ],
   "28148284": [],
-  "28153157": [],
+  "28153157": [
+    [
+      "HP_0100963",
+      "Hyperesthesia"
+    ]
+  ],
   "28153522": [],
   "28153991": [],
   "28157688": [],
@@ -6664,7 +6906,12 @@
       "Feeding difficulties"
     ]
   ],
-  "28163288": [],
+  "28163288": [
+    [
+      "HP_0032564",
+      "Ileitis"
+    ]
+  ],
   "28163489": [],
   "28165368": [],
   "28165762": [],
@@ -6706,6 +6953,10 @@
     [
       "HP_0100787",
       "Prostate neoplasm"
+    ],
+    [
+      "HP_0030078",
+      "Lung adenocarcinoma"
     ]
   ],
   "28166728": [
@@ -6831,14 +7082,24 @@
       "Abnormal prostate morphology"
     ]
   ],
-  "28187742": [],
+  "28187742": [
+    [
+      "HP_0002180",
+      "Neurodegeneration"
+    ]
+  ],
   "28189277": [
     [
       "HP_0200058",
       "Angiosarcoma"
     ]
   ],
-  "28189379": [],
+  "28189379": [
+    [
+      "HP_0033031",
+      "Hyperpyrexia"
+    ]
+  ],
   "28190759": [],
   "28191544": [],
   "28191654": [],
@@ -7053,6 +7314,10 @@
     [
       "HP_0003241",
       "External genital hypoplasia"
+    ],
+    [
+      "HP_0000134",
+      "Female hypogonadism"
     ]
   ],
   "28209658": [
@@ -7172,6 +7437,10 @@
     [
       "HP_0034903",
       "Decreased circulating calcitonin concentration"
+    ],
+    [
+      "HP_0000828",
+      "Abnormality of the parathyroid gland"
     ]
   ],
   "28214898": [
@@ -7262,7 +7531,12 @@
     ]
   ],
   "28228055": [],
-  "28229071": [],
+  "28229071": [
+    [
+      "HP_0002385",
+      "Paraparesis"
+    ]
+  ],
   "28231426": [],
   "28231967": [],
   "28232384": [
@@ -7593,6 +7867,10 @@
     [
       "HP_0011792",
       "Neoplasm by histology"
+    ],
+    [
+      "HP_0030063",
+      "Neuroepithelial neoplasm"
     ]
   ],
   "28270172": [
@@ -7787,6 +8065,10 @@
     [
       "HP_0031411",
       "Abnormal chromosome morphology"
+    ],
+    [
+      "HP_0031515",
+      "Abnormal meiosis"
     ]
   ],
   "28290106": [],
@@ -7950,7 +8232,12 @@
       "Airway hyperresponsiveness"
     ]
   ],
-  "28319438": [],
+  "28319438": [
+    [
+      "HP_0006892",
+      "Frontotemporal cerebral atrophy"
+    ]
+  ],
   "28320521": [
     [
       "HP_0012732",
@@ -8081,6 +8368,10 @@
     [
       "HP_0002958",
       "Immune dysregulation"
+    ],
+    [
+      "HP_0032251",
+      "Abnormal immune system morphology"
     ]
   ],
   "28340104": [
@@ -8185,6 +8476,14 @@
     [
       "HP_0000707",
       "Abnormality of the nervous system"
+    ],
+    [
+      "HP_0033035",
+      "Abnormal Schwann cell morphology"
+    ],
+    [
+      "HP_0000764",
+      "Peripheral axonal degeneration"
     ]
   ],
   "28350368": [],
@@ -8317,6 +8616,10 @@
     [
       "HP_0100009",
       "Intracranial meningioma"
+    ],
+    [
+      "HP_0009733",
+      "Glioma"
     ]
   ],
   "28373747": [],
@@ -8339,6 +8642,10 @@
     [
       "HP_0008069",
       "Neoplasm of the skin"
+    ],
+    [
+      "HP_0100013",
+      "Neoplasm of the breast"
     ]
   ],
   "28382143": [],
@@ -8449,6 +8756,10 @@
     [
       "HP_0025792",
       "Abnormal cognitive process"
+    ],
+    [
+      "HP_0001268",
+      "Mental deterioration"
     ]
   ],
   "28394851": [],
@@ -8479,6 +8790,10 @@
     [
       "HP_0000789",
       "Infertility"
+    ],
+    [
+      "HP_0008222",
+      "Female infertility"
     ]
   ],
   "28399833": [
@@ -8552,6 +8867,10 @@
     [
       "HP_0000150",
       "Gonadoblastoma"
+    ],
+    [
+      "HP_0032404",
+      "Testicular mass"
     ]
   ],
   "28406285": [
@@ -8657,6 +8976,10 @@
     [
       "HP_4000093",
       "Ectopic tooth eruption"
+    ],
+    [
+      "HP_0011070",
+      "Abnormal molar morphology"
     ]
   ],
   "28416098": [],
@@ -8791,6 +9114,10 @@
     [
       "HP_0030943",
       "Vulvodynia"
+    ],
+    [
+      "HP_0012784",
+      "Perinephritis"
     ]
   ],
   "28430891": [
@@ -8905,6 +9232,14 @@
     [
       "HP_0030611",
       "Retinal pigment epithelial loss on macular OCT"
+    ],
+    [
+      "HP_0012045",
+      "Retinal flecks"
+    ],
+    [
+      "HP_0012230",
+      "Rhegmatogenous retinal detachment"
     ]
   ],
   "28435583": [
@@ -8989,7 +9324,12 @@
       "Methicillin-resistant Staphylococcus aureus infection"
     ]
   ],
-  "28438975": [],
+  "28438975": [
+    [
+      "HP_0000999",
+      "Pyoderma"
+    ]
+  ],
   "28439925": [],
   "28441459": [],
   "28446633": [],
@@ -9232,6 +9572,10 @@
     [
       "HP_0003537",
       "Hypouricemia"
+    ],
+    [
+      "HP_0001997",
+      "Gout"
     ]
   ],
   "28462513": [
@@ -9304,6 +9648,10 @@
     [
       "HP_0020219",
       "Motor seizure"
+    ],
+    [
+      "HP_0200134",
+      "Epileptic encephalopathy"
     ]
   ],
   "28464554": [],
@@ -9375,6 +9723,14 @@
     [
       "HP_0011484",
       "Posterior synechiae of the anterior chamber"
+    ],
+    [
+      "HP_0011483",
+      "Anterior synechiae of the anterior chamber"
+    ],
+    [
+      "HP_0000563",
+      "Keratoconus"
     ]
   ],
   "28469721": [
@@ -9523,7 +9879,12 @@
       "Functional abnormality of the bladder"
     ]
   ],
-  "28484250": [],
+  "28484250": [
+    [
+      "HP_0000716",
+      "Depression"
+    ]
+  ],
   "28486232": [],
   "28487075": [],
   "28487334": [
@@ -9550,7 +9911,12 @@
       "Lung adenocarcinoma"
     ]
   ],
-  "28500879": [],
+  "28500879": [
+    [
+      "HP_6001125",
+      "Skin laceration"
+    ]
+  ],
   "28501443": [],
   "28502074": [],
   "28503759": [
@@ -9628,6 +9994,10 @@
     [
       "HP_0012647",
       "Abnormal inflammatory response"
+    ],
+    [
+      "HP_0034784",
+      "Vasculitis by anatomical site"
     ]
   ],
   "28515354": [
@@ -9716,6 +10086,10 @@
     [
       "HP_0032169",
       "Severe infection"
+    ],
+    [
+      "HP_0031864",
+      "Bacteremia"
     ]
   ],
   "28527621": [
@@ -9864,6 +10238,10 @@
     [
       "HP_0003141",
       "Increased LDL cholesterol concentration"
+    ],
+    [
+      "HP_0025201",
+      "Abnormal circulating apolipoprotein concentration"
     ]
   ],
   "28538498": [
@@ -10127,7 +10505,12 @@
       "Neoplasm of the liver"
     ]
   ],
-  "27240560": [],
+  "27240560": [
+    [
+      "HP_0001824",
+      "Weight loss"
+    ]
+  ],
   "27242761": [],
   "27244222": [
     [
@@ -10449,6 +10832,10 @@
     [
       "HP_0007898",
       "Exudative retinopathy"
+    ],
+    [
+      "HP_0001147",
+      "Retinal exudate"
     ]
   ],
   "27382289": [
@@ -10563,6 +10950,10 @@
     [
       "HP_0004732",
       "Impaired renal uric acid clearance"
+    ],
+    [
+      "HP_0011036",
+      "Abnormality of renal excretion"
     ]
   ],
   "27449508": [
@@ -10778,6 +11169,10 @@
     [
       "HP_0041167",
       "Fractured cervical vertebra"
+    ],
+    [
+      "HP_0003978",
+      "Fractured radius"
     ]
   ],
   "27539962": [],
@@ -11027,6 +11422,10 @@
     [
       "HP_0000364",
       "Hearing abnormality"
+    ],
+    [
+      "HP_0012715",
+      "Profound hearing impairment"
     ]
   ],
   "27632714": [
@@ -11126,6 +11525,10 @@
     [
       "HP_0000682",
       "Abnormal dental enamel morphology"
+    ],
+    [
+      "HP_0200141",
+      "Small, conical teeth"
     ]
   ],
   "27644674": [
@@ -11274,6 +11677,10 @@
     [
       "HP_0001373",
       "Joint dislocation"
+    ],
+    [
+      "HP_0030311",
+      "Lower extremity joint dislocation"
     ]
   ],
   "27720129": [],
@@ -11475,6 +11882,10 @@
     [
       "HP_6001281",
       "Optic nerve sheath dilatation"
+    ],
+    [
+      "HP_0000587",
+      "Abnormal optic nerve morphology"
     ]
   ],
   "27804311": [],
@@ -11812,9 +12223,18 @@
     [
       "HP_0002093",
       "Respiratory insufficiency"
+    ],
+    [
+      "HP_0001642",
+      "Pulmonic stenosis"
     ]
   ],
-  "27995352": [],
+  "27995352": [
+    [
+      "HP_0100013",
+      "Neoplasm of the breast"
+    ]
+  ],
   "27998307": [],
   "28003168": [],
   "28005403": [
@@ -11833,7 +12253,12 @@
       "Non-medullary thyroid carcinoma"
     ]
   ],
-  "28011044": [],
+  "28011044": [
+    [
+      "HP_0009733",
+      "Glioma"
+    ]
+  ],
   "28011408": [],
   "28013377": [],
   "28019021": [],
@@ -12013,6 +12438,10 @@
     [
       "HP_0033687",
       "Short term memory impairment"
+    ],
+    [
+      "HP_0001268",
+      "Mental deterioration"
     ]
   ],
   "28101782": [],
@@ -12242,6 +12671,10 @@
     [
       "HP_0031418",
       "Increased body mass index"
+    ],
+    [
+      "HP_0045082",
+      "Decreased body mass index"
     ]
   ],
   "28240640": [
@@ -12471,6 +12904,10 @@
     [
       "HP_0011793",
       "Neoplasm by anatomical site"
+    ],
+    [
+      "HP_0100834",
+      "Neoplasm of the large intestine"
     ]
   ],
   "28355968": [],
@@ -12507,6 +12944,10 @@
     [
       "HP_0030858",
       "Addictive behavior"
+    ],
+    [
+      "HP_5200329",
+      "Problematic alcohol consumption"
     ]
   ],
   "28379026": [],
@@ -12522,6 +12963,10 @@
     [
       "HP_0002718",
       "Recurrent bacterial infections"
+    ],
+    [
+      "HP_0032326",
+      "Methicillin-resistant Staphylococcus aureus infection"
     ]
   ],
   "28383311": [],
@@ -12752,6 +13197,10 @@
     [
       "HP_0033459",
       "Decreased circulating apolipoprotein concentration"
+    ],
+    [
+      "HP_0002155",
+      "Hypertriglyceridemia"
     ]
   ],
   "28464019": [],
@@ -12780,6 +13229,10 @@
     [
       "HP_0002354",
       "Memory impairment"
+    ],
+    [
+      "HP_0100543",
+      "Cognitive impairment"
     ]
   ],
   "28476271": [
@@ -12820,6 +13273,10 @@
     [
       "HP_0005086",
       "Knee osteoarthritis"
+    ],
+    [
+      "HP_0001369",
+      "Arthritis"
     ]
   ],
   "28501764": [
@@ -13115,6 +13572,10 @@
     [
       "HP_0000123",
       "Nephritis"
+    ],
+    [
+      "HP_0012210",
+      "Abnormal renal morphology"
     ]
   ],
   "27297523": [
@@ -13285,7 +13746,12 @@
       "Open angle glaucoma"
     ]
   ],
-  "27404944": [],
+  "27404944": [
+    [
+      "HP_0011483",
+      "Anterior synechiae of the anterior chamber"
+    ]
+  ],
   "27408381": [],
   "27420620": [
     [
@@ -13393,11 +13859,20 @@
     ]
   ],
   "27461472": [],
-  "27464853": [],
+  "27464853": [
+    [
+      "HP_0011182",
+      "Interictal epileptiform activity"
+    ]
+  ],
   "27465797": [
     [
       "HP_0000112",
       "Nephropathy"
+    ],
+    [
+      "HP_0012214",
+      "Increased glomerular filtration rate"
     ]
   ],
   "27470228": [],
@@ -13421,6 +13896,10 @@
     [
       "HP_0100649",
       "Neoplasm of the oral cavity"
+    ],
+    [
+      "HP_0031021",
+      "Squamous Papilloma"
     ]
   ],
   "27476541": [],
@@ -13784,6 +14263,10 @@
     [
       "HP_0005294",
       "Arterial dissection"
+    ],
+    [
+      "HP_0031649",
+      "Aortic rupture"
     ]
   ],
   "27660194": [],
@@ -13948,6 +14431,10 @@
     [
       "HP_0030075",
       "Ductal carcinoma in situ"
+    ],
+    [
+      "HP_0002664",
+      "Neoplasm"
     ]
   ],
   "27753022": [],
@@ -13984,7 +14471,12 @@
   ],
   "27764968": [],
   "27768206": [],
-  "27768380": [],
+  "27768380": [
+    [
+      "HP_0100754",
+      "Mania"
+    ]
+  ],
   "27772556": [],
   "27773614": [
     [
@@ -14095,6 +14587,14 @@
     [
       "HP_0004297",
       "Abnormality of the biliary system"
+    ],
+    [
+      "HP_6000701",
+      "Elevated urinary bile acid level"
+    ],
+    [
+      "HP_0030984",
+      "Abnormal serum bile acid concentration"
     ]
   ],
   "27796510": [
@@ -14265,6 +14765,10 @@
     [
       "HP_0003312",
       "Abnormal form of the vertebral bodies"
+    ],
+    [
+      "HP_0030304",
+      "Abnormal number of vertebrae"
     ]
   ],
   "27859268": [
@@ -14283,6 +14787,14 @@
     [
       "HP_0100626",
       "Chronic hepatic failure"
+    ],
+    [
+      "HP_0200123",
+      "Chronic hepatitis"
+    ],
+    [
+      "HP_0012115",
+      "Hepatitis"
     ]
   ],
   "27863934": [],
@@ -14423,6 +14935,10 @@
     [
       "HP_0001328",
       "Specific learning disability"
+    ],
+    [
+      "HP_0000708",
+      "Atypical behavior"
     ]
   ],
   "27933664": [],
@@ -14454,6 +14970,10 @@
     [
       "HP_0005987",
       "Multinodular goiter"
+    ],
+    [
+      "HP_0008249",
+      "Thyroid hyperplasia"
     ]
   ],
   "27975020": [],
@@ -14482,6 +15002,10 @@
     [
       "HP_0200063",
       "Colorectal polyposis"
+    ],
+    [
+      "HP_0100273",
+      "Neoplasm of the colon"
     ]
   ],
   "27999200": [
@@ -14600,6 +15124,10 @@
     [
       "HP_0041081",
       "Fractured lower leg"
+    ],
+    [
+      "HP_0041117",
+      "Fractured lower limb segment"
     ]
   ],
   "28095477": [],
@@ -14692,6 +15220,10 @@
     [
       "HP_0031434",
       "Abnormal prosody"
+    ],
+    [
+      "HP_0011443",
+      "Abnormality of coordination"
     ]
   ],
   "28129238": [
@@ -14783,7 +15315,12 @@
     ]
   ],
   "28168514": [],
-  "28186729": [],
+  "28186729": [
+    [
+      "HP_0003791",
+      "Deposits immunoreactive to beta-amyloid protein"
+    ]
+  ],
   "28192171": [],
   "28193256": [
     [
@@ -15194,6 +15731,14 @@
     [
       "HP_0030615",
       "Foveal photoreceptor outer segment loss on macular OCT"
+    ],
+    [
+      "HP_0025574",
+      "Macular hemorrhage"
+    ],
+    [
+      "HP_0500087",
+      "Peripapillary atrophy"
     ]
   ],
   "28331620": [
@@ -15472,6 +16017,14 @@
     [
       "HP_0006483",
       "Abnormal number of teeth"
+    ],
+    [
+      "HP_0000677",
+      "Oligodontia"
+    ],
+    [
+      "HP_0006333",
+      "Crowded maxillary incisors"
     ]
   ],
   "28389374": [
@@ -15661,6 +16214,10 @@
     [
       "HP_0045081",
       "Abnormality of body mass index"
+    ],
+    [
+      "HP_0001824",
+      "Weight loss"
     ]
   ],
   "28429500": [],
@@ -15697,6 +16254,10 @@
     [
       "HP_0030692",
       "Brain neoplasm"
+    ],
+    [
+      "HP_0033680",
+      "Pilocytic astrocytoma"
     ]
   ],
   "28442401": [
@@ -15786,7 +16347,12 @@
       "Osteoarthritis"
     ]
   ],
-  "28470100": [],
+  "28470100": [
+    [
+      "HP_0000713",
+      "Agitation"
+    ]
+  ],
   "28471656": [
     [
       "HP_0003002",
