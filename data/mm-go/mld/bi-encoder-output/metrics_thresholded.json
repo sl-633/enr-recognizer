@@ -2,7 +2,7 @@
   "mode": "thresholded",
   "topk": 100,
   "with_score": true,
-  "threshold_tuned_on_dev": 0.5492725501130352,
+  "threshold_tuned_on_dev": 0.5492721796035767,
   "dev_threshold_stats": {
     "P": 0.19425287356321838,
     "R": 0.21338383838383837,
